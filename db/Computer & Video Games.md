@@ -207,69 +207,69 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 193|![193](cvg/193.png)||December 1997|1997-11-12|2.50GBP|9770261369086-12|Freeplay supplement
 194|![194](cvg/194.png)||January 1998|1997-12-12|1.50GBP|9770261369987-01|Freeplay supplement; Stickers
 195|![195](cvg/195.png)||February 1998|1998-01-14|2.50GBP|9770261369086-02|Freeplay supplement
-195A|![195A](cvg/195A.png)|February 1998|1998-01-14|1.50GBP|9770261369987-02|Freeplay supplement
+195A|![195A](cvg/195A.png)||February 1998|1998-01-14|1.50GBP|9770261369987-02|Freeplay supplement
 196|![196](cvg/196.png)||March 1998|1998-02-11|2.50GBP|9770261369086-03|Freeplay supplement
-196A|![196A](cvg/196A.png)|March 1998|1998-02-11|1.50GBP|9770261369093-03|Freeplay supplement
+196A|![196A](cvg/196A.png)||March 1998|1998-02-11|1.50GBP|9770261369093-03|Freeplay supplement
 197|![197](cvg/197.png)||April 1998|1998-03-11|2.50GBP|9770261369086-04|Freeplay supplement
-197A|![197A](cvg/197A.png)|April 1998|1998-03-11|1.50GBP|9770261369093-04|Freeplay supplement
+197A|![197A](cvg/197A.png)||April 1998|1998-03-11|1.50GBP|9770261369093-04|Freeplay supplement
 198|![198](cvg/198.png)||May 1998|1998-04-15|GBP|9770261369086-05|Freeplay supplement
-198A|![198A](cvg/198A.png)|May 1998|1998-04-15|1.50GBP|9770261369093-05|Freeplay supplement
+198A|![198A](cvg/198A.png)||May 1998|1998-04-15|1.50GBP|9770261369093-05|Freeplay supplement
 199|![199](cvg/199.png)||June 1998|1998-05-13|1.50GBP|9770261369093-06|Freeplay supplement
 200|![200](cvg/200.png)||July 1998|1998-06-10|1.50GBP|9770261369093-07|Freeplay supplement
 201|![201](cvg/201.png)||August 1998|1998-07-15|GBP|9770261369086-08|Freeplay supplement
-201A|![201A](cvg/201A.png)|August 1998|1998-07-15|1.50GBP|9770261369093-08|Freeplay supplement
+201A|![201A](cvg/201A.png)||August 1998|1998-07-15|1.50GBP|9770261369093-08|Freeplay supplement
 202|![202](cvg/202.png)||September 1998|1998-08-12|GBP|9770261369086-09|Freeplay supplement
-202A|![202A](cvg/202A.png)|September 1998|1998-08-12|1.50GBP|9770261369093-09|Freeplay supplement
+202A|![202A](cvg/202A.png)||September 1998|1998-08-12|1.50GBP|9770261369093-09|Freeplay supplement
 203|![203](cvg/203.png)||October 1998|1998-09-16|GBP|9770261369086-10|Freeplay supplement
-203A|![203A](cvg/203A.png)|October 1998|1998-09-16|1.50GBP|9770261369093-10|Freeplay supplement
+203A|![203A](cvg/203A.png)||October 1998|1998-09-16|1.50GBP|9770261369093-10|Freeplay supplement
 204|![204](cvg/204.png)||November 1998|1998-10-14|GBP|9770261369086-11|Freeplay supplement
-204A|![204A](cvg/204A.png)|November 1998|1998-10-14|1.50GBP|9770261369093-11|Freeplay supplement
+204A|![204A](cvg/204A.png)||November 1998|1998-10-14|1.50GBP|9770261369093-11|Freeplay supplement
 205|![205](cvg/205.png)||December 1998|1998-11-11|GBP|9770261369086-12|Freeplay supplement
-205A|![205A](cvg/205A.png)|December 1998|1998-11-11|1.50GBP|9770261369093-12|Freeplay supplement
+205A|![205A](cvg/205A.png)||December 1998|1998-11-11|1.50GBP|9770261369093-12|Freeplay supplement
 206|![206](cvg/206.png)||January 1999|1998-12-09|GBP|9770261369086-01|Freeplay supplement
-206A|![206A](cvg/206A.png)|January 1999|1998-12-09|1.50GBP|9770261369093-01|Freeplay supplement
+206A|![206A](cvg/206A.png)||January 1999|1998-12-09|1.50GBP|9770261369093-01|Freeplay supplement
 207|![207](cvg/207.png)||February 1999|1999-01-13|GBP|9770261369086-02|Freeplay supplement
-207A|![207A](cvg/207A.png)|February 1999|1999-01-13|1.50GBP|9770261369093-02|Freeplay supplement
+207A|![207A](cvg/207A.png)||February 1999|1999-01-13|1.50GBP|9770261369093-02|Freeplay supplement
 208|![208](cvg/208.png)||March 1999|1999-02-17|GBP|9770261369086-03|Freeplay supplement
-208A|![208A](cvg/208A.png)|March 1999|1999-02-17|1.50GBP|9770261369093-03|Freeplay supplement
+208A|![208A](cvg/208A.png)||March 1999|1999-02-17|1.50GBP|9770261369093-03|Freeplay supplement
 209|![209](cvg/209.png)||April 1999|1999-03-17|GBP|9770261369086-04|Freeplay supplement
-209A|![209A](cvg/209A.png)|April 1999|1999-03-17|1.50GBP|9770261369093-04|Freeplay supplement
+209A|![209A](cvg/209A.png)||April 1999|1999-03-17|1.50GBP|9770261369093-04|Freeplay supplement
 210|![210](cvg/210.png)||May 1999|1999-04-14|GBP|9770261369086-05|Freeplay supplement
-210A|![210A](cvg/210A.png)|May 1999|1999-04-14|1.50GBP|9770261369093-05|Freeplay supplement
+210A|![210A](cvg/210A.png)||May 1999|1999-04-14|1.50GBP|9770261369093-05|Freeplay supplement
 211|![211](cvg/211.png)||June 1999|1999-05-12|GBP|9770261369086-06|Freeplay supplement
-211A|![211A](cvg/211A.png)|June 1999|1999-05-12|1.50GBP|9770261369093-06|Freeplay supplement
+211A|![211A](cvg/211A.png)||June 1999|1999-05-12|1.50GBP|9770261369093-06|Freeplay supplement
 212|![212](cvg/212.png)||July 1999|1999-06-16|GBP|9770261369086-07|
-212A|![212A](cvg/212A.png)|July 1999|1999-06-16|1.50GBP|9770261369093-07||
+212A|![212A](cvg/212A.png)||July 1999|1999-06-16|1.50GBP|9770261369093-07||
 213|![213](cvg/213.png)||August 1999|1999-07-14|GBP|9770261369086-08|
-213A|![213A](cvg/213A.png)|August 1999|1999-07-14|1.50GBP|9770261369093-08||
+213A|![213A](cvg/213A.png)||August 1999|1999-07-14|1.50GBP|9770261369093-08||
 214|![214](cvg/214.png)||September 1999|1999-08-11|GBP|9770261369086-09|
-214A|![214A](cvg/214A.png)|September 1999|1999-08-11|1.50GBP|9770261369093-09|
+214A|![214A](cvg/214A.png)||September 1999|1999-08-11|1.50GBP|9770261369093-09|
 215|![215](cvg/215.png)||October 1999|1999-09-15|GBP|9770261369086-10|
-215A|![215A](cvg/215A.png)|October 1999|1999-09-15|1.50GBP|9770261369093-10||
+215A|![215A](cvg/215A.png)||October 1999|1999-09-15|1.50GBP|9770261369093-10||
 216|![216](cvg/216.png)||November 1999|1999-10-13|GBP|9770261369086-11|
-216A|![216A](cvg/216A.png)|November 1999|1999-10-13|1.99GBP|9770261369109-11||
+216A|![216A](cvg/216A.png)||November 1999|1999-10-13|1.99GBP|9770261369109-11||
 217|![217](cvg/217.png)||December 1999|1999-11-xx|GBP|9770261369086-12|Temporary tattoos
-217A|![217A](cvg/217A.png)|December 1999|1999-11-xx|1.99GBP|9770261369109-12|Temporary tattoos
+217A|![217A](cvg/217A.png)||December 1999|1999-11-xx|1.99GBP|9770261369109-12|Temporary tattoos
 218|![218](cvg/218.png)||January 2000|1999-12-15|GBP|9770261369086-01|Calendar
-218A|![218A](cvg/218A.png)|January 2000|1999-12-15|1.99GBP|9770261369109-01|Calendar
+218A|![218A](cvg/218A.png)||January 2000|1999-12-15|1.99GBP|9770261369109-01|Calendar
 219|![219](cvg/219.png)||February 2000|2000-01-19|GBP|9770261369086-02|PlayStation 2 cardboard model kit
-219A|![219A](cvg/219A.png)|February 2000|2000-01-19|1.99GBP|9770261369109-02|PlayStation 2 cardboard model kit
+219A|![219A](cvg/219A.png)||February 2000|2000-01-19|1.99GBP|9770261369109-02|PlayStation 2 cardboard model kit
 220|![220](cvg/220.png)||March 2000|2000-02-16|GBP|9770261369086-03|Chocolate
-220A|![220A](cvg/220A.png)|March 2000|2000-02-16|1.99GBP|9770261369109-03|Chocolate
+220A|![220A](cvg/220A.png)||March 2000|2000-02-16|1.99GBP|9770261369109-03|Chocolate
 221|![221](cvg/221.png)||April 2000|2000-03-15|1.99GBP|9770261369109-04|Trading cards
 222|![222](cvg/222.png)||May 2000|2000-04-xx|GBP|9770261369086-05|Poster
-222A|![222A](cvg/222A.png)|May 2000|2000-04-xx|1.99GBP|9770261369109-05|Poster
+222A|![222A](cvg/222A.png)||May 2000|2000-04-xx|1.99GBP|9770261369109-05|Poster
 223|![223](cvg/223.png)||June 2000|2000-05-17|GBP|9770261369086-06|Mini board game
-223A|![223A](cvg/223A.png)|June 2000|2000-05-17|1.99GBP|9770261369109-06|Mini board game
+223A|![223A](cvg/223A.png)||June 2000|2000-05-17|1.99GBP|9770261369109-06|Mini board game
 224|![224](cvg/224.png)||July 2000|2000-06-14|GBP|9770261369086-07|Stickers
-224A|![224A](cvg/224A.png)|July 2000|2000-06-14|1.99GBP|9770261369109-07|Stickers
+224A|![224A](cvg/224A.png)||July 2000|2000-06-14|1.99GBP|9770261369109-07|Stickers
 225|![225](cvg/225.png)||August 2000|2000-07-12|GBP|9770261369086-08|
-225A|![225A](cvg/225A.png)|August 2000|2000-07-12|2.50GBP|9770261369116-08||
+225A|![225A](cvg/225A.png)||August 2000|2000-07-12|2.50GBP|9770261369116-08||
 226|![226](cvg/226.png)||September 2000|2000-08-16|GBP|9770261369086-09|Beachball
-226A|![226A](cvg/226A.png)|September 2000|2000-08-16|2.50GBP|9770261369116-09|Beachball
+226A|![226A](cvg/226A.png)||September 2000|2000-08-16|2.50GBP|9770261369116-09|Beachball
 227|![227](cvg/227.png)||October 2000|2000-09-13|GBP|9770261369086-10|Trading cards
 228|![228](cvg/228.png)||November 2000|2000-10-11|GBP|9770261369086-11|Calendar
-228A|![228A](cvg/228A.png)|November 2000|2000-10-11|2.50GBP|9770261369116-11|Calendar
+228A|![228A](cvg/228A.png)||November 2000|2000-10-11|2.50GBP|9770261369116-11|Calendar
 229|![229](cvg/229.png)||December 2000|2000-11-15|2.50GBP|9770261369116-12|Cards
 230|![230](cvg/230.png)||January 2001|2000-12-13|2.50GBP|9770261369116-01|Tips book
 231|![231](cvg/231.png)||February 2001|2001-01-17|2.80GBP|9770261369123-02|Tips book
@@ -277,16 +277,16 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 233|![233](cvg/233.png)||April 2001|2001-03-15|2.80GBP|9770261369123-04|Tips book
 234|![234](cvg/234.png)||May 2001|2001-xx-xx|2.80GBP|9770261369123-05|Tips book
 235|![235](cvg/235.png)||June 2001|2001-xx-xx|2.80GBP|9770261369123-06|Tips book
-236|![236](cvg/236.png)||July 2001|2001-xx-xx|GBP||
+236|![236](cvg/236.png)||July 2001|2001-xx-xx|2.80GBP|9770261369123-07|
 237|![237](cvg/237.png)||August 2001|2001-xx-xx|2.80GBP|9770261369123-08|
 238|![238](cvg/238.png)||September 2001|2001-08-xx|2.80GBP|9770261369123-09|
 239|![239](cvg/239.png)||October 2001|2001-09-xx|2.80GBP|9770261369123-10|
 240|![240](cvg/240.png)||November 2001|2001-10-25|2.80GBP|9770261369123-11|
-241|![241](cvg/241.png)||xxxx xxxx|2001-11-22|GBP||
-242|![242](cvg/242.png)||xxxx xxxx|200x-xx-xx|GBP||
-243|![243](cvg/243.png)||xxxx xxxx|200x-xx-xx|GBP||
-244|![244](cvg/244.png)||xxxx xxxx|200x-xx-xx|GBP||
-245|![245](cvg/245.png)||xxxx xxxx|200x-xx-xx|GBP||
+241|![241](cvg/241.png)||xxxx xxxx|2001-11-22|2.80GBP|9770261369123-12|
+242|![242](cvg/242.png)||Jan|200x-xx-xx|2.80GBP|9770261369123-01|
+243|![243](cvg/243.png)||Feb|200x-xx-xx|2.80GBP|9770261369123-02|
+244|![244](cvg/244.png)||Mar|200x-xx-xx|2.80GBP|9770261369123-03|
+245|![245](cvg/245.png)||April|200x-xx-xx|2.80GBP|9770261369123-04|
 246|![246](cvg/246.png)||May 2002|2002-04-xx|2.80GBP|
 247|![247](cvg/247.png)||June 2002|2002-05-09|2.80GBP|9770261369123-06|
 248|![248](cvg/248.png)||xxxx xxxx|200x-xx-xx|GBP||

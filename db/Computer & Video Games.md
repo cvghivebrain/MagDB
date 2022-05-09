@@ -13,7 +13,7 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ----- | ---- | ---------- | ----------- | ----- | ------- | ------
 1|![1](cvg/001.png)|[🔗][1]|November 1981|1981-xx-xx|0.75GBP||
 2|![2](cvg/002.png)|[🔗][2]|December 1981|1981-11-18|0.75GBP||
-3|![3](cvg/003.png)|[🔗][3]|January 1982|1981-12-16|0.75GBP||
+3|![3](cvg/003.png)|[🔗][3]|January 1982|1981-12-16|0.75GBP||![3](cvg/003e.png) Computer & Video Centre supplement [🔗][3e]
 4|![4](cvg/004.png)|[🔗][4]|February 1982|1982-01-16|0.75GBP||
 5|![5](cvg/005.png)|[🔗][5]|March 1982|1982-02-16|0.75GBP||
 6|![6](cvg/006.png)|[🔗][6]|April 1982|1982-03-16|0.75GBP||
@@ -26,43 +26,43 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 13|![13](cvg/013.png)|[🔗][13]|November 1982|1982-10-16|0.75GBP||
 14|![14](cvg/014.png)|[🔗][14]|December 1982|1982-11-16|0.75GBP||
 15|![15](cvg/015.png)|[🔗][15]|January 1983|1982-12-16|0.75GBP||
-16|![16](cvg/016.png)|[🔗][16]|February 1983|1983-01-16|0.75GBP||The Book of Games supplement
-17|![17](cvg/017.png)|[🔗][17]|March 1983|1983-02-16|0.75GBP||Book of Reviews supplement
+16|![16](cvg/016.png)|[🔗][16]|February 1983|1983-01-16|0.75GBP||![16](cvg/016e.png) The Book of Games supplement [🔗][16e]
+17|![17](cvg/017.png)|[🔗][17]|March 1983|1983-02-16|0.75GBP||![17](cvg/017e.png) Book of Reviews supplement [🔗][17e]
 18|![18](cvg/018.png)|[🔗][18]|April 1983|1983-03-16|0.75GBP||
 19|![19](cvg/019.png)|[🔗][19]|May 1983|1983-04-16|0.75GBP||
-20|![20](cvg/020.png)|[🔗][20]|June 1983|1983-05-16|0.75GBP||The Book of Video Games supplement
+20|![20](cvg/020.png)|[🔗][20]|June 1983|1983-05-16|0.75GBP||![20](cvg/020e.png) The Book of Video Games supplement [🔗][20e]
 21|![21](cvg/021.png)|[🔗][21]|July 1983|1983-06-16|0.75GBP||
 22|![22](cvg/022.png)|[🔗][22]|August 1983|1983-07-16|0.75GBP||
 23|![23](cvg/023.png)|[🔗][23]|September 1983|1983-08-16|0.75GBP||
 24|![24](cvg/024.png)|[🔗][24]|October|1983-09-16|0.85GBP||
 25|![25](cvg/025.png)|[🔗][25]|November 1983|1983-10-16|0.85GBP||Poster calendar
 26|![26](cvg/026.png)|[🔗][26]|December 1983|1983-11-16|0.85GBP||
-27|![27](cvg/027.png)|[🔗][27]|January 1984|1983-12-16|0.85GBP||Book of Adventure supplement
-28|![28](cvg/028.png)|[🔗][28]|February 1984|1984-01-16|0.85GBP||Book of Games supplement
+27|![27](cvg/027.png)|[🔗][27]|January 1984|1983-12-16|0.85GBP||![27](cvg/027e.png) Book of Adventure supplement [🔗][27e]
+28|![28](cvg/028.png)|[🔗][28]|February 1984|1984-01-16|0.85GBP||![28](cvg/028e.png) Book of Games supplement [🔗][28e]
 29|![29](cvg/029.png)|[🔗][29]|March 1984|1984-02-16|0.85GBP||Treachery board game tokens
 30|![30](cvg/030.png)|[🔗][30]|April 1984|1984-03-16|0.85GBP||
 31|![31](cvg/031.png)|[🔗][31]|May 1984|1984-04-16|0.85GBP||
 32|![32](cvg/032.png)|[🔗][32]|June 1984|1984-05-16|0.85GBP||
-33|![33](cvg/033.png)|[🔗][33]|July 1984|1984-06-16|0.85GBP||Book of Games supplement
+33|![33](cvg/033.png)|[🔗][33]|July 1984|1984-06-16|0.85GBP||![33](cvg/033e.png) Book of Games supplement [🔗][33e]
 34|![34](cvg/034.png)|[🔗][34]|August 1984|1984-07-16|0.85GBP||
 35|![35](cvg/035.png)|[🔗][35]|September 1984|1984-08-16|0.85GBP||
 36|![36](cvg/036.png)|[🔗][36]|October 1984|1984-09-16|0.95GBP||
 37|![37](cvg/037.png)|[🔗][37]|November 1984|1984-10-16|0.95GBP||
 38|![38](cvg/038.png)|[🔗][38]|December 1984|1984-11-16|0.95GBP||
 39|![39](cvg/039.png)|[🔗][39]|January 1985|1984-12-16|0.95GBP||
-40|![40](cvg/040.png)|[🔗][40]|February 1985|1985-01-16|0.95GBP||Book of Games supplement
-41|![41](cvg/041.png)|[🔗][41]|March 1985|1985-02-16|0.95GBP||Book of Adventure supplement
+40|![40](cvg/040.png)|[🔗][40]|February 1985|1985-01-16|0.95GBP||![40](cvg/040e.png) Book of Games supplement [🔗][40e]
+41|![41](cvg/041.png)|[🔗][41]|March 1985|1985-02-16|0.95GBP||![41](cvg/041e.png) Book of Adventure supplement [🔗][41e]
 42|![42](cvg/042.png)|[🔗][42]|April 1985|1985-03-16|0.95GBP||
 43|![43](cvg/043.png)|[🔗][43]|May 1985|1985-04-16|0.95GBP||
 44|![44](cvg/044.png)|[🔗][44]|June 1985|1985-05-16|0.95GBP||
-45|![45](cvg/045.png)|[🔗][45]|July 1985|1985-06-16|0.95GBP||Book of Games supplement; Poster
+45|![45](cvg/045.png)|[🔗][45]|July 1985|1985-06-16|0.95GBP||![45](cvg/045e.png) Book of Games supplement [🔗][45e]; Poster
 46|![46](cvg/046.png)|[🔗][46]|August 1985|1985-07-16|0.95GBP||
 47|![47](cvg/047.png)|[🔗][47]|September 1985|1985-08-16|0.95GBP||
 48|![48](cvg/048.png)|[🔗][48]|October 1985|1985-09-16|0.95GBP||Poster
 49|![49](cvg/049.png)|[🔗][49]|November 1985|1985-10-16|0.95GBP||Poster
-50|![50](cvg/050.png)|[🔗][50]|December 1985|1985-11-16|0.95GBP||Book of Adventure supplement
+50|![50](cvg/050.png)|[🔗][50]|December 1985|1985-11-16|0.95GBP||![50](cvg/050e.png) Adventure Supplement [🔗][50e]
 51|![51](cvg/051.png)|[🔗][51]|January 1986|1985-12-16|0.95GBP||Calendar
-52|![52](cvg/052.png)|[🔗][52]|February 1986|1986-01-16|0.95GBP||Book of Games supplement
+52|![52](cvg/052.png)|[🔗][52]|February 1986|1986-01-16|0.95GBP||![52](cvg/052e.png) Book of Games supplement [🔗][52e]
 53|![53](cvg/053.png)|[🔗][53]|March 1986|1986-02-16|0.98GBP||
 54|![54](cvg/054.png)|[🔗][54]|April 1986|1986-03-16|0.98GBP||
 55|![55](cvg/055.png)|[🔗][55]|May 1986|1986-04-16|0.98GBP||Software World catalogue
@@ -86,7 +86,7 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 73|![73](cvg/073.png)|[🔗][73]|Nov 87|1987-10-15|1.00GBP||Poster
 74|![74](cvg/074.png)|[🔗][74]|Dec 87|1987-11-15|1.00GBP||
 75|![75](cvg/075.png)|[🔗][75]|Jan 88|1987-12-15|1.00GBP||Poster
-76|![76](cvg/076.png)|[🔗][76]|Feb 88|1988-01-15|1.00GBP||
+76|![76](cvg/076.png)|[🔗][76]|Feb 88|1988-01-15|1.00GBP||![76](cvg/076e.png) Arcade Action Extra supplement [🔗][76e]
 77|![77](cvg/077.png)|[🔗][77]|Mar 88|1988-02-15|1.10GBP||Poster
 78|![78](cvg/078.png)|[🔗][78]|Apr 88|1988-03-15|1.10GBP||
 79|![79](cvg/079.png)|[🔗][79]|May 88|1988-04-15|1.10GBP||Badge; Poster
@@ -96,7 +96,7 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 83|![83](cvg/083.png)|[🔗][83]|Sept 88|1988-08-16|1.10GBP||
 84|![84](cvg/084.png)|[🔗][84]|Oct 88|1988-09-16|1.10GBP||
 85|![85](cvg/085.png)|[🔗][85]|Nov 88|1988-10-15|1.20GBP||
-86|![86](cvg/086.png)|[🔗][86]|Dec 88|1988-11-xx|1.20GBP||
+86|![86](cvg/086.png)|[🔗][86]|Dec 88|1988-11-xx|1.20GBP||![86](cvg/086e.png) C+VG's Christmas Crackers booklet [🔗][86e]
 87|![87](cvg/087.png)|[🔗][87]|Jan 89|1988-12-16|1.20GBP||Posters
 88|![88](cvg/088.png)|[🔗][88]|Feb 89|1989-01-xx|1.20GBP||Firebird game cassette
 89|![89](cvg/089.png)|[🔗][89]|Mar 89|1989-02-xx|1.20GBP||
@@ -502,3 +502,18 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 [215]: https://archive.org/details/Computer_and_Video_Games_Issue_215_1999-10_EMAP_Images_GB
 
 [277]: https://archive.org/details/Computer_and_Video_Games_Issue_277_2004-10_EMAP_Images_GB
+
+[3e]: https://archive.org/details/Computer_Video_Centre_Catalog_1982-01_EMAP_Publishing_GB_supplement_issue_003
+[16e]: https://archive.org/details/Book_of_Games_The_1983-02_EMAP_Publishing_GB_supplement_issue_016
+[17e]: https://archive.org/details/Book_of_Reviews_1983-03_EMAP_Publishing_GB_supplement_issue_017
+[20e]: https://archive.org/details/Book_of_Video_Games_The_1983-06_EMAP_Publishing_GB_supplement_issue_020
+[27e]: https://archive.org/details/Book_of_Adventure_1984-01_EMAP_Publishing_GB_supplement_issue_027
+[28e]: https://archive.org/details/Book_of_Games_1984-02_EMAP_Publishing_GB_supplement_issue_028
+[33e]: https://archive.org/details/Book_of_Games_1984-07_EMAP_Publishing_GB_supplement_issue_033
+[40e]: https://archive.org/details/Book_of_Games_1985-02_EMAP_Publishing_GB_supplement_issue_040
+[41e]: https://archive.org/details/Book_of_Adventure_1985-03_EMAP_Publishing_GB_supplement_issue_041
+[45e]: https://archive.org/details/Book_of_Games_1985-07_EMAP_Publishing_GB_supplement_issue_045
+[50e]: https://archive.org/details/Adventure_Supplement_1985-12_EMAP_Publishing_GB_supplement_issue_050
+[52e]: https://archive.org/details/Book_of_Games_1986-02_EMAP_Publishing_GB_supplement_issue_052
+[76e]: https://archive.org/details/Arcade_Action_1988-02_EMAP_Publishing_GB_supplement_issue_076
+[86e]: https://archive.org/details/CVG_Christmas_Crackers_1988-12_EMAP_Publishing_GB_supplement_issue_086

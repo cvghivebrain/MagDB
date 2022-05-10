@@ -19,9 +19,9 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 6|![6](cvg/006.png)|[🔗][6]|April 1982|1982-03-16|0.75GBP||
 7|![7](cvg/007.png)|[🔗][7]|May 1982|1982-04-16|0.75GBP||
 8|![8](cvg/008.png)|[🔗][8]|June 1982|1982-05-xx|0.75GBP||Owl supplement
-9|![9](cvg/009.png)|[🔗][9]|July 1982|1982-06-xx|0.75GBP||Z-Xtra supplement
+9|![9](cvg/009.png)|[🔗][9]|July 1982|1982-06-xx|0.75GBP||![9](cvg/009e.png) Z-Xtra supplement [🔗][9e]
 10|![10](cvg/010.png)|[🔗][10]|August 1982|1982-07-xx|0.75GBP||
-11|![11](cvg/011.png)|[🔗][11]|September 1982|1982-08-xx|0.75GBP||Owl Issue 2 supplement
+11|![11](cvg/011.png)|[🔗][11]|September 1982|1982-08-xx|0.75GBP||![11](cvg/011e.png) Owl Issue 2 supplement [🔗][11e]
 12|![12](cvg/012.png)|[🔗][12]|October 1982|1982-09-16|0.75GBP||
 13|![13](cvg/013.png)|[🔗][13]|November 1982|1982-10-16|0.75GBP||
 14|![14](cvg/014.png)|[🔗][14]|December 1982|1982-11-16|0.75GBP||
@@ -59,7 +59,7 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 46|![46](cvg/046.png)|[🔗][46]|August 1985|1985-07-16|0.95GBP||
 47|![47](cvg/047.png)|[🔗][47]|September 1985|1985-08-16|0.95GBP||
 48|![48](cvg/048.png)|[🔗][48]|October 1985|1985-09-16|0.95GBP||Poster
-49|![49](cvg/049.png)|[🔗][49]|November 1985|1985-10-16|0.95GBP||Poster
+49|![49](cvg/049.png)|[🔗][49]|November 1985|1985-10-16|0.95GBP||![49](cvg/049e.png) Book of Maps supplement [🔗][49e]; Poster
 50|![50](cvg/050.png)|[🔗][50]|December 1985|1985-11-16|0.95GBP||![50](cvg/050e.png) Adventure Supplement [🔗][50e]
 51|![51](cvg/051.png)|[🔗][51]|January 1986|1985-12-16|0.95GBP||Calendar
 52|![52](cvg/052.png)|[🔗][52]|February 1986|1986-01-16|0.95GBP||![52](cvg/052e.png) Book of Games supplement [🔗][52e]
@@ -71,12 +71,12 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 58|![58](cvg/058.png)|[🔗][58]|August 1986|1986-07-16|0.98GBP||
 59|![59](cvg/059.png)|[🔗][59]|September 1986|1986-08-16|0.98GBP||
 60|![60](cvg/060.png)|[🔗][60]|October 1986|1986-09-16|0.98GBP||
-61|![61](cvg/061.png)|[🔗][61]|November 1986|1986-10-15|0.98GBP||
+61|![61](cvg/061.png)|[🔗][61]|November 1986|1986-10-15|0.98GBP||![61](cvg/061e.png) I.D.E.A.S Central Handbook supplement [🔗][61e]
 62|![62](cvg/062.png)|[🔗][62]|December 1986|1986-11-xx|0.98GBP||
 63|![63](cvg/063.png)|[🔗][63]|January 1987|1986-12-16|0.98GBP||Poster
 64|![64](cvg/064.png)|[🔗][64]|February 1987|1987-01-xx|1.00GBP||Book of Games supplement
 65|![65](cvg/065.png)|[🔗][65]|March 1987|1987-02-xx|1.00GBP||
-66|![66](cvg/066.png)|[🔗][66]|April 1987|1987-03-xx|1.00GBP||
+66|![66](cvg/066.png)|[🔗][66]|April 1987|1987-03-xx|1.00GBP||![66](cvg/066e.png) Microsell Section supplement [🔗][66e]
 67|![67](cvg/067.png)|[🔗][67]|May 1987|1987-04-xx|1.00GBP||Poster
 68|![68](cvg/068.png)|[🔗][68]|June 1987|1987-05-15|1.00GBP||Atari ST supplement
 69|![69](cvg/069.png)|[🔗][69]|July 1987|1987-06-15|1.00GBP||Poster
@@ -131,30 +131,30 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 117|![117](cvg/117.png)|[🔗][117]|August '91|1991-07-15|1.35GBP|9770261369024-08|
 118|![118](cvg/118.png)|[🔗][118]|September '91|1991-08-15|1.35GBP|9770261369024-09|
 119|![119](cvg/119.png)|[🔗][119]|October '91|1991-09-15|1.35GBP|9770261369024-10|Hologram card
-120|![120](cvg/120.png)|[🔗][120]|November '91|1991-10-15|1.40GBP|9770261369031-11|Hologram card; Go! magazine
-121|![121](cvg/121.png)|[🔗][121]|December '91|1991-11-15|1.40GBP|9770261369031-12|Hologram card; Go! magazine
-122|![122](cvg/122.png)|[🔗][122]|January '92|1991-12-15|1.40GBP|9770261369031-01|Hologram card; Go! magazine
-123|![123](cvg/123.png)|[🔗][123]|February '92|1992-01-15|1.40GBP|9770261369031-02|Go! magazine
-124|![124](cvg/124.png)|[🔗][124]|March '92|1992-02-15|1.40GBP|9770261369031-03|Go! magazine
-125|![125](cvg/125.png)|[🔗][125]|April '92|1992-03-15|1.40GBP|9770261369031-04|Go! magazine
-126|![126](cvg/126.png)|[🔗][126]|May 1992|1992-04-15|1.75GBP|9770261369048-05|Go! magazine; Super Nintendo Handbook
-127|![127](cvg/127.png)||June 1992|1992-05-15|1.75GBP|9770261369048-06|Go! magazine; Poster
-128|![128](cvg/128.png)||July 1992|1992-06-15|1.75GBP|9770261369048-07|Go! magazine; Mario Guide book
-129|![129](cvg/129.png)||Aug 1992|1992-07-15|1.75GBP|9770261369048-08|Go! magazine
-130|![130](cvg/130.png)||Sept 1992|1992-08-15|1.75GBP|9770261369048-09|Go! magazine
-131|![131](cvg/131.png)||October 1992|1992-09-15|1.75GBP|9770261369048-10|Go! magazine; Badge
-132|![132](cvg/132.png)|[🔗][132]|November 1992|1992-10-15|1.75GBP|9770261369048-11|Go! magazine; Handbook
-133|![133](cvg/133.png)||Dec 1992|1992-11-15|1.75GBP|9770261369048-12|Go! magazine; Gamebook
-134|![134](cvg/134.png)||Jan 1993|1992-12-15|1.75GBP|9770261369048-01|Go! magazine; Stickers
-135|![135](cvg/135.png)||Feb 1993|1993-01-15|1.95GBP|9770261369055-02|Go! magazine; Badge; Poster
-136|![136](cvg/136.png)||March 1993|1993-02-15|1.95GBP|9770261369055-03|Go! magazine
-137|![137](cvg/137.png)||Apr 1993|1993-03-15|1.95GBP|9770261369055-04|Go! magazine
-138|![138](cvg/138.png)||May 93|1993-04-15|1.95GBP|9770261369055-05|Go! magazine
-139|![139](cvg/139.png)||June 93|1993-05-15|1.95GBP|9770261369055-06|Go! magazine; Tips booklet
-140|![140](cvg/140.png)||July 93|1993-06-15|1.95GBP|9770261369055-07|Go! magazine; Mega-CD guide
-141|![141](cvg/141.png)|[🔗][141]|Aug 93|1993-07-15|1.95GBP|9770261369055-08|Go! magazine
-142|![142](cvg/142.png)||Sept 93|1993-08-15|1.95GBP|9770261369055-09|Go! magazine
-143|![143](cvg/143.png)||Oct 93|1993-09-15|1.95GBP|9770261369055-10|Go! magazine
+120|![120](cvg/120.png)|[🔗][120]|November '91|1991-10-15|1.40GBP|9770261369031-11|![120](cvg/120e.png) Hologram card; Go! magazine
+121|![121](cvg/121.png)|[🔗][121]|December '91|1991-11-15|1.40GBP|9770261369031-12|![121](cvg/121e.png) Hologram card; Go! magazine
+122|![122](cvg/122.png)|[🔗][122]|January '92|1991-12-15|1.40GBP|9770261369031-01|![122](cvg/122e.png) Hologram card; Go! magazine
+123|![123](cvg/123.png)|[🔗][123]|February '92|1992-01-15|1.40GBP|9770261369031-02|![123](cvg/123e.png) Go! magazine
+124|![124](cvg/124.png)|[🔗][124]|March '92|1992-02-15|1.40GBP|9770261369031-03|![124](cvg/124e.png) Go! magazine
+125|![125](cvg/125.png)|[🔗][125]|April '92|1992-03-15|1.40GBP|9770261369031-04|![125](cvg/125e.png) Go! magazine
+126|![126](cvg/126.png)|[🔗][126]|May 1992|1992-04-15|1.75GBP|9770261369048-05|![126](cvg/126e.png) Go! magazine [🔗][126e]; Super Nintendo Handbook
+127|![127](cvg/127.png)||June 1992|1992-05-15|1.75GBP|9770261369048-06|![127](cvg/127e.png) Go! magazine; Poster
+128|![128](cvg/128.png)||July 1992|1992-06-15|1.75GBP|9770261369048-07|![128](cvg/128e.png) Go! magazine; Mario Guide book
+129|![129](cvg/129.png)||Aug 1992|1992-07-15|1.75GBP|9770261369048-08|![129](cvg/129e.png) Go! magazine
+130|![130](cvg/130.png)||Sept 1992|1992-08-15|1.75GBP|9770261369048-09|![130](cvg/130e.png) Go! magazine
+131|![131](cvg/131.png)||October 1992|1992-09-15|1.75GBP|9770261369048-10|![131](cvg/131e.png) Go! magazine; Badge
+132|![132](cvg/132.png)|[🔗][132]|November 1992|1992-10-15|1.75GBP|9770261369048-11|![132](cvg/132e.png) Go! magazine; Handbook
+133|![133](cvg/133.png)||Dec 1992|1992-11-15|1.75GBP|9770261369048-12|![133](cvg/133e.png) Go! magazine; Gamebook
+134|![134](cvg/134.png)||Jan 1993|1992-12-15|1.75GBP|9770261369048-01|![134](cvg/134e.png) Go! magazine; Stickers
+135|![135](cvg/135.png)||Feb 1993|1993-01-15|1.95GBP|9770261369055-02|![135](cvg/135e.png) Go! magazine; Badge; Poster
+136|![136](cvg/136.png)||March 1993|1993-02-15|1.95GBP|9770261369055-03|![136](cvg/136e.png) Go! magazine
+137|![137](cvg/137.png)||Apr 1993|1993-03-15|1.95GBP|9770261369055-04|![137](cvg/137e.png) Go! magazine
+138|![138](cvg/138.png)||May 93|1993-04-15|1.95GBP|9770261369055-05|![138](cvg/138e.png) Go! magazine
+139|![139](cvg/139.png)||June 93|1993-05-15|1.95GBP|9770261369055-06|![139](cvg/139e.png) Go! magazine; Tips booklet
+140|![140](cvg/140.png)||July 93|1993-06-15|1.95GBP|9770261369055-07|![140](cvg/140e.png) Go! magazine; Mega-CD guide
+141|![141](cvg/141.png)|[🔗][141]|Aug 93|1993-07-15|1.95GBP|9770261369055-08|![141](cvg/141e.png) Go! magazine [🔗][141e]
+142|![142](cvg/142.png)||Sept 93|1993-08-15|1.95GBP|9770261369055-09|![142](cvg/142e.png) Go! magazine
+143|![143](cvg/143.png)||Oct 93|1993-09-15|1.95GBP|9770261369055-10|![143](cvg/143e.png) Go! magazine
 144|![144](cvg/144.png)||Nov 93|1993-10-15|1.95GBP|9770261369055-11|Scratchcard
 145|![145](cvg/145.png)||Dec '93|1993-11-15|2.25GBP|9770261369062-12|Poster; Christmas cards; Badge
 146|![146](cvg/146.png)||Jan '94|1993-12-15|2.25GBP|9770261369062-01|Badge
@@ -166,8 +166,8 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 152|![152](cvg/152.png)||July 1994|1994-06-15|2.25GBP|9770261369062-07|World Cup Guide book
 153|![153](cvg/153.png)||August 1994|1994-07-15|2.25GBP|9770261369062-08|
 154|![154](cvg/154.png)||September 1994|1994-08-15|2.25GBP|9770261369062-09|
-155|![155](cvg/155.png)||October 1994|1994-09-15|2.25GBP|9770261369062-10|Tekno supplement
-156|![156](cvg/156.png)||November 1994|1994-10-15|2.25GBP|9770261369062-11|Tekno supplement
+155|![155](cvg/155.png)||October 1994|1994-09-15|2.25GBP|9770261369062-10|![155](cvg/155e.png) Tekno supplement
+156|![156](cvg/156.png)||November 1994|1994-10-15|2.25GBP|9770261369062-11|![156](cvg/156e.png) Tekno supplement
 157|![157](cvg/157.png)||December 1994|1994-11-15|2.25GBP|9770261369062-12|
 158|![158](cvg/158.png)||January 1995|1994-12-15|2.25GBP|9770261369062-01|Ultimate Tips book
 159|![159](cvg/159.png)||February 1995|1995-01-15|2.25GBP|9770261369062-02|
@@ -504,6 +504,8 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 [277]: https://archive.org/details/Computer_and_Video_Games_Issue_277_2004-10_EMAP_Images_GB
 
 [3e]: https://archive.org/details/Computer_Video_Centre_Catalog_1982-01_EMAP_Publishing_GB_supplement_issue_003
+[9e]: https://archive.org/details/Z-Xtra_1982-07_EMAP_Publishing_GB_supplement_issue_009
+[11e]: https://archive.org/details/OWL_Issue_002_1982-09_EMAP_Publishing_GB_supplement_issue_011
 [16e]: https://archive.org/details/Book_of_Games_The_1983-02_EMAP_Publishing_GB_supplement_issue_016
 [17e]: https://archive.org/details/Book_of_Reviews_1983-03_EMAP_Publishing_GB_supplement_issue_017
 [20e]: https://archive.org/details/Book_of_Video_Games_The_1983-06_EMAP_Publishing_GB_supplement_issue_020
@@ -513,7 +515,13 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 [40e]: https://archive.org/details/Book_of_Games_1985-02_EMAP_Publishing_GB_supplement_issue_040
 [41e]: https://archive.org/details/Book_of_Adventure_1985-03_EMAP_Publishing_GB_supplement_issue_041
 [45e]: https://archive.org/details/Book_of_Games_1985-07_EMAP_Publishing_GB_supplement_issue_045
+[49e]: https://archive.org/details/Maps_Special_1985_EMAP_Publishing_GB_supplement
 [50e]: https://archive.org/details/Adventure_Supplement_1985-12_EMAP_Publishing_GB_supplement_issue_050
 [52e]: https://archive.org/details/Book_of_Games_1986-02_EMAP_Publishing_GB_supplement_issue_052
+[61e]: https://archive.org/details/IDEAS_Central_Handbook_1986-11_EMAP_Publishing_GB_supplement_issue_061
+[66e]: https://archive.org/details/Microsell_Section_1987-04_EMAP_Publishing_GB_supplement_issue_066
 [76e]: https://archive.org/details/Arcade_Action_1988-02_EMAP_Publishing_GB_supplement_issue_076
 [86e]: https://archive.org/details/CVG_Christmas_Crackers_1988-12_EMAP_Publishing_GB_supplement_issue_086
+[126e]: https://archive.org/details/Go_Issue_07_1992-05_EMAP_Publishing_GB_supplement_issue_126
+[141e]: https://archive.org/details/Go_Issue_22_1993-08_EMAP_Publishing_GB_supplement_issue_141
+[unk]: https://archive.org/details/c-vg-issue-xx-supplement-ultimate-virtual-pets-handbook

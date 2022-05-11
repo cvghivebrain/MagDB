@@ -1,13 +1,15 @@
 # Computer & Video Games
 
-? | Computer & Video Games
+. | _Computer & Video Games_
 --- | ---
-Alternate titles | Computer + Video Games (48-125), Computer and Video Games (126-270)
-Publisher | EMAP National Publications (1-), EMAP Frontline (86-101), BBC Frontline (102-152), EMAP Images (187-203), EMAP Active (205-), Dennis Publishing (23x-277)
+Alternate titles | _Computer + Video Games_ (48-125) &vert; _Computer and Video Games_ (126-270)
+Publisher | EMAP National Publications (1-) &vert; EMAP Frontline (86-101) &vert; BBC Frontline (102-152) &vert; EMAP Images (187-203) &vert; EMAP Active (205-) &vert; Dennis Publishing (23x-277)
 Country | United Kingdom
-Years | 1981 to 2004
+Language | English
+Topic | Video games
+Years | 1981 &mdash; 2004
 Issues | 278
-ISSN | 0261-3697 (1-115; 23x-277), 0261-3597 (116-23x)
+ISSN | 0261-3697 (1-115; 23x-277) &vert; 0261-3597 (116-23x)
 
 Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ----- | ---- | ---------- | ----------- | ----- | ------- | ------
@@ -193,10 +195,10 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 179|![179](cvg/179.png)|[🔗][179]|Oct '96|1996-09-09|2.50GBP|9770261369086-10|Freeplay supplement
 180|![180](cvg/180.png)|[🔗][180]|Nov '96|1996-10-09|2.50GBP|9770261369086-11|Freeplay supplement; Poster
 181|![181](cvg/181.png)|[🔗][181]|Dec '96|1996-11-xx|2.50GBP|9770261369086-12|Freeplay supplement
-182|![182](cvg/182.png)|[🔗][182]|Jan '97|1996-12-11|2.50GBP|9770261369086-01|Freeplay supplement; The Complete History of Computer and Video Games book
+182|![182](cvg/182.png)|[🔗][182]|Jan '97|1996-12-11|2.50GBP|9770261369086-01|![182](cvg/182e.png) Freeplay supplement; The Complete History of Computer and Video Games book [🔗][182e]
 183|![183](cvg/183.png)|[🔗][183]|Feb '97|1997-01-10|2.50GBP|9770261369086-02|Freeplay supplement
 184|![184](cvg/184.png)|[🔗][184]|Mar '97|1997-02-12|2.50GBP|9770261369086-03|Freeplay supplement
-185|![185](cvg/185.png)|[🔗][185]|Apr '97|1997-03-12|2.50GBP|9770261369086-04|Freeplay supplement; Blown Away VHS cassette
+185|![185](cvg/185.png)|[🔗][185]|Apr '97|1997-03-12|2.50GBP|9770261369086-04|![185](cvg/185e.png) Freeplay supplement; Blown Away VHS cassette
 186|![186](cvg/186.png)|[🔗][186]|May '97|1997-04-11|2.50GBP|9770261369086-05|Freeplay supplement
 187|![187](cvg/187.png)|[🔗][187]|June '97|1997-05-11|2.50GBP|9770261369086-06|Freeplay supplement
 188|![188](cvg/188.png)|[🔗][188]|July '97|1997-06-11|2.50GBP|9770261369086-07|Freeplay supplement
@@ -265,8 +267,8 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 224A|![224A](cvg/224A.png)||July 2000|2000-06-14|1.99GBP|9770261369109-07|Stickers
 225|![225](cvg/225.png)||August 2000|2000-07-12||9770261369086-08|
 225A|![225A](cvg/225A.png)||August 2000|2000-07-12|2.50GBP|9770261369116-08||
-226|![226](cvg/226.png)||Sept 2000|2000-08-16||9770261369086-09|Beachball
-226A|![226A](cvg/226A.png)||Sept 2000|2000-08-16|2.50GBP|9770261369116-09|Beachball
+226|![226](cvg/226.png)||Sept 2000|2000-08-16||9770261369086-09|![226](cvg/226e.png) Beachball
+226A|![226A](cvg/226A.png)||Sept 2000|2000-08-16|2.50GBP|9770261369116-09|![226](cvg/226e.png) Beachball
 227|![227](cvg/227.png)||Oct 2000|2000-09-13||9770261369086-10|Trading cards
 228|![228](cvg/228.png)||Nov 2000|2000-10-11||9770261369086-11|Calendar
 228A|![228A](cvg/228A.png)||Nov 2000|2000-10-11|2.50GBP|9770261369116-11|Calendar
@@ -524,4 +526,5 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 [86e]: https://archive.org/details/CVG_Christmas_Crackers_1988-12_EMAP_Publishing_GB_supplement_issue_086
 [126e]: https://archive.org/details/Go_Issue_07_1992-05_EMAP_Publishing_GB_supplement_issue_126
 [141e]: https://archive.org/details/Go_Issue_22_1993-08_EMAP_Publishing_GB_supplement_issue_141
+[182e]: https://archive.org/details/book_complete_history_of_video_games
 [unk]: https://archive.org/details/c-vg-issue-xx-supplement-ultimate-virtual-pets-handbook

@@ -3,13 +3,15 @@
 . | _Computer & Video Games_
 --- | ---
 Alternate titles | _Computer + Video Games_ (48-125) &vert; _Computer and Video Games_ (126-270)
-Publisher | EMAP National Publications (1-) &vert; EMAP Frontline (86-101) &vert; BBC Frontline (102-152) &vert; EMAP Images (187-203) &vert; EMAP Active (205-) &vert; Dennis Publishing (23x-277)
+Publisher | EMAP National Publications (1-) &vert; EMAP Images (187-203) &vert; EMAP Active (205-) &vert; Dennis Publishing (23x-277)
 Country | United Kingdom
 Language | English
 Topic | Video games
 Years | 1981 &mdash; 2004
 Issues | 278
+Frequency | Monthly
 ISSN | 0261-3697 (1-115; 23x-277) &vert; 0261-3597 (116-23x)
+Related | 
 
 Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ----- | ---- | ---------- | ----------- | ----- | ------- | ------

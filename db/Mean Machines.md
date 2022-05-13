@@ -35,11 +35,11 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 17|![17](mean/17.png)|[🔗][17]|Feb|1992-01-27|1.75GBP|9770960495000-02|
 18|![18](mean/18.png)|[🔗][18]|Mar|1992-02-27|1.75GBP|9770960495000-03|
 19|![19](mean/19.png)|[🔗][19]|Apr|1992-03-28|1.75GBP|9770960495000-04|
-20|![20](mean/20.png)|[🔗][20]|May|1992-04-28|1.75GBP|9770960495000-05|![20](mean/20e.png) Mean Machines Complete Games Guide supplement [🔗][20e]; Badge
+20|![20](mean/20.png)|[🔗][20]|May|1992-04-28|1.75GBP|9770960495000-05|![20](mean/20e.png) Mean Machines Complete Games Guide supplement [🔗][20e] &vert; Badge
 21|![21](mean/21.png)|[🔗][21]|June|1992-05-28|1.75GBP|9770960495000-06|
 22|![22](mean/22.png)|[🔗][22]|July|1992-06-27|2.20GBP|9770960495994-07|
 23|![23](mean/23.png)|[🔗][23]|Aug|1992-07-22|2.20GBP|9770960495994-08|
-24|![24](mean/24.png)|[🔗][24]|Sept|1992-08-27|1.95GBP|9770960495017-09|![24](mean/24e.png) The Mean Machines Megamart Bumper Edition supplement [🔗][24e]; Poster
+24|![24](mean/24.png)|[🔗][24]|Sept|1992-08-27|1.95GBP|9770960495017-09|![24](mean/24e.png) The Mean Machines Megamart Bumper Edition supplement [🔗][24e] &vert; Poster
 
 [1]: https://archive.org/details/Mean_Machines_Issue_01_1990-10_EMAP_Images_GB
 [2]: https://archive.org/details/Mean_Machines_Issue_02_1990-11_EMAP_Images_GB

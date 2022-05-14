@@ -12,7 +12,7 @@ Issues | 24 (25)
 Frequency | Monthly
 ISSN | 0960-4952
 Website | 
-Related | _[Mean Machines Sega](Mean_Machines_Sega.md)_
+Related | _[Mean Machines Sega](Mean%20Machines%20Sega.md)_
 
 Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ----- | ---- | ---------- | ----------- | ----- | ------- | ------

@@ -16,37 +16,37 @@ Related |
 
 Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ----- | ---- | ---------- | ----------- | ----- | ------- | ------
-1|![1](ace/01.png)|[🔗][1]|October 1987|1987-09-xx|1.50GBP|![1](ace/01e.png)<br>Blue Max/Gift from the Gods game cassette
-2|![2](ace/02.png)|[🔗][2]|November 1987|1987-10-01|1.50GBP|![2](ace/02e.png)<br>Bubble Bobble game cassette &vert; Discount card
-3|![3](ace/03.png)|[🔗][3]|December 1987|1987-11-05|1.50GBP|
-4|![4](ace/04.png)|[🔗][4]|Christmas/January 1988|1987-12-xx|1.50GBP|Diary
-5|![5](ace/05.png)|[🔗][5]|February 1988|1988-01-xx|1.50GBP|
-6|![6](ace/06.png)|[🔗][6]|March 1988|1988-02-04|1.50GBP|
-7|![7](ace/07.png)|[🔗][7]|April 1988|1988-xx-xx|1.50GBP|Prize card
-8|![8](ace/08.png)|[🔗][8]|May 1988|1988-xx-xx|1.50GBP|
-9|![9](ace/09.png)|[🔗][9]|June 1988|1988-xx-xx|1.50GBP|![9](ace/09e.png)<br>Impossible Mission game cassette
-10|![10](ace/10.png)|[🔗][10]|July 1988|1988-xx-xx|1.50GBP|![10](ace/10e.png)<br>Spindizzy game cassette
-11|![11](ace/11.png)|[🔗][11]|August 1988|1988-xx-xx|1.50GBP|
-12|![12](ace/12.png)|[🔗][12]|September 1988|1988-xx-xx|1.50GBP|Puzzle
-13|![13](ace/13.png)|[🔗][13]|October 1988|1988-xx-xx|1.50GBP|
-14|![14](ace/14.png)|[🔗][14]|November 1988|1988-xx-xx|1.50GBP|
-15|![15](ace/15.png)|[🔗][15]|December 1988|1988-xx-xx|1.50GBP|
-16|![16](ace/16.png)|[🔗][16]|Christmas 88/January 89|1989-xx-xx|2.50GBP|![16](ace/16e.png)<br>Dragon Ninja game cassette
-17|![17](ace/17.png)|[🔗][17]|February 1989|1989-xx-xx|1.50GBP|![17](ace/17e.png)<br>Aliens game cassette
-18|![18](ace/18.png)|[🔗][18]|March 1989|1989-02-02|1.50GBP|
-19|![19](ace/19.png)|[🔗][19]|April 1989|1989-03-02|1.50GBP|
-20|![20](ace/20.png)|[🔗][20]|May 1989|1989-04-06|1.50GBP|![20](ace/20e.png)<br>The ACE Computer Music Demo audio cassette
-21|![21](ace/21.png)|[🔗][21]|June 1989|1989-05-04|1.50GBP|![21](ace/21e.png)<br>Radio ACE audio cassette
-22|![22](ace/22.png)|[🔗][22]|July 1989|1989-06-01|1.50GBP|
-23|![23](ace/23.png)|[🔗][23]|August 1989|1989-07-06|1.50GBP|
-24|![24](ace/24.png)|[🔗][24]|September 1989|1989-08-03|1.50GBP|
-25|![25](ace/25.png)|[🔗][25]|October 1989|1989-09-07|1.50GBP|
-26|![26](ace/26.png)|[🔗][26]|November 1989|1989-10-xx|1.50GBP|![26](ace/26e.png)<br>The ACE Challenge book [🔗][26e]
-27|![27](ace/27.png)|[🔗][27]|December 1989|1989-11-xx|1.50GBP|Wallchart
-28|![28](ace/28.png)|[🔗][28]|January 1990|1989-12-xx|1.60GBP|![28](ace/28e.png)<br>The ACE Diary 1990 book [🔗][28e]
-29|![29](ace/29.png)|[🔗][29]|February 1990|1990-01-04|1.60GBP|
-30|![30](ace/30.png)|[🔗][30]|March 1990|1990-02-01|1.60GBP|
-31|![31](ace/31.png)|[🔗][31]|April 1990|1990-03-xx|1.60GBP|Prize card
+1|![1](ace/01.png)|[🔗][1]|October 1987|1987-09-xx|1.50GBP||![1](ace/01e.png)<br>Blue Max/Gift from the Gods game cassette
+2|![2](ace/02.png)|[🔗][2]|November 1987|1987-10-01|1.50GBP||![2](ace/02e.png)<br>Bubble Bobble game cassette &vert; Discount card
+3|![3](ace/03.png)|[🔗][3]|December 1987|1987-11-05|1.50GBP||
+4|![4](ace/04.png)|[🔗][4]|Christmas/January 1988|1987-12-xx|1.50GBP||Diary
+5|![5](ace/05.png)|[🔗][5]|February 1988|1988-01-xx|1.50GBP||
+6|![6](ace/06.png)|[🔗][6]|March 1988|1988-02-04|1.50GBP||
+7|![7](ace/07.png)|[🔗][7]|April 1988|1988-xx-xx|1.50GBP||Prize card
+8|![8](ace/08.png)|[🔗][8]|May 1988|1988-xx-xx|1.50GBP||
+9|![9](ace/09.png)|[🔗][9]|June 1988|1988-xx-xx|1.50GBP||![9](ace/09e.png)<br>Impossible Mission game cassette
+10|![10](ace/10.png)|[🔗][10]|July 1988|1988-xx-xx|1.50GBP||![10](ace/10e.png)<br>Spindizzy game cassette
+11|![11](ace/11.png)|[🔗][11]|August 1988|1988-xx-xx|1.50GBP||
+12|![12](ace/12.png)|[🔗][12]|September 1988|1988-xx-xx|1.50GBP||Puzzle
+13|![13](ace/13.png)|[🔗][13]|October 1988|1988-xx-xx|1.50GBP||
+14|![14](ace/14.png)|[🔗][14]|November 1988|1988-xx-xx|1.50GBP||
+15|![15](ace/15.png)|[🔗][15]|December 1988|1988-xx-xx|1.50GBP||
+16|![16](ace/16.png)|[🔗][16]|Christmas 88/January 89|1989-xx-xx|2.50GBP||![16](ace/16e.png)<br>Dragon Ninja game cassette
+17|![17](ace/17.png)|[🔗][17]|February 1989|1989-xx-xx|1.50GBP||![17](ace/17e.png)<br>Aliens game cassette
+18|![18](ace/18.png)|[🔗][18]|March 1989|1989-02-02|1.50GBP||
+19|![19](ace/19.png)|[🔗][19]|April 1989|1989-03-02|1.50GBP||
+20|![20](ace/20.png)|[🔗][20]|May 1989|1989-04-06|1.50GBP||![20](ace/20e.png)<br>The ACE Computer Music Demo audio cassette
+21|![21](ace/21.png)|[🔗][21]|June 1989|1989-05-04|1.50GBP||![21](ace/21e.png)<br>Radio ACE audio cassette
+22|![22](ace/22.png)|[🔗][22]|July 1989|1989-06-01|1.50GBP||
+23|![23](ace/23.png)|[🔗][23]|August 1989|1989-07-06|1.50GBP||
+24|![24](ace/24.png)|[🔗][24]|September 1989|1989-08-03|1.50GBP||
+25|![25](ace/25.png)|[🔗][25]|October 1989|1989-09-07|1.50GBP||
+26|![26](ace/26.png)|[🔗][26]|November 1989|1989-10-xx|1.50GBP||![26](ace/26e.png)<br>The ACE Challenge book [🔗][26e]
+27|![27](ace/27.png)|[🔗][27]|December 1989|1989-11-xx|1.50GBP||Wallchart
+28|![28](ace/28.png)|[🔗][28]|January 1990|1989-12-xx|1.60GBP||![28](ace/28e.png)<br>The ACE Diary 1990 book [🔗][28e]
+29|![29](ace/29.png)|[🔗][29]|February 1990|1990-01-04|1.60GBP||
+30|![30](ace/30.png)|[🔗][30]|March 1990|1990-02-01|1.60GBP||
+31|![31](ace/31.png)|[🔗][31]|April 1990|1990-03-xx|1.60GBP||Prize card
 32|![32](ace/32.png)|[🔗][32]|May 1990|1990-04-xx|1.60GBP|9770954807017-05|![32](ace/32e.png)<br>CD ROM Games book [🔗][32e]
 33|![33](ace/33.png)|[🔗][33]|June 1990|1990-05-xx|1.60GBP|9770954807017-06|
 34|![34](ace/34.png)|[🔗][34]|July 1990|1990-06-xx|1.60GBP|9770954807017-07|![34](ace/34e.png)<br>Neo Geo prize card

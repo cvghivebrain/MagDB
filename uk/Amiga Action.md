@@ -29,76 +29,76 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 10|![10](amigaaction/10.png)|[🔗][10]|July 1990|1990-xx-xx|1.95GBP|9770957405005-07|
 11|![11](amigaaction/11.png)|[🔗][11]|Aug 1990|1990-xx-xx|1.95GBP|9770957405005-08|
 12|![12](amigaaction/12.png)|[🔗][12]|Sept 1990|1990-xx-xx|1.95GBP|9770957405005-09|Booklet
-13|![13](amigaaction/13.png)|[🔗][13]|October 1990|1990-xx-xx|2.95GBP|9770957405999-10|Bar Games/The Killing Gameshow game disk [🔗][13e]
+13|![13](amigaaction/13.png)|[🔗][13]|October 1990|1990-xx-xx|2.95GBP|9770957405999-10|![13](amigaaction/13e.png)<br>Bar Games/The Killing Gameshow game disk [🔗][13e]
 14|![14](amigaaction/14.png)|[🔗][14]|November 1990|1990-xx-xx|1.95GBP|9770957405982-11|Poster
 15|![15](amigaaction/15.png)|[🔗][15]|December 1990|1990-xx-xx|1.95GBP|9770957405005-12|Poster
-16|![16](amigaaction/16.png)|[🔗][16]|January 1991|199x-xx-xx|2.95GBP|9770957405982-01|James Pond/Horror Zombies from the Crypt game disk
+16|![16](amigaaction/16.png)|[🔗][16]|January 1991|199x-xx-xx|2.95GBP|9770957405982-01|![16](amigaaction/16e.png)<br>James Pond/Horror Zombies from the Crypt game disk
 17|![17](amigaaction/17.png)|[🔗][17]|February 1991|1991-xx-xx|2.95GBP|9770957405005-02|Mean 18 game disk
 18|![18](amigaaction/18.png)|[🔗][18]|March 1991|1991-xx-xx|2.95GBP|9770957405005-03|Switchblade II/Team Suzuki/Asteroid Rox game disk [🔗][18e]
-19|![19](amigaaction/19.png)|[🔗][19]|April 1991|1991-xx-xx|2.95GBP|9770957405005-04|Supercars 2/Chuck Rock/Back to the Future 3 game disk [🔗][19e]
-20|![20](amigaaction/20.png)|[🔗][20]|May 1991|1991-04-26|2.95GBP|9770957405005-05|Ilyad game disk &vert; Armour-Geddon game disk
-21|![21](amigaaction/21.png)|[🔗][21]|June 1991|1991-05-16|3.50GBP|9770957405975-06|Purple Saturn Day game disk &vert; Hero Quest game disk
-22|![22](amigaaction/22.png)|[🔗][22]|July 1991|1991-06-20|3.50GBP|9770957405005-07|R-Type II game disk &vert; Amnios/Logical game disk
+19|![19](amigaaction/19.png)|[🔗][19]|April 1991|1991-xx-xx|2.95GBP|9770957405005-04|![19](amigaaction/19e.png)<br>Supercars 2/Chuck Rock/Back to the Future 3 game disk [🔗][19e]
+20|![20](amigaaction/20.png)|[🔗][20]|May 1991|1991-04-26|2.95GBP|9770957405005-05|![20](amigaaction/20e.png) ![20](amigaaction/20e2.png)<br>Ilyad game disk &vert; Armour-Geddon game disk
+21|![21](amigaaction/21.png)|[🔗][21]|June 1991|1991-05-16|3.50GBP|9770957405975-06|![21](amigaaction/21e.png) ![21](amigaaction/21e2.png)<br>Purple Saturn Day game disk &vert; Hero Quest game disk
+22|![22](amigaaction/22.png)|[🔗][22]|July 1991|1991-06-20|3.50GBP|9770957405005-07|![22](amigaaction/22e.png) ![22](amigaaction/22e2.png)<br>R-Type II game disk &vert; Amnios/Logical game disk
 23|![23](amigaaction/23.png)|[🔗][23]|August 1991|1991-07-18|2.95GBP|9770957405012-08|![23](amigaaction/23e.png)<br>Hawk/Little Beau game disk [🔗][23e]
-24|![24](amigaaction/24.png)|[🔗][24]|September 1991|1991-08-15|3.50GBP|9770957405029-09|Pegasus/Zone Warrior game disk &vert; Challenge Golf/Tanx game disk
-25|![25](amigaaction/25.png)|[🔗][25]|October 1991|1991-09-19|3.50GBP|9770957405029-10|Maddog Williams game disk &vert; Battle Isle/Supaplex game disk
-26|![26](amigaaction/26.png)|[🔗][26]|November 1991|1991-10-17|3.50GBP|9770957405029-11|Under Pressure/Rubicon game disk &vert; Robocod/Boston Bomb Club game disk
-27|![27](amigaaction/27.png)|[🔗][27]|December 1991|1991-11-21|3.50GBP|9770957405029-12|Baby Jo/Another World game disk &vert; Siegemaster/Heimdall game disk
-28|![28](amigaaction/28.png)|[🔗][28]|January 1992|199x-xx-xx|3.50GBP|9770957405029-01|Agony/Thunderburner game disk &vert; International Sports Challenge/Daylight Robbery game disk
-29|![29](amigaaction/29.png)|[🔗][29]|February 1992|1992-01-16|3.75GBP|9770957405036-02|Wolfchild/Team Yankee II game disk &vert; Double Dragon III game disk
-30|![30](amigaaction/30.png)|[🔗][30]|March 1992|1992-02-19|3.75GBP|9770957405036-03|Abandoned Places game disk &vert; Ork/Knightmare game disk
-31|![31](amigaaction/31.png)|[🔗][31]|April 1992|1992-03-19|3.75GBP|9770957405036-04|Psyborg game disk &vert; Space Crusade/Son of Zeus game disk
-32|![32](amigaaction/32.png)|[🔗][32]|May 1992|1992-04-16|3.75GBP|9770957405036-05|Apidya/Jim Power game disk &vert; Myth/Winter Sports game disk
-33|![33](amigaaction/33.png)|[🔗][33]|June 1992|1992-xx-xx|3.75GBP|9770957405036-06|Dynablaster game disk &vert; Humans/Jaguar XJ220 game disk
+24|![24](amigaaction/24.png)||September 1991|1991-08-15|3.50GBP|9770957405029-09|![24](amigaaction/24e.png) ![24](amigaaction/24e2.png)<br>Pegasus/Zone Warrior game disk &vert; Challenge Golf/Tanx game disk
+25|![25](amigaaction/25.png)|[🔗][25]|October 1991|1991-09-19|3.50GBP|9770957405029-10|![25](amigaaction/25e.png) ![25](amigaaction/25e2.png)<br>Maddog Williams game disk &vert; Battle Isle/Supaplex game disk
+26|![26](amigaaction/26.png)|[🔗][26]|November 1991|1991-10-17|3.50GBP|9770957405029-11|![26](amigaaction/26e.png) ![26](amigaaction/26e2.png)<br>Under Pressure/Rubicon game disk &vert; Robocod/Boston Bomb Club game disk
+27|![27](amigaaction/27.png)|[🔗][27]|December 1991|1991-11-21|3.50GBP|9770957405029-12|![27](amigaaction/27e.png) ![27](amigaaction/27e2.png)<br>Baby Jo/Another World game disk &vert; Siegemaster/Heimdall game disk
+28|![28](amigaaction/28.png)|[🔗][28]|January 1992|199x-xx-xx|3.50GBP|9770957405029-01|![28](amigaaction/28e.png) ![28](amigaaction/28e2.png)<br>Agony/Thunderburner game disk &vert; International Sports Challenge/Daylight Robbery game disk
+29|![29](amigaaction/29.png)|[🔗][29]|February 1992|1992-01-16|3.75GBP|9770957405036-02|![29](amigaaction/29e.png) ![29](amigaaction/29e2.png)<br>Wolfchild/Team Yankee II game disk &vert; Double Dragon III game disk
+30|![30](amigaaction/30.png)|[🔗][30]|March 1992|1992-02-19|3.75GBP|9770957405036-03|![30](amigaaction/30e.png) ![30](amigaaction/30e2.png)<br>Abandoned Places game disk &vert; Ork/Knightmare game disk
+31|![31](amigaaction/31.png)|[🔗][31]|April 1992|1992-03-19|3.75GBP|9770957405036-04|![31](amigaaction/31e.png) ![31](amigaaction/31e2.png)<br>Psyborg game disk &vert; Space Crusade/Son of Zeus game disk
+32|![32](amigaaction/32.png)|[🔗][32]|May 1992|1992-04-16|3.75GBP|9770957405036-05|![32](amigaaction/32e.png) ![32](amigaaction/32e2.png)<br>Apidya/Jim Power game disk &vert; Myth/Winter Sports game disk
+33|![33](amigaaction/33.png)|[🔗][33]|June 1992|1992-xx-xx|3.75GBP|9770957405036-06|![33](amigaaction/33e.png) ![33](amigaaction/33e2.png)<br>Dynablaster game disk &vert; Humans/Jaguar XJ220 game disk
 34|![34](amigaaction/34.png)|[🔗][34]|July 1992|1992-0x-xx|3.75GBP|9770957405036-07|Liverpool game disk &vert; Bug Bomber game disk
 35|![35](amigaaction/35.png)|[🔗][35]|August 1992|1992-07-16|3.75GBP|9770957405036-08|Dojo Dan game disk &vert; D/Generation game disk
-36|![36](amigaaction/36.png)|[🔗][36]|September 1992|1992-08-20|3.75GBP|9770957405036-09|Gobliiins/Tornado game disk &vert; Ugh! game disk
+36|![36](amigaaction/36.png)|[🔗][36]|September 1992|1992-08-20|3.75GBP|9770957405036-09|![36](amigaaction/36e2.png)<br>Gobliiins/Tornado game disk &vert; Ugh! game disk
 37|![37](amigaaction/37.png)|[🔗][37]|October 1992|1992-09-17|3.75GBP|9770957405036-10|Fireforce game disk &vert; Tearaway Thomas/Hoi/Dithell's Wonderland game disk
-38|![38](amigaaction/38.png)|[🔗][38]|November 1992|1992-10-15|3.50GBP|9770957405036-11|Pinball Fantasies game disk &vert; The Chaos Engine/Zool game disk
+38|![38](amigaaction/38.png)|[🔗][38]|November 1992|1992-10-15|3.50GBP|9770957405036-11|![38](amigaaction/38e.png) ![38](amigaaction/38e2.png)<br>Pinball Fantasies game disk &vert; The Chaos Engine/Zool game disk
 39|![39](amigaaction/39.png)|[🔗][39]|December 1992|1992-11-19|3.50GBP|9770957405043-12|Alien Breed '92 game disk &vert; Nick Faldo's Golf/Cytron game disk
-40|![40](amigaaction/40.png)|[🔗][40]|January 1993|1992-12-17|3.75GBP|9770957405050-01|Road Rash game disk &vert; Goblins 2 game disk
-41|![41](amigaaction/41.png)|[🔗][41]|February 1993|1993-01-21|3.75GBP|9770957405005-02|Zool/Nigel Mansell game disk &vert; Robin Hood/Elevation game disk
+40|![40](amigaaction/40.png)|[🔗][40]|January 1993|1992-12-17|3.75GBP|9770957405050-01|![40](amigaaction/40e.png) ![40](amigaaction/40e2.png)<br>Road Rash game disk &vert; Goblins 2 game disk
+41|![41](amigaaction/41.png)|[🔗][41]|February 1993|1993-01-21|3.75GBP|9770957405005-02|![41](amigaaction/41e.png) ![41](amigaaction/41e2.png)<br>Zool/Nigel Mansell game disk &vert; Robin Hood/Elevation game disk
 42|![42](amigaaction/42.png)|[🔗][42]|March 1993|1993-02-18|3.75GBP|9770957405005-03|![42](amigaaction/42e2.png)<br>Body Blows/Furmyre game disk &vert; Creatures/Unsensible Soccer game disk [🔗][42e2]
 43|![43](amigaaction/43.png)|[🔗][43]|April 1993|1993-03-11|3.75GBP|9770957405005-04|64 page book &vert; Lemmings 2/Walker game disk &vert; Abandoned Place 2 game disk
-44|![44](amigaaction/44.png)|[🔗][44]|May 1993|1993-04-08|3.95GBP|9770957405012-05|Superfrog/Chuck Rock II game disk &vert; Fast Food/Sink or Swim game disk &vert; Super Cauldron/Deluxe Pacman game disk
-45|![45](amigaaction/45.png)|[🔗][45]|June 1993|1993-05-06|3.95GBP|9770957405012-06|Hired Guns/Death Bringer game disk &vert; Donk/Assault/Crazy Sue/AmigaQ/Isolation game disk
+44|![44](amigaaction/44.png)|[🔗][44]|May 1993|1993-04-08|3.95GBP|9770957405012-05|![44](amigaaction/44e.png) ![44](amigaaction/44e2.png) ![44](amigaaction/44e3.png)<br>Superfrog/Chuck Rock II game disk &vert; Fast Food/Sink or Swim game disk &vert; Super Cauldron/Deluxe Pacman game disk
+45|![45](amigaaction/45.png)|[🔗][45]|June 1993|1993-05-06|3.95GBP|9770957405012-06|![45](amigaaction/45e.png) ![45](amigaaction/45e2.png)<br>Hired Guns/Death Bringer game disk &vert; Donk/Assault/Crazy Sue/AmigaQ/Isolation game disk
 46|![46](amigaaction/46.png)|[🔗][46]|July 1993|1993-06-03|3.95GBP|9770957405012-07|Gunship 2000/Mutants from Mars/Battles Cars 3D/Trek-Trivia game disk &vert; Bully's Darts/Match of the Day/Amiga Worm/Pharoah's Curse game disk
-47|![47](amigaaction/47.png)|[🔗][47]|August 1993|1993-07-01|3.95GBP|9770957405012-08|Blastar/F1 Challenge/Battles Cars 2 game disk &vert; Syndicate game disk
-48|![48](amigaaction/48.png)|[🔗][48]|September 1993|1993-07-29|3.95GBP|9770957405012-09|Stardust/Universal Warrior game disk &vert; Tensai/Grav Attack/Jump 'n' Roll game disk
-49|![49](amigaaction/49.png)|[🔗][49]|October 1993|1993-08-26|3.95GBP|9770957405012-10|F117A/Deep Core/Defender game disk &vert; Suburban Commando/Smurf Hunt game disk &vert; Nicky 2/Winning Post game disk
-50|![50](amigaaction/50.png)|[🔗][50]|November 1993|1993-09-23|3.95GBP|9770957405012-11|Theatre of Death game disk &vert; Graham Gooch's 2nd Innings game disk
-51|![51](amigaaction/51.png)|[🔗][51]|December 1993|1993-10-21|3.95GBP|9770957405012-12|Cannon Fodder game disk &vert; Brutal Sports Football game disk
-52|![52](amigaaction/52.png)|[🔗][52]|Christmas 1993|1993-11-18|3.95GBP|9770957405012-32|Bob's Bad Day game disk &vert; Campaign 2/Charlie the Xmas Chimp game disk &vert; Jack the Ripper/Goochy Classic Match game disk
-53|![53](amigaaction/53.png)|[🔗][53]|January 1994|1993-12-16|3.95GBP|9770957405012-01|Alien Breed 2 game disk &vert; Disposable Hero/Dinosaur Detective Agency game disk
-54|![54](amigaaction/54.png)|[🔗][54]|February 1994|1994-01-13|3.95GBP|9770957405012-02|Body Blows Galactic game disk &vert; Fury of the Furries/Baldy game disk
-55|![55](amigaaction/55.png)|[🔗][55]|March 1994|1994-02-10|3.95GBP|9770957405012-03|Super Methane Bros game disk &vert; Jet Strike Fantasy Missions/Dithell in Space game disk
-56|![56](amigaaction/56.png)|[🔗][56]|April 1994|1994-03-10|3.95GBP|9770957405012-04|Liberation game disk &vert; Benefactor/Center Court Tennis game disk &vert; Assassin Special Edition game disk
-57|![57](amigaaction/57.png)|[🔗][57]|May 1994|1994-04-07|3.95GBP|9770957405012-05|Book &vert; Sierra Soccer World Challenge game disk &vert; Brian the Lion game disk
-58|![58](amigaaction/58.png)|[🔗][58]|June 1994|1994-05-05|3.95GBP|9770957405012-06|Puggsy game disk &vert; Rugby League Coach game disk
-59|![59](amigaaction/59.png)|[🔗][59]|July 1994|1994-06-09|3.95GBP|9770957405012-07|Apidya '94/Gulp! game disk &vert; Naughty Ones game disk
+47|![47](amigaaction/47.png)|[🔗][47]|August 1993|1993-07-01|3.95GBP|9770957405012-08|![47](amigaaction/47e.png) ![47](amigaaction/47e2.png)<br>Blastar/F1 Challenge/Battles Cars 2 game disk &vert; Syndicate game disk
+48|![48](amigaaction/48.png)|[🔗][48]|September 1993|1993-07-29|3.95GBP|9770957405012-09|![48](amigaaction/48e.png) ![48](amigaaction/48e2.png)<br>Stardust/Universal Warrior game disk &vert; Tensai/Grav Attack/Jump 'n' Roll game disk
+49|![49](amigaaction/49.png)|[🔗][49]|October 1993|1993-08-26|3.95GBP|9770957405012-10|![49](amigaaction/49e.png) ![49](amigaaction/49e2.png) ![49](amigaaction/49e3.png)<br>F117A/Deep Core/Defender game disk &vert; Suburban Commando/Smurf Hunt game disk &vert; Nicky 2/Winning Post game disk
+50|![50](amigaaction/50.png)|[🔗][50]|November 1993|1993-09-23|3.95GBP|9770957405012-11|![50](amigaaction/50e.png) ![50](amigaaction/50e2.png)<br>Theatre of Death game disk &vert; Graham Gooch's 2nd Innings game disk
+51|![51](amigaaction/51.png)|[🔗][51]|December 1993|1993-10-21|3.95GBP|9770957405012-12|![51](amigaaction/51e.png) ![51](amigaaction/51e2.png)<br>Cannon Fodder game disk &vert; Brutal Sports Football game disk
+52|![52](amigaaction/52.png)|[🔗][52]|Christmas 1993|1993-11-18|3.95GBP|9770957405012-32|![52](amigaaction/52e.png) ![52](amigaaction/52e2.png) ![52](amigaaction/52e3.png)<br>Bob's Bad Day game disk &vert; Campaign 2/Charlie the Xmas Chimp game disk &vert; Jack the Ripper/Goochy Classic Match game disk
+53|![53](amigaaction/53.png)|[🔗][53]|January 1994|1993-12-16|3.95GBP|9770957405012-01|![53](amigaaction/53e.png) ![53](amigaaction/53e2.png)<br>Alien Breed 2 game disk &vert; Disposable Hero/Dinosaur Detective Agency game disk
+54|![54](amigaaction/54.png)|[🔗][54]|February 1994|1994-01-13|3.95GBP|9770957405012-02|![54](amigaaction/54e.png) ![54](amigaaction/54e2.png)<br>Body Blows Galactic game disk &vert; Fury of the Furries/Baldy game disk
+55|![55](amigaaction/55.png)|[🔗][55]|March 1994|1994-02-10|3.95GBP|9770957405012-03|![55](amigaaction/55e.png) ![55](amigaaction/55e2.png)<br>Super Methane Bros game disk &vert; Jet Strike Fantasy Missions/Dithell in Space game disk
+56|![56](amigaaction/56.png)|[🔗][56]|April 1994|1994-03-10|3.95GBP|9770957405012-04|![56](amigaaction/56e.png) ![56](amigaaction/56e2.png) ![56](amigaaction/56e3.png)<br>Liberation game disk &vert; Benefactor/Center Court Tennis game disk &vert; Assassin Special Edition game disk
+57|![57](amigaaction/57.png)|[🔗][57]|May 1994|1994-04-07|3.95GBP|9770957405012-05|![57](amigaaction/57e.png)<br>Book &vert; Sierra Soccer World Challenge game disk &vert; Brian the Lion game disk
+58|![58](amigaaction/58.png)||June 1994|1994-05-05|3.95GBP|9770957405012-06|Puggsy game disk &vert; Rugby League Coach game disk
+59|![59](amigaaction/59.png)|[🔗][59]|July 1994|1994-06-09|3.95GBP|9770957405012-07|![59](amigaaction/59e.png)<br>Apidya '94/Gulp! game disk &vert; Naughty Ones game disk
 60|![60](amigaaction/60.png)|[🔗][60]|August 1994|1994-07-07|3.95GBP|9770957405012-08|![60](amigaaction/60e.png) ![60](amigaaction/60e2.png)<br>Tic Tac Toe/Wembley International Soccer/Sensible Massacre game disk &vert; D-Day/Missile Command/Simon/Gooch Cricket/Shoot Pontoon game disk [🔗][60e]
 61|![61](amigaaction/61.png)|[🔗][61]|September 1994|1994-08-04|3.95GBP|9770957405012-09|![61](amigaaction/61e.png) ![61](amigaaction/61e2.png)<br>Impossible Mission 2025 game disk &vert; Game disk [🔗][61e]
 62|![62](amigaaction/62.png)|[🔗][62]|October 1994|1994-09-01|3.95GBP|9770957405012-10|![62](amigaaction/62e.png) ![62](amigaaction/62e2.png) ![62](amigaaction/62e3.png)<br>Putty Squad game disk &vert; Vital Light/World Tour game disk &vert; Game disk [🔗][62e]
 63|![63](amigaaction/63.png)|[🔗][63]|November 1994|1994-09-29|3.95GBP|9770957405012-11|![63](amigaaction/63e.png) ![63](amigaaction/63e2.png) ![63](amigaaction/63e3.png)<br>Valhalla game disk &vert; Kid Chaos game disk &vert; Battleships/The Big Game/Hydrozone game disk [🔗][63e]
-64|![64](amigaaction/64.png)|[🔗][64]|December 1994|1994-10-27|3.95GBP|9770957405012-12|Tactical Manager game disk &vert; Dreamweb/Charlie J Cool/Ace the Space Case game disk
-65|![65](amigaaction/65.png)|[🔗][65]|Christmas 1994|1994-11-24|3.99GBP|9770957405029-13|![65](amigaaction/65e.png) ![65](amigaaction/65e2.png) ![65](amigaaction/65e3.png) ![65](amigaaction/65e4.png)<br>Skeleton Krew game disk &vert; Sensible Moon/Sound the Space Cadet game disk Bubble Gun/Fruit Mania game disk &vert; &vert; Cheat disk [🔗][65e]
+64|![64](amigaaction/64.png)|[🔗][64]|December 1994|1994-10-27|3.95GBP|9770957405012-12|![64](amigaaction/64e.png) ![64](amigaaction/64e2.png)<br>Tactical Manager game disk &vert; Dreamweb/Charlie J Cool/Ace the Space Case game disk
+65|![65](amigaaction/65.png)|[🔗][65]|Christmas 1994|1994-11-24|3.99GBP|9770957405029-13|![65](amigaaction/65e.png) ![65](amigaaction/65e2.png) ![65](amigaaction/65e3.png) ![65](amigaaction/65e4.png)<br>Skeleton Krew game disk &vert; Sensible Moon/Sound the Space Cadet game disk &vert; Bubble Gun/Fruit Mania game disk &vert; Cheat disk [🔗][65e]
 66|![66](amigaaction/66.png)|[🔗][66]|January 1995|1994-12-22|3.99GBP|9770957405029-01|![66](amigaaction/66e.png) ![66](amigaaction/66e2.png)<br>Shadow Fighter game disk &vert; Premier Manager 3 game disk &vert; £10 off Mortal Kombat II voucher disk [🔗][66e]
 67|![67](amigaaction/67.png)|[🔗][67]|Februrary 1995 (misprint)|1995-01-19|3.99GBP|9770957405029-02|![67](amigaaction/67e.png) ![67](amigaaction/67e2.png)<br>ATR/Base Jumper game disk &vert; Gorf/Scramble/Air Attack game disk [🔗][67e]
 68|![68](amigaaction/68.png)|[🔗][68]|March 1995|1995-02-16|3.99GBP|9770957405029-03|![68](amigaaction/68e.png) ![68](amigaaction/68e2.png)<br>Alien Breed 3D/Kingpin game disk &vert; Valhalla Before the War game disk [🔗][68e]
 69|![69](amigaaction/69.png)|[🔗][69]|April 1995|1995-03-16|3.99GBP|9770957405029-04|![69](amigaaction/69e.png) ![69](amigaaction/69e2.png) ![69](amigaaction/69e3.png) ![69](amigaaction/69e4.png)<br>Turbo Trax game disk &vert; Harry the Haddock/Space Invasion II/Dodge 'em/Galaxy Wars game disk &vert; Speris Legacy game disk &vert; Blues Brothers game disk [🔗][69e]
 70|![70](amigaaction/70.png)|[🔗][70]|May 1995|1995-04-13|3.99GBP|9770957405029-05|![70](amigaaction/70e.png) ![70](amigaaction/70e2.png) ![70](amigaaction/70e3.png)<br>Kwok's Game/PM3 Multi-Edit game disk &vert; Speris Legacy game disk &vert; Sensible Massacre 2/Demon game disk [🔗][70e]
 71|![71](amigaaction/71.png)|[🔗][71]|June 1995|1995-xx-xx|3.99GBP|9770957405029-06|![71](amigaaction/71e.png) ![71](amigaaction/71e2.png)<br>Brutal Paws of Fury/Thinkamania game disk &vert; Sensible World of Soccer update disk [🔗][71e]
-72|![72](amigaaction/72.png)|[🔗][72]|July 1995|1995-xx-xx|4.25GBP|9770957405036-07|![72](amigaaction/72e.png) ![72](amigaaction/72e2.png)<br>Ultimate Soccer Manager game disk &vert; Mortal Kumquat/Ruffian game disk [🔗][72e]
+72|![72](amigaaction/72.png)||July 1995|1995-xx-xx|4.25GBP|9770957405036-07|![72](amigaaction/72e.png) ![72](amigaaction/72e2.png)<br>Ultimate Soccer Manager game disk &vert; Mortal Kumquat/Ruffian game disk [🔗][72e]
 73|![73](amigaaction/73.png)|[🔗][73]|August 1995|1995-xx-xx|4.25GBP|9770957405036-08|![73](amigaaction/73e.png) ![73](amigaaction/73e2.png)<br>Quik the Thunder Rabbit game disks [🔗][73e]
-74|![74](amigaaction/74.png)|[🔗][74]|September 1995|1995-xx-xx|4.25GBP|9770957405036-09|![74](amigaaction/74e.png) ![74](amigaaction/74e2.png)<br>Timekeepers game disk &vert; Quik the Thunder Rabbit game disk [🔗][74e]
-75|![75](amigaaction/75.png)|[🔗][75]|October 1995|1995-xx-xx|4.25GBP|9770957405036-10|![75](amigaaction/75e.png) ![75](amigaaction/75e2.png)<br>Player Manager 2 game disk &vert; Conquest game disk [🔗][75e]
+74|![74](amigaaction/74.png)||September 1995|1995-xx-xx|4.25GBP|9770957405036-09|![74](amigaaction/74e.png) ![74](amigaaction/74e2.png)<br>Timekeepers game disk &vert; Quik the Thunder Rabbit game disk [🔗][74e]
+75|![75](amigaaction/75.png)||October 1995|1995-xx-xx|4.25GBP|9770957405036-10|![75](amigaaction/75e.png) ![75](amigaaction/75e2.png)<br>Player Manager 2 game disk &vert; Conquest game disk [🔗][75e]
 76|![76](amigaaction/76.png)|[🔗][76]|November 1995|1995-xx-xx|4.25GBP|9770957405036-11|Virocop game disk &vert; Hollywood Hustler game disk
 77|![77](amigaaction/77.png)|[🔗][77]|December 1995|1995-xx-xx|4.25GBP|9770957405036-12|Its Cricket demo disk &vert; Scramble/Galaxians game disk
-78|![78](amigaaction/78.png)|[🔗][78]|January 1996|1995-xx-xx|4.25GBP|9770957405036-01|Worms game disk &vert; Winning Post game disk
-79|![79](amigaaction/79.png)|[🔗][79]|February 1996|1995-12-21|4.25GBP|9770957405036-02|Super Tennis Champs game disk &vert; Charlie Xmas Chimp '96 game disk
+78|![78](amigaaction/78.png)|[🔗][78]|January 1996|1995-xx-xx|4.25GBP|9770957405036-01|![78](amigaaction/78e.png) ![78](amigaaction/78e2.png)<br>Worms game disk &vert; Winning Post game disk
+79|![79](amigaaction/79.png)|[🔗][79]|February 1996|1995-12-21|4.25GBP|9770957405036-02|![79](amigaaction/79e2.png)<br>Super Tennis Champs game disk &vert; Charlie Xmas Chimp '96 game disk
 80|![80](amigaaction/80.png)|[🔗][80]|March 1996|1996-01-18|4.25GBP|9770957405036-03|Wrath of Gwendor game disk &vert; Hillsea Lido game disk &vert; Technology 2 game disk
 81|![81](amigaaction/81.png)|[🔗][81]|April 1996|1996-02-26|4.25GBP|9770957405036-04|Joker Poker game disk &vert; Fruit Salad game disk &vert; Coala game disk
-82|![82](amigaaction/82.png)|[🔗][82]|May 1996|1996-03-25|4.25GBP|9770957405036-05|Charlie Chimp Remix game disk &vert; Saturday Night Snooker game disk &vert; Munch game disk
+82|![82](amigaaction/82.png)|[🔗][82]|May 1996|1996-03-25|4.25GBP|9770957405036-05|![82](amigaaction/82e.png) ![82](amigaaction/82e2.png) ![82](amigaaction/82e3.png)<br>Charlie Chimp Remix game disk &vert; Saturday Night Snooker game disk &vert; Munch game disk
 83|![83](amigaaction/83.png)|[🔗][83]|June 1996|1996-xx-xx|4.25GBP|9770957405036-06|![83](amigaaction/83e.png) ![83](amigaaction/83e2.png) ![83](amigaaction/83e3.png)<br>Fantasy Football League game disk x2 &vert; Slamtilt game disk [🔗][83e]
 84|![84](amigaaction/84.png)|[🔗][84]|July 1996|1996-xx-xx|4.25GBP|9770957405036-07|Seemore Doolittle's Underwater Capers game disk &vert; Friday Night Pool II game disk &vert; Mr. Blobby and the Pests game disk
 85|![85](amigaaction/85.png)|[🔗][85]|August 1996|1996-xx-xx|4.25GBP|9770957405036-08|Hollywood Hustler game disk &vert; The Great Escape game disk &vert; Outfall game disk
@@ -131,7 +131,7 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 [21]: https://archive.org/details/Amiga_Action_Issue_21_1991-06_Europress_Interactive_GB
 [22]: https://archive.org/details/Amiga_Action_Issue_22_1991-07_Europress_Interactive_GB
 [23]: https://archive.org/details/amigaaction23
-[24]: 
+
 [25]: https://archive.org/details/amiga-action-25
 [26]: https://archive.org/details/amiga-action-1991-11
 [27]: https://archive.org/details/amiga-action-27
@@ -165,7 +165,7 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 [55]: https://archive.org/details/amigaaction55
 [56]: https://archive.org/details/amigaaction56
 [57]: https://archive.org/details/amigaaction57
-[58]: 
+
 [59]: https://archive.org/details/amiga-action-59
 [60]: https://archive.org/details/amigaaction60
 [61]: https://archive.org/details/amigaaction61
@@ -179,10 +179,9 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 [69]: https://archive.org/details/amiga-action-69
 [70]: https://archive.org/details/amigaaction70
 [71]: https://archive.org/details/Amiga_Action_Issue_71_1995-06_IDG_Media_GB
-[72]: 
+
 [73]: https://archive.org/details/amiga-action-73
-[74]: 
-[75]: 
+
 [76]: https://archive.org/details/amigaaction76
 [77]: https://archive.org/details/amigaaction77
 [78]: https://archive.org/details/amiga-action-78

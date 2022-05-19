@@ -14,8 +14,8 @@ ISSN | 0954-8076
 Website | 
 Related | 
 
-Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
------ | ----- | ---- | ---------- | ----------- | ----- | ------- | ------
+Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
+----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
 1|![1](ace/01.png)|[🔗][1]|October 1987|1987-09-xx|1.50GBP||![1](ace/01e.png)<br>Blue Max/Gift from the Gods game cassette
 2|![2](ace/02.png)|[🔗][2]|November 1987|1987-10-01|1.50GBP||![2](ace/02e.png)<br>Bubble Bobble game cassette &vert; Discount card
 3|![3](ace/03.png)|[🔗][3]|December 1987|1987-11-05|1.50GBP||

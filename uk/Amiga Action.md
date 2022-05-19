@@ -14,8 +14,8 @@ ISSN | 0957-4050
 Website | 
 Related | 
 
-Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
------ | ----- | ---- | ---------- | ----------- | ----- | ------- | ------
+Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
+----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
 0|![0](amigaaction/00.png)|[🔗][0]||1989-xx-xx|||
 1|![1](amigaaction/01.png)|[🔗][1]|October 1989|1989-xx-xx|1.95GBP||
 2|![2](amigaaction/02.png)|[🔗][2]|November 1989|1989-10-xx|1.95GBP||
@@ -103,7 +103,7 @@ Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
 84|![84](amigaaction/84.png)|[🔗][84]|July 1996|1996-xx-xx|4.25GBP|9770957405036-07|Seemore Doolittle's Underwater Capers game disk &vert; Friday Night Pool II game disk &vert; Mr. Blobby and the Pests game disk
 85|![85](amigaaction/85.png)|[🔗][85]|August 1996|1996-xx-xx|4.25GBP|9770957405036-08|Hollywood Hustler game disk &vert; The Great Escape game disk &vert; Outfall game disk
 86|![86](amigaaction/86.png)|[🔗][86]|September 1996|1996-xx-xx|4.50GBP|9770957405036-09|Gorf/Scramble/Galaxians/Space Invasion game disk &vert; Valhalla & the Fortress of Eve game disk
-87|![87](amigaaction/87.png)|[🔗][87]|October 1996|1996|4.50GBP|9770957405043-10|Return of Gwendor game disk &vert; Seemore Doolittle's Toyland Capers game disk
+87|![87](amigaaction/87.png)|[🔗][87]|October 1996|1996-xx-xx|4.50GBP|9770957405043-10|Return of Gwendor game disk &vert; Seemore Doolittle's Toyland Capers game disk
 88|![88](amigaaction/88.png)|[🔗][88]|November 1996|1996-xx-xx|4.50GBP|9770957405043-11|The Treasure of Tutankahmun game disk
 89|![89](amigaaction/89.png)|[🔗][89]|December 1996|1996-xx-xx|4.50GBP|9770957405043-12|Egor in Toyland game disk
 

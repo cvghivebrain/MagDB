@@ -14,8 +14,8 @@ ISSN | 0960-4952
 Website | 
 Related | _[Mean Machines Sega](Mean%20Machines%20Sega.md)_
 
-Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
------ | ----- | ---- | ---------- | ----------- | ----- | ------- | ------
+Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
+----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
 0|![0](mean/00.png)||July 1990|1990-xx-xx||9770261369017-06|
 1|![1](mean/01.png)|[🔗][1]|Oct|1990-09-xx|1.75GBP|9770960495000-10|
 2|![2](mean/02.png)|[🔗][2]|Nov|1990-10-29|1.75GBP|9770960495000-11|![2](mean/02e.png)<br>Do Me a Favour... Master Mix '90 audio cassette

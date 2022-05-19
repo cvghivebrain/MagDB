@@ -14,8 +14,8 @@ ISSN | 0261-3697 (1-115; 23x-277) &vert; 0261-3597 (116-23x)
 Website | [computerandvideogames.com][web]
 Related | 
 
-Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
------ | ----- | ---- | ---------- | ----------- | ----- | ------- | ------
+Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
+----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
 1|![1](cvg/001.png)|[🔗][1]|November 1981|1981-xx-xx|0.75GBP||
 2|![2](cvg/002.png)|[🔗][2]|December 1981|1981-11-18|0.75GBP||
 3|![3](cvg/003.png)|[🔗][3]|January 1982|1981-12-16|0.75GBP||![3](cvg/003e.png)<br>Computer & Video Centre supplement [🔗][3e]

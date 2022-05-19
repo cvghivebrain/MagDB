@@ -14,8 +14,8 @@ ISSN |
 Website | 
 Related | 
 
-Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
------ | ----- | ---- | ---------- | ----------- | ----- | ------- | ------
+Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
+----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
 1|![1](advance/01.png)||Xmas 2001|2001-xx-xx|3.50GBP||
 2|![2](advance/02.png)|[🔗][2]|Spring 2002|2002-xx-xx|3.50GBP||
 3|![3](advance/03.png)|[🔗][3]|Winter 2002|2002-xx-xx|||

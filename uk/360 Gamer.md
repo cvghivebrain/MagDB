@@ -14,8 +14,8 @@ ISSN | 1747-8103
 Website | [360gamer-disc.co.uk][web] &vert; [360-gamer.com][web2] &vert; [one-gamer.com][web3]
 Related | 
 
-Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
------ | ----- | ---- | ---------- | ----------- | ----- | ------- | ------
+Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
+----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
 1|![1](360gamer/001.png)||Dec 2005|2005-xx-xx|2.99GBP|9771747810009-01|
 2|![2](360gamer/002.png)||Jan 2006|2005-12-08|2.99GBP|9771747810009-02|
 3|![3](360gamer/003.png)|||2006-01-05|2.99GBP|9771747810009-03|

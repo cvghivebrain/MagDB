@@ -14,8 +14,8 @@ ISSN | 0967-9014
 Website | 
 Related | _[Mean Machines](Mean%20Machines.md)_
 
-Issue | Cover | Full | Cover date | Actual date | Price | Barcode | Extras
------ | ----- | ---- | ---------- | ----------- | ----- | ------- | ------
+Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
+----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
 1|![1](mms/01.png)|[🔗][1]|Oct|1992-09-xx|3.95GBP|9770960495987-10|![1](mms/01e.png)<br>_Sonic the Hedgehog 2_ VHS cassette
 2|![2](mms/02.png)|[🔗][2]|Nov|1992-10-xx|2.50GBP|9770967901993-11|
 3|![3](mms/03.png)|[🔗][3]|Dec|1992-11-xx|3.95GBP|9770967901986-12|![3](mms/03e.png) ![3](mms/03e2.png)<br>EA Autumn/Winter '92-'93 catalogue [🔗][3e] &vert; Mean Machines Sega Preview Video [🔗][3v]

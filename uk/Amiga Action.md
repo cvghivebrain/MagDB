@@ -8,7 +8,7 @@ Country | United Kingdom
 Language | English
 Topic | Video games
 Years | 1989 &mdash; 1996
-Issues | 89
+Issues | 89 (90)
 Frequency | Monthly
 ISSN | 0957-4050
 Website | 

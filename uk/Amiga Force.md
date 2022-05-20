@@ -16,16 +16,16 @@ Related |
 
 Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
-0|![0](amigaforce/0.png)|[🔗][0]||1992-xx-xx|1.95GBP|9770954867097-07|
-1|![1](amigaforce/1.png)|[🔗][1]|Autumn/Winter 1992|1992-xx-xx|1.95GBP|9770967702002-10|
-2|![2](amigaforce/2.png)|[🔗][2]|Jan/Feb 1993|199x-xx-xx|1.95GBP|9770967702002-01|Stickers
-3|![3](amigaforce/3.png)|[🔗][3]|March '93|1993-02-18|1.95GBP|9770967702002-03|Battlecards
-4|![4](amigaforce/4.png)|[🔗][4]|April '93|1993-03-18|1.95GBP|9770967702002-04|
-5|![5](amigaforce/5.png)|[🔗][5]|May 1993|1993-04-15|1.95GBP|9770967702002-05|Battlecards
-6|![6](amigaforce/6.png)|[🔗][6]|June 1993|1993-05-20|1.95GBP|9770967702002-06|Disk labels
-7|![7](amigaforce/7.png)|[🔗][7]|July 1993|1993-06-17|1.95GBP|9770967702002-07|
-8|![8](amigaforce/8.png)|[🔗][8]|August 1993|1993-07-15|1.99GBP|9770967702019-08|
-9|![9](amigaforce/9.png)|[🔗][9]|September 1993|1993-08-12|1.99GBP|9770967702019-09|Tips cards
+0|![0](amigaforce/00.png)|[🔗][0]||1992-xx-xx|1.95GBP|9770954867097-07|
+1|![1](amigaforce/01.png)|[🔗][1]|Autumn/Winter 1992|1992-xx-xx|1.95GBP|9770967702002-10|
+2|![2](amigaforce/02.png)|[🔗][2]|Jan/Feb 1993|199x-xx-xx|1.95GBP|9770967702002-01|Stickers
+3|![3](amigaforce/03.png)|[🔗][3]|March '93|1993-02-18|1.95GBP|9770967702002-03|Battlecards
+4|![4](amigaforce/04.png)|[🔗][4]|April '93|1993-03-18|1.95GBP|9770967702002-04|
+5|![5](amigaforce/05.png)|[🔗][5]|May 1993|1993-04-15|1.95GBP|9770967702002-05|Battlecards
+6|![6](amigaforce/06.png)|[🔗][6]|June 1993|1993-05-20|1.95GBP|9770967702002-06|Disk labels
+7|![7](amigaforce/07.png)|[🔗][7]|July 1993|1993-06-17|1.95GBP|9770967702002-07|
+8|![8](amigaforce/08.png)|[🔗][8]|August 1993|1993-07-15|1.99GBP|9770967702019-08|
+9|![9](amigaforce/09.png)|[🔗][9]|September 1993|1993-08-12|1.99GBP|9770967702019-09|Tips cards
 10|![10](amigaforce/10.png)|[🔗][10]|October 1993|1993-09-09|2.25GBP|9770967702996-10|![10](amigaforce/10e.png)<br>Tips book [🔗][10e]
 11|![11](amigaforce/11.png)|[🔗][11]|November 1993|1993-09-30|2.25GBP|9770967702019-11|
 12|![12](amigaforce/12.png)|[🔗][12]|December 1993|1993-10-28|2.25GBP|9770967702026-12|![12](amigaforce/12e.png)<br>Tips book [🔗][12e]

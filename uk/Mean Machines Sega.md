@@ -12,7 +12,7 @@ Issues | 53
 Frequency | Monthly
 ISSN | 0967-9014
 Website | 
-Related | _[Mean Machines](Mean%20Machines.md)_
+Related | _[Mean Machines](Mean%20Machines.md)_ (previous)
 
 Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------

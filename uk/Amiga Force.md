@@ -6,7 +6,7 @@ Alternate titles |
 Publisher | Europress Impact (0-4) &vert; Impact Magazines (5-16)
 Country | United Kingdom
 Language | English
-Topic | Computers
+Topic | Video games
 Years | 1992 &mdash; 1994
 Issues | 16 (17)
 Frequency | Monthly

@@ -12,7 +12,7 @@ Issues | 136
 Frequency | Monthly
 ISSN | 0957-4867
 Website | 
-Related | _[ST Amiga Format](ST%20Amiga%20Format.md)_
+Related | _[ST Amiga Format](ST%20Amiga%20Format.md)_ (previous)
 
 Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------

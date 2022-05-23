@@ -12,7 +12,7 @@ Issues | 8
 Frequency | Monthly
 ISSN | 
 Website | 
-Related | _[Amiga Fun](Amiga%Fun.md)_ (previous)
+Related | _[Amiga Fun](Amiga%20Fun.md)_ (previous)
 
 Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------

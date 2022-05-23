@@ -37,7 +37,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 19|![19](amigaformat/019.png)||February 1991|1991-01-10|2.95GBP|9770957486004-02|3.5" floppy disk
 20|![20](amigaformat/020.png)||March 1991|1991-02-14|2.95GBP|9770957486004-03|3.5" floppy disk
 21|![21](amigaformat/021.png)||April 1991|1991-03-14|2.95GBP|9770957486004-04|3.5" floppy disk
-22|![22](amigaformat/022.png)||May 1991|1991-0x-xx|2.95GBP|9770957486004-05|3.5" floppy disk
+22|![22](amigaformat/022.png)||May 1991|1991-0x-xx|2.95GBP|9770957486004-05|3.5" floppy disk &vert; Amiga Power #0 supplement
 23|![23](amigaformat/023.png)||June 1991|1991-05-09|3.95GBP|9770957486981-06|3.5" floppy disk x2
 24|![24](amigaformat/024.png)||July 1991|1991-xx-xx|3.95GBP|9770957486974-07|3.5" floppy disk x2
 25|![25](amigaformat/025.png)||August 1991|1991-07-11|2.95GBP|9770957486004-08|3.5" floppy disk

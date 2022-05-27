@@ -114,7 +114,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 [35e]: https://archive.org/details/Amiga_Power_35_1994_Future_Publishing_GB_Mar_1994
 [36e]: https://archive.org/details/Amiga_Power_36_1994_Future_Publishing_GB_Apr_1994
 
-[40Ae]: https://archive.org/details/amiga-power-cd-1995-05
+[49Ae]: https://archive.org/details/amiga-power-cd-1995-05
 
 [62e]: https://archive.org/details/Amiga_Power_62_1996_Future_Publishing_GB_Jun_1996_F1_World_Championship_Edition
 [63e]: https://archive.org/details/Amiga_Power_63_1996_Future_Publishing_GB_Jul_1996_Battle_for_the_Ashes

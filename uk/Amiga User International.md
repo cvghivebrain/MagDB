@@ -8,7 +8,7 @@ Country | United Kingdom
 Language | English
 Topic | Computers
 Years | 1986 &mdash; 1997
-Issues | 106
+Issues | 109
 Frequency | Monthly
 ISSN | 0955-1077
 Website | 
@@ -46,8 +46,11 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 4.4|![4.4](aui/4.4.png)|[🔗][4.4]|April 1990|1990-xx-xx|1.95GBP|9770955107000-04|
 4.5|![4.5](aui/4.5.png)|||1990-xx-xx|||
 4.6|![4.6](aui/4.6.png)|[🔗][4.6]||1990-xx-xx|1.95GBP||
-4.7|![4.7](aui/4.7.png)|[🔗][4.7]|November 1990|1990-xx-xx|1.95GBP|9770955107000-11|
-4.8|![4.8](aui/4.8.png)|[🔗][4.8]|December 1990|1990-xx-xx|1.95GBP|9770955107000-12|
+4.7|![4.7](aui/4.7.png)|||1990-xx-xx|||
+4.8|![4.8](aui/4.8.png)|||1990-xx-xx|||
+4.9|![4.9](aui/4.9.png)||September/October 1990|1990-xx-xx|1.95GBP|074470121305-09|
+4.10|![4.10](aui/4.10.png)|[🔗][4.10]|November 1990|1990-xx-xx|1.95GBP|9770955107000-11|
+4.11|![4.11](aui/4.11.png)|[🔗][4.11]|December 1990|1990-xx-xx|1.95GBP|9770955107000-12|
 5.1|![5.1](aui/5.1.png)|[🔗][5.1]|January 1991|1990-xx-xx|1.95GBP|9770955107000-01|Hit Mix
 5.2|![5.2](aui/5.2.png)|[🔗][5.2]|February 1991|1991-xx-xx|1.95GBP|9770955107000-02|Grooves
 5.3|![5.3](aui/5.3.png)|[🔗][5.3]|March 1991|1991-xx-xx|1.95GBP|9770955107000-03|
@@ -77,7 +80,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 7.4|![7.4](aui/7.4.png)|[🔗][7.4]|April 1993|1993-xx-xx|3.25GBP|9770955107024-04|3.5" floppy disk
 7.5|![7.5](aui/7.5.png)|[🔗][7.5]|May/June 1993|1993-xx-xx|3.25GBP|9770955107024-05|3.5" floppy disk
 7.6|![7.6](aui/7.6.png)|[🔗][7.6]|July 1993|1993-xx-xx|3.25GBP|9770955107024-07|3.5" floppy disk
-7.7|![7.7](aui/7.7.png)|[🔗][7.7]||1993-xx-xx|||
+7.7|![7.7](aui/7.7.png)|[🔗][7.7]|August 1993|1993-xx-xx|3.25GBP|9770955107024-08|3.5" floppy disk
 7.8|![7.8](aui/7.8.png)|[🔗][7.8]|September 1993|1993-xx-xx|3.25GBP|9770955107024-09|3.5" floppy disk
 7.9|![7.9](aui/7.9.png)|[🔗][7.9]|October 1993|1993-xx-xx|3.25GBP|9770955107024-10|3.5" floppy disk
 7.10|![7.10](aui/7.10.png)|[🔗][7.10]|November 1993|1993-xx-xx|3.25GBP|9770955107024-11|3.5" floppy disk
@@ -89,7 +92,6 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 8.4|![8.4](aui/8.4.png)|[🔗][8.4]|May 1994|1994-xx-xx|3.99GBP|9770955107048-04|3.5" floppy disk x2
 8.4A|![8.4](aui/8.4A.png)||May 1994|1994-xx-xx|3.99GBP|9770955107048-04|3.5" floppy disk &vert; CD-ROM
 8.5|![8.5](aui/8.5.png)|[🔗][8.5]|June 1994|1994-xx-xx|3.99GBP|9770955107048-06|3.5" floppy disk x2
-8.5A|![8.5](aui/8.5A.png)||June 1994|1994-xx-xx|||3.5" floppy disk &vert; CD-ROM
 8.6|![8.6](aui/8.6.png)|[🔗][8.6]|July 1994|1994-06-02|3.99GBP|9770955107994-07|3.5" floppy disk x2
 8.6A|![8.6](aui/8.6A.png)||July 1994|1994-06-02|3.99GBP|9770955107994-07|3.5" floppy disk &vert; CD-ROM
 8.7|![8.7](aui/8.7.png)|[🔗][8.7]|August 1994|1994-xx-xx|3.50GBP|9770955107062-08|3.5" floppy disk
@@ -115,7 +117,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 10.4|![10.4](aui/10.4.png)|[🔗][10.4]|April 1996|1996-xx-xx|3.99GBP|9770955107093-04|3.5" floppy disk x2
 10.5|![10.5](aui/10.5.png)|[🔗][10.5]|May 1996|1996-xx-xx|3.99GBP|9770955107093-05|3.5" floppy disk x2
 10.6|![10.6](aui/10.6.png)|[🔗][10.6]|June 1996|1996-xx-xx|3.99GBP|9770955107093-06|3.5" floppy disk x2
-10.7|![10.7](aui/10.7.png)|||1996-xx-xx|||
+10.7|![10.7](aui/10.7.png)||July 1996|1996-xx-xx|||3.5" floppy disk x2
 10.8|![10.8](aui/10.8.png)|[🔗][10.8]|August 1996|1996-xx-xx|3.99GBP|9770955107093-08|3.5" floppy disk x2
 10.9|![10.9](aui/10.9.png)|[🔗][10.9]|September 1996|1996-xx-xx|3.99GBP|9770955107093-09|3.5" floppy disk x2
 10.10|![10.10](aui/10.10.png)|[🔗][10.10]|October 1996|1996-xx-xx|3.99GBP|9770955107093-10|3.5" floppy disk x2
@@ -156,7 +158,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 [4.4]: https://archive.org/details/amiga-user-international-vol-4-4
 [4.5]: https://archive.org/details/Amiga_User_International_1990005
 
-[4.8]: https://archive.org/details/Amiga_User_International_1990012
+[4.11]: https://archive.org/details/Amiga_User_International_1990012
 [5.1]: https://archive.org/details/Amiga_User_International_1991001
 [5.2]: https://archive.org/details/Amiga_User_International_Volume_05_No_02_1991-02_Maxwell_Specialist_Magazines_GB
 [5.3]: https://archive.org/details/Amiga_User_International_1991003

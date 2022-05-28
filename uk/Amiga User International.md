@@ -12,7 +12,7 @@ Issues | 109
 Frequency | Monthly
 ISSN | 0955-1077
 Website | 
-Related | _[Commodore Computing International](Commodore%20Computing%20International.md)_
+Related | _[Commodore Computing International](Commodore%20Computing%20International.md)_ (contained vol. 1 as supplement)
 
 Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
@@ -45,11 +45,11 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 4.3|![4.3](aui/4.3.png)|[🔗][4.3]|March 1990|1990-xx-xx|1.95GBP|074470121305-03|
 4.4|![4.4](aui/4.4.png)|[🔗][4.4]|April 1990|1990-xx-xx|1.95GBP|9770955107000-04|
 4.5|![4.5](aui/4.5.png)|||1990-xx-xx|||
-4.6|![4.6](aui/4.6.png)|[🔗][4.6]||1990-xx-xx|1.95GBP||
+4.6|![4.6](aui/4.6.png)|||1990-xx-xx|1.95GBP||
 4.7|![4.7](aui/4.7.png)|||1990-xx-xx|||
 4.8|![4.8](aui/4.8.png)|||1990-xx-xx|||
 4.9|![4.9](aui/4.9.png)||September/October 1990|1990-xx-xx|1.95GBP|074470121305-09|
-4.10|![4.10](aui/4.10.png)|[🔗][4.10]|November 1990|1990-xx-xx|1.95GBP|9770955107000-11|
+4.10|![4.10](aui/4.10.png)||November 1990|1990-xx-xx|1.95GBP|9770955107000-11|
 4.11|![4.11](aui/4.11.png)|[🔗][4.11]|December 1990|1990-xx-xx|1.95GBP|9770955107000-12|
 5.1|![5.1](aui/5.1.png)|[🔗][5.1]|January 1991|1990-xx-xx|1.95GBP|9770955107000-01|Hit Mix
 5.2|![5.2](aui/5.2.png)|[🔗][5.2]|February 1991|1991-xx-xx|1.95GBP|9770955107000-02|Grooves
@@ -57,77 +57,77 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 5.4|![5.4](aui/5.4.png)|[🔗][5.4]|April 1991|1991-xx-xx|1.95GBP|9770955107000-04|
 5.5|![5.5](aui/5.5.png)|[🔗][5.5]|May 1991|1991-xx-xx|1.95GBP|9770955107000-05|
 5.6|![5.6](aui/5.6.png)|[🔗][5.6]|June 1991|1991-xx-xx|2.95GBP|9770955107017-06|3.5" floppy disk
-5.7|![5.7](aui/5.7.png)|[🔗][5.7]|July 1991|1991-xx-xx|2.25GBP|9770955107017-07|3.5" floppy disk
-5.8|![5.8](aui/5.8.png)|[🔗][5.8]|August 1991|1991-xx-xx|2.25GBP|9770955107017-08|3.5" floppy disk
-5.9|![5.9](aui/5.9.png)|[🔗][5.9]|September 1991|1991-xx-xx|2.95GBP|9770955107017-09|3.5" floppy disk
-5.10|![5.10](aui/5.10.png)|[🔗][5.10]|October 1991|1991-xx-xx|2.95GBP|9770955107017-10|3.5" floppy disk
-5.11|![5.11](aui/5.11.png)|[🔗][5.11]|November 1991|1991-xx-xx|2.95GBP|9770955107017-11|3.5" floppy disk
-5.12|![5.12](aui/5.12.png)|[🔗][5.12]|December 1991|1991-xx-xx|2.95GBP|9770955107017-12|3.5" floppy disk
-6.1|![6.1](aui/6.1.png)|[🔗][6.1]|January 1992|1991-xx-xx|2.95GBP|9770955107017-01|3.5" floppy disk
-6.2|![6.2](aui/6.2.png)|[🔗][6.2]||1992-xx-xx|||
-6.3|![6.3](aui/6.3.png)|[🔗][6.3]|March 1992|1992-xx-xx|2.95GBP|9770955107017-03|3.5" floppy disk
-6.4|![6.4](aui/6.4.png)|[🔗][6.4]|April 1992|1992-xx-xx|2.95GBP|9770955107017-04|3.5" floppy disk
-6.5|![6.5](aui/6.5.png)|[🔗][6.5]|May 1992|1992-xx-xx|2.95GBP|9770955107017-05|3.5" floppy disk
-6.6|![6.6](aui/6.6.png)|[🔗][6.6]|June 1992|1992-xx-xx|2.95GBP|9770955107017-06|3.5" floppy disk
-6.7|![6.7](aui/6.7.png)|[🔗][6.7]|July 1992|1992-xx-xx|2.95GBP|9770955107017-07|3.5" floppy disk
-6.8|![6.8](aui/6.8.png)|[🔗][6.8]|August/September 1992|1992-xx-xx|2.95GBP|9770955107017-08|3.5" floppy disk
-6.10|![6.10](aui/6.10.png)|[🔗][6.10]|October 1992|1992-xx-xx|2.95GBP|9770955107017-10|3.5" floppy disk
-6.11|![6.11](aui/6.11.png)|[🔗][6.11]|November 1992|1992-10-01|2.95GBP|9770955107017-11|3.5" floppy disk
-6.12|![6.12](aui/6.12.png)|[🔗][6.12]|December 1992|1992-xx-xx|2.95GBP|9770955107017-12|3.5" floppy disk
+5.7|![5.7](aui/5.7.png)|[🔗][5.7]|July 1991|1991-xx-xx|2.25GBP|9770955107017-07|3.5" floppy disk [🔗][5.7e]
+5.8|![5.8](aui/5.8.png)|[🔗][5.8]|August 1991|1991-xx-xx|2.25GBP|9770955107017-08|![5.8](aui/5.8e.png)<br>3.5" floppy disk [🔗][5.8e]
+5.9|![5.9](aui/5.9.png)|[🔗][5.9]|September 1991|1991-xx-xx|2.95GBP|9770955107017-09|3.5" floppy disk [🔗][5.9e]
+5.10|![5.10](aui/5.10.png)||October 1991|1991-xx-xx|2.95GBP|9770955107017-10|![5.10](aui/5.10e.png)<br>3.5" floppy disk [🔗][5.10e]
+5.11|![5.11](aui/5.11.png)|[🔗][5.11]|November 1991|1991-xx-xx|2.95GBP|9770955107017-11|![5.11](aui/5.11e.png)<br>3.5" floppy disk [🔗][5.11e]
+5.12|![5.12](aui/5.12.png)|[🔗][5.12]|December 1991|1991-xx-xx|2.95GBP|9770955107017-12|3.5" floppy disk [🔗][5.12e]
+6.1|![6.1](aui/6.1.png)||January 1992|1991-xx-xx|2.95GBP|9770955107017-01|3.5" floppy disk [🔗][6.1e]
+6.2|![6.2](aui/6.2.png)|||1992-xx-xx|||3.5" floppy disk [🔗][6.2e]
+6.3|![6.3](aui/6.3.png)||March 1992|1992-xx-xx|2.95GBP|9770955107017-03|3.5" floppy disk [🔗][6.3e]
+6.4|![6.4](aui/6.4.png)||April 1992|1992-xx-xx|2.95GBP|9770955107017-04|3.5" floppy disk [🔗][6.4e]
+6.5|![6.5](aui/6.5.png)|[🔗][6.5]|May 1992|1992-xx-xx|2.95GBP|9770955107017-05|![6.5](aui/6.5e.png)<br>3.5" floppy disk [🔗][6.5e]
+6.6|![6.6](aui/6.6.png)|[🔗][6.6]|June 1992|1992-xx-xx|2.95GBP|9770955107017-06|3.5" floppy disk [🔗][6.6e]
+6.7|![6.7](aui/6.7.png)|[🔗][6.7]|July 1992|1992-xx-xx|2.95GBP|9770955107017-07|3.5" floppy disk [🔗][6.7e]
+6.8|![6.8](aui/6.8.png)|[🔗][6.8]|August/September 1992|1992-xx-xx|2.95GBP|9770955107017-08|3.5" floppy disk [🔗][6.8e]
+6.10|![6.10](aui/6.10.png)|[🔗][6.10]|October 1992|1992-xx-xx|2.95GBP|9770955107017-10|3.5" floppy disk [🔗][6.10e]
+6.11|![6.11](aui/6.11.png)||November 1992|1992-10-01|2.95GBP|9770955107017-11|![6.11](aui/6.11e.png)<br>3.5" floppy disk [🔗][6.11e]
+6.12|![6.12](aui/6.12.png)|[🔗][6.12]|December 1992|1992-xx-xx|2.95GBP|9770955107017-12|3.5" floppy disk [🔗][6.12e]
 7.1|![7.1](aui/7.1.png)|[🔗][7.1]|January 1993|1992-xx-xx|2.95GBP|9770955107017-01|3.5" floppy disk
-7.2|![7.2](aui/7.2.png)|[🔗][7.2]|February 1993|1993-xx-xx|3.25GBP|9770955107024-02|3.5" floppy disk
-7.3|![7.3](aui/7.3.png)|[🔗][7.3]|March 1993|1993-xx-xx|3.25GBP|9770955107024-03|3.5" floppy disk
-7.4|![7.4](aui/7.4.png)|[🔗][7.4]|April 1993|1993-xx-xx|3.25GBP|9770955107024-04|3.5" floppy disk
-7.5|![7.5](aui/7.5.png)|[🔗][7.5]|May/June 1993|1993-xx-xx|3.25GBP|9770955107024-05|3.5" floppy disk
+7.2|![7.2](aui/7.2.png)||February 1993|1993-xx-xx|3.25GBP|9770955107024-02|3.5" floppy disk
+7.3|![7.3](aui/7.3.png)|[🔗][7.3]|March 1993|1993-xx-xx|3.25GBP|9770955107024-03|![7.3](aui/7.3e.png)<br>3.5" floppy disk [🔗][7.3e]
+7.4|![7.4](aui/7.4.png)||April 1993|1993-xx-xx|3.25GBP|9770955107024-04|![7.4](aui/7.4e.png)<br>3.5" floppy disk [🔗][7.4e]
+7.5|![7.5](aui/7.5.png)||May/June 1993|1993-xx-xx|3.25GBP|9770955107024-05|3.5" floppy disk
 7.6|![7.6](aui/7.6.png)|[🔗][7.6]|July 1993|1993-xx-xx|3.25GBP|9770955107024-07|3.5" floppy disk
-7.7|![7.7](aui/7.7.png)|[🔗][7.7]|August 1993|1993-xx-xx|3.25GBP|9770955107024-08|3.5" floppy disk
-7.8|![7.8](aui/7.8.png)|[🔗][7.8]|September 1993|1993-xx-xx|3.25GBP|9770955107024-09|3.5" floppy disk
-7.9|![7.9](aui/7.9.png)|[🔗][7.9]|October 1993|1993-xx-xx|3.25GBP|9770955107024-10|3.5" floppy disk
+7.7|![7.7](aui/7.7.png)||August 1993|1993-xx-xx|3.25GBP|9770955107024-08|![7.8](aui/7.8e.png)<br>3.5" floppy disk
+7.8|![7.8](aui/7.8.png)|[🔗][7.8]|September 1993|1993-xx-xx|3.25GBP|9770955107024-09|![7.9](aui/7.9e.png)<br>3.5" floppy disk
+7.9|![7.9](aui/7.9.png)||October 1993|1993-xx-xx|3.25GBP|9770955107024-10|![7.10](aui/7.10e.png)<br>3.5" floppy disk
 7.10|![7.10](aui/7.10.png)|[🔗][7.10]|November 1993|1993-xx-xx|3.25GBP|9770955107024-11|3.5" floppy disk
-7.12|![7.12](aui/7.12.png)|[🔗][7.12]|December 1993|1993-xx-xx|3.25GBP|9770955107024-12|3.5" floppy disk &vert; Supplement
-8.1|![8.1](aui/8.1.png)|[🔗][8.1]|January 1994|1993-xx-xx|3.25GBP|9770955107024-01|3.5" floppy disk
-8.2|![8.2](aui/8.2.png)|[🔗][8.2]|February 1994|1994-xx-xx|3.75GBP|9770955107031-02|3.5" floppy disk x2
-8.3|![8.3](aui/8.3.png)|[🔗][8.3]|March/April 1994|1994-xx-xx|3.75GBP|9770955107031-03|3.5" floppy disk x2
+7.12|![7.12](aui/7.12.png)|[🔗][7.12]|December 1993|1993-xx-xx|3.25GBP|9770955107024-12|![7.12](aui/7.12e.png)<br>3.5" floppy disk &vert; Supplement
+8.1|![8.1](aui/8.1.png)|[🔗][8.1]|January 1994|1993-xx-xx|3.25GBP|9770955107024-01|![8.1](aui/8.1e.png)<br>3.5" floppy disk
+8.2|![8.2](aui/8.2.png)|[🔗][8.2]|February 1994|1994-xx-xx|3.75GBP|9770955107031-02|![8.2](aui/8.2e.png) ![8.2](aui/8.2e2.png)<br>3.5" floppy disk x2
+8.3|![8.3](aui/8.3.png)|[🔗][8.3]|March/April 1994|1994-xx-xx|3.75GBP|9770955107031-03|![8.3](aui/8.3e.png) ![8.3](aui/8.3e2.png)<br>3.5" floppy disk x2
 8.3A|![8.3](aui/8.3A.png)||March/April 1994|1994-xx-xx|3.75GBP|9770955107031-03|3.5" floppy disk &vert; CD-ROM
-8.4|![8.4](aui/8.4.png)|[🔗][8.4]|May 1994|1994-xx-xx|3.99GBP|9770955107048-04|3.5" floppy disk x2
+8.4|![8.4](aui/8.4.png)|[🔗][8.4]|May 1994|1994-xx-xx|3.99GBP|9770955107048-04|![8.4](aui/8.4e.png) ![8.4](aui/8.4e2.png)<br>3.5" floppy disk x2
 8.4A|![8.4](aui/8.4A.png)||May 1994|1994-xx-xx|3.99GBP|9770955107048-04|3.5" floppy disk &vert; CD-ROM
-8.5|![8.5](aui/8.5.png)|[🔗][8.5]|June 1994|1994-xx-xx|3.99GBP|9770955107048-06|3.5" floppy disk x2
-8.6|![8.6](aui/8.6.png)|[🔗][8.6]|July 1994|1994-06-02|3.99GBP|9770955107994-07|3.5" floppy disk x2
+8.5|![8.5](aui/8.5.png)|[🔗][8.5]|June 1994|1994-xx-xx|3.99GBP|9770955107048-06|![8.5](aui/8.5e.png) ![8.5](aui/8.5e2.png)<br>3.5" floppy disk x2
+8.6|![8.6](aui/8.6.png)|[🔗][8.6]|July 1994|1994-06-02|3.99GBP|9770955107994-07|![8.6](aui/8.6e.png) ![8.6](aui/8.6e2.png)<br>3.5" floppy disk x2
 8.6A|![8.6](aui/8.6A.png)||July 1994|1994-06-02|3.99GBP|9770955107994-07|3.5" floppy disk &vert; CD-ROM
 8.7|![8.7](aui/8.7.png)|[🔗][8.7]|August 1994|1994-xx-xx|3.50GBP|9770955107062-08|3.5" floppy disk
 8.8|![8.8](aui/8.8.png)|[🔗][8.8]|September 1994|1994-08-04|3.50GBP|9770955107062-09|3.5" floppy disk
-8.9|![8.9](aui/8.9.png)|[🔗][8.9]|October 1994|1994-xx-xx|3.99GBP|9770955107079-10|3.5" floppy disk x2
-8.10|![8.10](aui/8.10.png)|[🔗][8.10]|November 1994|1994-xx-xx|3.75GBP|9770955107086-11|3.5" floppy disk x2
-8.11|![8.11](aui/8.11.png)|[🔗][8.11]|December 1994|1994-11-xx|3.75GBP|9770955107987-12|3.5" floppy disk x2
-9.1|![9.1](aui/9.1.png)|[🔗][9.1]|January 1995|1994-xx-xx|3.75GBP|9770955107987-01|3.5" floppy disk x2
-9.2|![9.2](aui/9.2.png)|[🔗][9.2]|February 1995|1995-01-xx|3.75GBP|9770955107086-02|3.5" floppy disk x2
-9.3|![9.3](aui/9.3.png)|[🔗][9.3]|March 1995|1995-xx-xx|3.75GBP|9770955107086-03|3.5" floppy disk x2
-9.4|![9.4](aui/9.4.png)|[🔗][9.4]|April 1995|1995-xx-xx|3.75GBP|9770955107086-04|3.5" floppy disk x2
-9.5|![9.5](aui/9.5.png)|[🔗][9.5]|May 1995|1995-04-06|3.75GBP|9770955107086-05|3.5" floppy disk x2
-9.6|![9.6](aui/9.6.png)|[🔗][9.6]|June 1995|1995-05-04|3.75GBP|9770955107086-06|3.5" floppy disk x2
-9.7|![9.7](aui/9.7.png)|[🔗][9.7]|July 1995|1995-xx-xx|3.75GBP|9770955107086-07|3.5" floppy disk x2
-9.8|![9.8](aui/9.8.png)|[🔗][9.8]|August 1995|1995-07-06|3.75GBP|9770955107086-08|3.5" floppy disk x2
-9.9|![9.9](aui/9.9.png)|[🔗][9.9]|September 1995|1995-xx-xx|3.99GBP|9770955107093-09|3.5" floppy disk x2
-9.10|![9.10](aui/9.10.png)|[🔗][9.10]|October 1995|1995-xx-xx|3.99GBP|9770955107093-10|3.5" floppy disk x2
-9.11|![9.11](aui/9.11.png)|[🔗][9.11]|November 1995|1995-xx-xx|3.99GBP|9770955107093-11|3.5" floppy disk x2
-9.12|![9.12](aui/9.12.png)|[🔗][9.12]|December 1995|1995-xx-xx|3.99GBP|9770955107093-12|3.5" floppy disk x2
-10.1|![10.1](aui/10.1.png)|[🔗][10.1]|January 1996|1995-xx-xx|3.99GBP|9770955107093-01|3.5" floppy disk x2
-10.2|![10.2](aui/10.2.png)|[🔗][10.2]|February 1996|1996-xx-xx|3.99GBP|9770955107093-02|3.5" floppy disk x2
-10.3|![10.3](aui/10.3.png)|[🔗][10.3]|March 1996|1996-xx-xx|3.99GBP|9770955107093-03|3.5" floppy disk x2
-10.4|![10.4](aui/10.4.png)|[🔗][10.4]|April 1996|1996-xx-xx|3.99GBP|9770955107093-04|3.5" floppy disk x2
-10.5|![10.5](aui/10.5.png)|[🔗][10.5]|May 1996|1996-xx-xx|3.99GBP|9770955107093-05|3.5" floppy disk x2
-10.6|![10.6](aui/10.6.png)|[🔗][10.6]|June 1996|1996-xx-xx|3.99GBP|9770955107093-06|3.5" floppy disk x2
-10.7|![10.7](aui/10.7.png)||July 1996|1996-xx-xx|||3.5" floppy disk x2
-10.8|![10.8](aui/10.8.png)|[🔗][10.8]|August 1996|1996-xx-xx|3.99GBP|9770955107093-08|3.5" floppy disk x2
-10.9|![10.9](aui/10.9.png)|[🔗][10.9]|September 1996|1996-xx-xx|3.99GBP|9770955107093-09|3.5" floppy disk x2
-10.10|![10.10](aui/10.10.png)|[🔗][10.10]|October 1996|1996-xx-xx|3.99GBP|9770955107093-10|3.5" floppy disk x2
+8.9|![8.9](aui/8.9.png)|[🔗][8.9]|October 1994|1994-xx-xx|3.99GBP|9770955107079-10|![8.9](aui/8.9e.png) ![8.9](aui/8.9e2.png)<br>3.5" floppy disk x2
+8.10|![8.10](aui/8.10.png)|[🔗][8.10]|November 1994|1994-xx-xx|3.75GBP|9770955107086-11|![8.10](aui/8.10e.png) ![8.10](aui/8.10e2.png)<br>3.5" floppy disk x2
+8.11|![8.11](aui/8.11.png)|[🔗][8.11]|December 1994|1994-11-xx|3.75GBP|9770955107987-12|![8.11](aui/8.11e.png) ![8.11](aui/8.11e2.png)<br>3.5" floppy disk x2
+9.1|![9.1](aui/9.1.png)|[🔗][9.1]|January 1995|1994-xx-xx|3.75GBP|9770955107987-01|![9.1](aui/9.1e.png) ![9.1](aui/9.1e2.png)<br>3.5" floppy disk x2
+9.2|![9.2](aui/9.2.png)||February 1995|1995-01-xx|3.75GBP|9770955107086-02|![9.2](aui/9.2e.png) ![9.2](aui/9.2e2.png)<br>3.5" floppy disk x2
+9.3|![9.3](aui/9.3.png)||March 1995|1995-xx-xx|3.75GBP|9770955107086-03|![9.3](aui/9.3e.png) ![9.3](aui/9.3e2.png)<br>3.5" floppy disk x2
+9.4|![9.4](aui/9.4.png)|[🔗][9.4]|April 1995|1995-xx-xx|3.75GBP|9770955107086-04|![9.4](aui/9.4e.png) ![9.4](aui/9.4e2.png)<br>3.5" floppy disk x2
+9.5|![9.5](aui/9.5.png)|[🔗][9.5]|May 1995|1995-04-06|3.75GBP|9770955107086-05|![9.5](aui/9.5e.png) ![9.5](aui/9.5e2.png)<br>3.5" floppy disk x2
+9.6|![9.6](aui/9.6.png)|[🔗][9.6]|June 1995|1995-05-04|3.75GBP|9770955107086-06|![9.6](aui/9.6e.png) ![9.6](aui/9.6e2.png)<br>3.5" floppy disk x2
+9.7|![9.7](aui/9.7.png)|[🔗][9.7]|July 1995|1995-xx-xx|3.75GBP|9770955107086-07|![9.7](aui/9.7e.png) ![9.7](aui/9.7e2.png)<br>3.5" floppy disk x2
+9.8|![9.8](aui/9.8.png)|[🔗][9.8]|August 1995|1995-07-06|3.75GBP|9770955107086-08|![9.8](aui/9.8e.png) ![9.8](aui/9.8e2.png)<br>3.5" floppy disk x2
+9.9|![9.9](aui/9.9.png)|[🔗][9.9]|September 1995|1995-xx-xx|3.99GBP|9770955107093-09|![9.9](aui/9.9e.png) ![9.9](aui/9.9e2.png)<br>3.5" floppy disk x2
+9.10|![9.10](aui/9.10.png)|[🔗][9.10]|October 1995|1995-xx-xx|3.99GBP|9770955107093-10|![9.10](aui/9.10e.png) ![9.10](aui/9.10e2.png)<br>3.5" floppy disk x2
+9.11|![9.11](aui/9.11.png)|[🔗][9.11]|November 1995|1995-xx-xx|3.99GBP|9770955107093-11|![9.11](aui/9.11e.png) ![9.11](aui/9.11e2.png)<br>3.5" floppy disk x2
+9.12|![9.12](aui/9.12.png)|[🔗][9.12]|December 1995|1995-xx-xx|3.99GBP|9770955107093-12|![9.12](aui/9.12e.png) ![9.12](aui/9.12e2.png)<br>3.5" floppy disk x2
+10.1|![10.1](aui/10.1.png)|[🔗][10.1]|January 1996|1995-xx-xx|3.99GBP|9770955107093-01|![10.1](aui/10.1e.png) ![10.1](aui/10.1e2.png)<br>3.5" floppy disk x2
+10.2|![10.2](aui/10.2.png)|[🔗][10.2]|February 1996|1996-xx-xx|3.99GBP|9770955107093-02|![10.2](aui/10.2e.png) ![10.2](aui/10.2e2.png)<br>3.5" floppy disk x2
+10.3|![10.3](aui/10.3.png)|[🔗][10.3]|March 1996|1996-xx-xx|3.99GBP|9770955107093-03|![10.3](aui/10.3e.png) ![10.3](aui/10.3e2.png)<br>3.5" floppy disk x2
+10.4|![10.4](aui/10.4.png)|[🔗][10.4]|April 1996|1996-xx-xx|3.99GBP|9770955107093-04|![10.4](aui/10.4e.png) ![10.4](aui/10.4e2.png)<br>3.5" floppy disk x2
+10.5|![10.5](aui/10.5.png)|[🔗][10.5]|May 1996|1996-xx-xx|3.99GBP|9770955107093-05|![10.5](aui/10.5e.png) ![10.5](aui/10.5e2.png)<br>3.5" floppy disk x2
+10.6|![10.6](aui/10.6.png)||June 1996|1996-xx-xx|3.99GBP|9770955107093-06|![10.6](aui/10.6e.png) ![10.6](aui/10.6e2.png)<br>3.5" floppy disk x2
+10.7|![10.7](aui/10.7.png)|[🔗][10.7]|July 1996|1996-xx-xx|||![10.7](aui/10.7e.png) ![10.7](aui/10.7e2.png)<br>3.5" floppy disk x2
+10.8|![10.8](aui/10.8.png)||August 1996|1996-xx-xx|3.99GBP|9770955107093-08|![10.8](aui/10.8e.png) ![10.8](aui/10.8e2.png)<br>3.5" floppy disk x2
+10.9|![10.9](aui/10.9.png)|[🔗][10.9]|September 1996|1996-xx-xx|3.99GBP|9770955107093-09|![10.9](aui/10.9e.png) ![10.9](aui/10.9e2.png)<br>3.5" floppy disk x2
+10.10|![10.10](aui/10.10.png)|[🔗][10.10]|October 1996|1996-xx-xx|3.99GBP|9770955107093-10|![10.10](aui/10.10e.png) ![10.10](aui/10.10e2.png)<br>3.5" floppy disk x2
 10.11|![10.11](aui/10.11.png)|[🔗][10.11]|November 1996|1996-xx-xx|3.99GBP|9770955107093-11|3.5" floppy disk x2
-10.12|![10.12](aui/10.12.png)|[🔗][10.12]|December 1996|1996-xx-xx|3.99GBP|9770955107093-12|3.5" floppy disk x2
-11.1|![11.1](aui/11.1.png)|[🔗][11.1]|January 1997|1996-xx-xx|3.99GBP|9770955107093-1|3.5" floppy disk x2
-11.2|![11.2](aui/11.2.png)|[🔗][11.2]|February 1997|1997-xx-xx|4.25GBP|9770955107109-2|3.5" floppy disk x2
-11.3|![11.3](aui/11.3.png)|[🔗][11.3]|March 1997|1997-02-06|4.25GBP|9770955107109-3|3.5" floppy disk x2
-11.4|![11.4](aui/11.4.png)|[🔗][11.4]|April 1997|1997-03-06|4.25GBP|9770955107109-4|3.5" floppy disk x2
-11.5|![11.5](aui/11.5.png)|[🔗][11.5]|May 1997|1997-04-03|4.25GBP|9770955107109-05|3.5" floppy disk x2 
+10.12|![10.12](aui/10.12.png)|[🔗][10.12]|December 1996|1996-xx-xx|3.99GBP|9770955107093-12|![10.12](aui/10.12e.png) ![10.12](aui/10.12e2.png)<br>3.5" floppy disk x2
+11.1|![11.1](aui/11.1.png)||January 1997|1996-xx-xx|3.99GBP|9770955107093-01|![11.1](aui/11.1e.png) ![11.1](aui/11.1e2.png)<br>3.5" floppy disk x2
+11.2|![11.2](aui/11.2.png)||February 1997|1997-xx-xx|4.25GBP|9770955107109-02|![11.2](aui/11.2e.png) ![11.2](aui/11.2e2.png)<br>3.5" floppy disk x2
+11.3|![11.3](aui/11.3.png)||March 1997|1997-02-06|4.25GBP|9770955107109-03|![11.3](aui/11.3e.png) ![11.3](aui/11.3e2.png)<br>3.5" floppy disk x2
+11.4|![11.4](aui/11.4.png)||April 1997|1997-03-06|4.25GBP|9770955107109-04|![11.4](aui/11.4e.png) ![11.4](aui/11.4e2.png)<br>3.5" floppy disk x2
+11.5|![11.5](aui/11.5.png)|[🔗][11.5]|May 1997|1997-04-03|4.25GBP|9770955107109-05|![11.5](aui/11.5e.png) ![11.5](aui/11.5e2.png)<br>3.5" floppy disk x2 
 
 [2.2]: https://archive.org/download/AUIHi1989005/AUIHi1988002.zip/
 [2.3]: https://archive.org/details/AmigaUserInternationalv0203198803CroftwardLtd
@@ -179,7 +179,6 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 [6.10]: https://archive.org/download/AUIHi1989005/AUIHI1992010.zip/
 
 [6.12]: https://archive.org/download/AUIHi1989005/AUIHI1992012.zip/
-
 [7.1]: https://archive.org/details/amiga-user-international-vol-7-1
 
 [7.3]: https://archive.org/details/Amiga_User_International_Volume_07_No_03_1993-03_HHL_Publishing_GB
@@ -226,3 +225,24 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 [10.12]: https://archive.org/details/amiga-user-international-vol-10-12
 
 [11.5]: https://archive.org/details/amiga-user-international-vol-11-5
+
+[5.7e]: https://archive.org/details/Amiga_User_International_Superdisk_02_1991_Maxwell_Specialist_Magazines_GB_Jul_1
+[5.8e]: https://archive.org/details/Amiga_User_International_Superdisk_03_1991_Maxwell_Specialist_Magazines_GB_Aug_1
+[5.9e]: https://archive.org/details/Amiga_User_International_Superdisk_04_1991_Maxwell_Specialist_Magazines_GB_Sep_1
+[5.10e]: https://archive.org/details/Amiga_User_International_Superdisk_05_1991_Maxwell_Specialist_Magazines_GB_Oct_1
+[5.11e]: https://archive.org/details/Amiga_User_International_Superdisk_06_1991_Maxwell_Specialist_Magazines_GB_Nov_1
+[5.12e]: https://archive.org/details/Amiga_User_International_Superdisk_07_1991_Maxwell_Specialist_Magazines_GB_v_Sad
+[6.1e]: https://archive.org/details/Amiga_User_International_Superdisk_08_1992_Headway_Home_Law_GB_Jan_1992
+[6.2e]: https://archive.org/details/Amiga_User_International_Superdisk_09_1992_Headway_Home_Law_GB_Feb_1992
+[6.3e]: https://archive.org/details/Amiga_User_International_Superdisk_10_1992_Headway_Home_Law_GB_Mar_1992
+[6.4e]: https://archive.org/details/Amiga_User_International_Superdisk_11_1992_Headway_Home_Law_GB_Apr_1992
+[6.5e]: https://archive.org/details/Amiga_User_International_Superdisk_12_1992_Headway_Home_Law_GB_May_1992
+[6.6e]: https://archive.org/details/Amiga_User_International_Superdisk_13_1992_Headway_Home_Law_GB_Jun_1992
+[6.7e]: https://archive.org/details/Amiga_User_International_Superdisk_14_1992_Headway_Home_Law_GB_Jul_1992
+[6.8e]: https://archive.org/details/Amiga_User_International_Superdisk_15_1992_Headway_Home_Law_GB_Aug_1992
+[6.10e]: https://archive.org/details/Amiga_User_International_Superdisk_16_1992_Headway_Home_Law_GB_Sep_1992
+[6.11e]: https://archive.org/details/Amiga_User_International_Superdisk_17_1992_Headway_Home_Law_GB_Oct_1992
+[6.12e]: https://archive.org/details/Amiga_User_International_Superdisk_18_1992_Headway_Home_Law_GB_Nov_1992
+
+[7.3e]: https://archive.org/details/Amiga_User_International_Superdisk_21_1993_Headway_Home_Law_GB_Mar_1993
+[7.4e]: https://archive.org/details/Amiga_User_International_Superdisk_22_1993_Headway_Home_Law_GB_Apr_1993

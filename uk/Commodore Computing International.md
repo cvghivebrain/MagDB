@@ -12,7 +12,7 @@ Issues | 93
 Frequency | Monthly
 ISSN | 0265-475X (1.1-3.9) &vert; 0276-596X (3.10-)
 Website | 
-Related | _[Amiga User International](Amiga%20User%20International.md)_ (split) &vert; _[Commodore & Amiga Horizons](Commodore%20Amiga%20Horizons)_ (merged)
+Related | _[Amiga User International](Amiga%20User%20International.md)_ (split) &vert; _[Commodore & Amiga Horizons](Commodore%20&%20Amiga%20Horizons)_ (merged)
 
 Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------

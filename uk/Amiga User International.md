@@ -7,7 +7,7 @@ Publisher | Croftward Limited (2.1-4.6) &vert; Maxwell Specialist Magazines (4.7
 Country | United Kingdom
 Language | English
 Topic | Computers
-Years | 1986 &mdash; 1997
+Years | 1987 &mdash; 1997
 Issues | 109
 Frequency | Monthly
 ISSN | 0955-1077

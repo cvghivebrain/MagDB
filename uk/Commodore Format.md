@@ -77,7 +77,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 58|![58](cformat/58.png)|[🔗][XX]|July 1995|1994-06-17|3.25GBP|9770960516057-07|C64 cassette
 59|![59](cformat/59.png)|[🔗][XX]|August 1995|1994-07-11|3.25GBP|9770960516057-08|C64 cassette
 60|![60](cformat/60.png)|[🔗][XX]|September 1995|1994-xx-xx|3.25GBP|9770960516057-09|C64 cassette
-61|![61](cformat/61.png)|[🔗][XX]|October 1995|1994-09-05|3.25GBP|9770960516057-10|C64 cassette &vert; Poster 
+61|![61](cformat/61.png)|[🔗][XX]|October 1995|1994-09-05|3.25GBP|9770960516057-10|C64 cassette
 
 [XX]: https://archive.org/details/CommodoreFormatHi000
 

@@ -14,7 +14,7 @@ ISSN | 1475-1399
 Website | 
 Related | _[Cube Solutions](Cube%20Solutions.md)_
 
-| Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
+Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
 1|![1](cube/01.png)|[🔗][1]||2001-11-22|3.20GBP|9771475139007-01|
 2|![2](cube/02.png)|[🔗][2]||2002-01-10|3.20GBP|9771475139007-02|

@@ -14,7 +14,7 @@ ISSN | 1476-7260
 Website | 
 Related | _[Cube](Cube.md)_
 
-| Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
+Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
 1|![1](cubesol/01.png)|||2002-xx-xx|3.99GBP|9771476726008-01|
 2|![2](cubesol/02.png)|||2002-xx-xx|3.99GBP|9771476726008-02|

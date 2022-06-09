@@ -12,7 +12,7 @@ Issues | 20
 Frequency | Monthly
 ISSN | 1467-5250
 Website | [dc-uk.co.uk][web]
-Related | _[DC-UK](DC-UK.md)_
+Related | _[DC-Tips](DC-Tips.md)_
 
 Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------

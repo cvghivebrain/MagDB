@@ -17,16 +17,16 @@ Related | _[Dreamcast Solutions](Dreamcast%20Solutions.md)_
 Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
 1|![1](dcmag/01.png)|[🔗][1]||1999-09-09|2.95GBP|9771466238009-01|Dreamcast Solutions Sonic Adventure booklet
-2|![2](dcmag/02.png)|[🔗][2]||1999-10-21|2.95GBP|9771466238009-02|Dreamcast Solutions Virtua Fighter 3tb booklet
+2|![2](dcmag/02.png)|[🔗][2]||1999-10-21|2.95GBP|9771466238009-02|![2](dcmag/02e.png)<br>Dreamcast Solutions Virtua Fighter 3tb booklet
 3|![3](dcmag/03.png)|[🔗][3]||1999-11-25|2.95GBP|9771466238009-03|
-4|![4](dcmag/04.png)|[🔗][4]||1999-12-23|2.95GBP|9771466238009-04|A-Z of Dreamcast book
+4|![4](dcmag/04.png)|[🔗][4]||1999-12-23|2.95GBP|9771466238009-04|![4](dcmag/04e.png)<br>A-Z of Dreamcast book
 5|![5](dcmag/05.png)|[🔗][5]||2000-01-27|2.99GBP|9771466238016-05|
 6|![6](dcmag/06.png)|[🔗][6]||2000-02-24|2.99GBP|9771466238016-06|
-7|![7](dcmag/07.png)|[🔗][7]||2000-03-23|2.99GBP|9771466238016-07|
-8|![8](dcmag/08.png)|[🔗][8]||2000-04-20|2.99GBP|9771466238016-08|A-Z of Dreamcast book
-9|![9](dcmag/09.png)|[🔗][9]||2000-05-18|2.99GBP|9771466238016-09|DC-Online book
+7|![7](dcmag/07.png)|[🔗][7]||2000-03-23|2.99GBP|9771466238016-07|![7](dcmag/07e.png)<br>Dreamcast Tips book
+8|![8](dcmag/08.png)|[🔗][8]||2000-04-20|2.99GBP|9771466238016-08|![8](dcmag/08e.png)<br>A-Z of Dreamcast book
+9|![9](dcmag/09.png)|[🔗][9]||2000-05-18|2.99GBP|9771466238016-09|![9](dcmag/09e.png)<br>DC-Online book
 10|![10](dcmag/10.png)|[🔗][10]||2000-06-15|2.99GBP|9771466238016-10|Audio CD
-11|![11](dcmag/11.png)|[🔗][11]||2000-07-13|2.99GBP|9771466238016-11|Complete A-Z of Dreamcast Cheats book
+11|![11](dcmag/11.png)|[🔗][11]||2000-07-13|2.99GBP|9771466238016-11|![11](dcmag/11e.png)<br>Complete A-Z of Dreamcast Cheats book
 12|![12](dcmag/12.png)|[🔗][12]||2000-08-10|2.99GBP|9771466238016-12|Poster
 13|![13](dcmag/13.png)|[🔗][13]||2000-09-07|2.99GBP|9771466238016-13|Book
 14|![14](dcmag/14.png)|[🔗][14]||2000-10-05|2.99GBP|9771466238016-14|
@@ -35,10 +35,10 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 17|![17](dcmag/17.png)|[🔗][17]||2000-12-28|2.99GBP|9771466238016-17|CD-ROM
 18|![18](dcmag/18.png)|[🔗][18]||2001-01-25|2.99GBP|9771466238016-18|
 19|![19](dcmag/19.png)|[🔗][19]||2001-02-22|2.99GBP|9771466238016-19|
-20|![20](dcmag/20.png)|[🔗][20]||2001-03-22|2.99GBP|9771466238016-20|Complete A-Z of Dreamcast Cheats book
+20|![20](dcmag/20.png)|[🔗][20]||2001-03-22|2.99GBP|9771466238016-20|![20](dcmag/20e.png)<br>Complete A-Z of Dreamcast Cheats book
 21|![21](dcmag/21.png)|[🔗][21]||2001-04-19|2.99GBP|9771466238016-21|
 22|![22](dcmag/22.png)|[🔗][22]||2001-05-17|2.99GBP|9771466238016-22|
-23|![23](dcmag/23.png)|[🔗][23]||2001-06-14|2.99GBP|9771466238016-23|Complete A-Z of Dreamcast Cheats book
+23|![23](dcmag/23.png)|[🔗][23]||2001-06-14|2.99GBP|9771466238016-23|![23](dcmag/23e.png)<br>Complete A-Z of Dreamcast Cheats book
 24|![24](dcmag/24.png)|[🔗][24]||2001-07-12|3.50GBP|9771466238023-24|CD-ROM
 25|![25](dcmag/25.png)|[🔗][25]||2001-08-09|3.50GBP|9771466238023-25|
 26|![26](dcmag/26.png)|[🔗][26]||2001-09-08|3.50GBP|9771466238023-26|

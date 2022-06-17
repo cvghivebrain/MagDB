@@ -8,7 +8,7 @@ Country | United Kingdom
 Language | English
 Topic | Video games
 Years | 1993 &mdash; 2022 (ongoing)
-Issues | 372
+Issues | 373
 Frequency | Monthly
 ISSN | 1350-1593
 Website | [edge-online.com][web] &vert; [gamesradar.com/edge][web2]
@@ -591,14 +591,154 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 309A|![309](edge/309A.png)||September 2017|2017-xx-xx|5.50GBP|9771350159069-09|
 309B|![309](edge/309B.png)||September 2017|2017-xx-xx|5.50GBP|9771350159069-09|
 309C|![309](edge/309C.png)||September 2017|2017-xx-xx|5.50GBP||
-319|![319](edge/319.png)||June 2018|2018-xx-xx|5.50GBP||
-320|![320](edge/320.png)||July 2018|2018-xx-xx|5.50GBP||
-322|![322](edge/322.png)||September 2018|2018-xx-xx|5.50GBP|9771350159069-09|
-340|![340](edge/340.png)||January 2020|2019-12-05|6.00GBP||
-341|![341](edge/341.png)||February 2020|2020-01-03|6.00GBP||
+310|![310](edge/310.png)||October 2017|2017-xx-xx|||
+310A|![310](edge/310A.png)||October 2017|2017-xx-xx|||
+311|![311](edge/311.png)||November 2017|2017-xx-xx|5.50GBP|9771350159069-11|
+311A|![311](edge/311A.png)||November 2017|2017-xx-xx|5.50GBP||
+312|![312](edge/312.png)||December 2017|2017-xx-xx|5.50GBP||
+312A|![312](edge/312A.png)||December 2017|2017-xx-xx|5.50GBP||
+313|![313](edge/313.png)||Christmas 2017|2017-xx-xx|5.50GBP|9771350159069-22|
+313A|![313](edge/313A.png)||Christmas 2017|2017-xx-xx|5.50GBP||
+314.01|![314](edge/314.01.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.02|![314](edge/314.02.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.03|![314](edge/314.03.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.04|![314](edge/314.04.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.05|![314](edge/314.05.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.06|![314](edge/314.06.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.07|![314](edge/314.07.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.08|![314](edge/314.08.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.09|![314](edge/314.09.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.10|![314](edge/314.10.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.11|![314](edge/314.11.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.12|![314](edge/314.12.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.13|![314](edge/314.13.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.14|![314](edge/314.14.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+314.15|![314](edge/314.15.png)||January 2018|201x-xx-xx|5.50GBP|9771350159069-01|
+315|![315](edge/315.png)||February 2018|2018-xx-xx|5.50GBP|9771350159069-02|
+316|![316](edge/316.png)||March 2018|2018-xx-xx|5.50GBP|9771350159069-03|
+316A|![316](edge/316A.png)||March 2018|2018-xx-xx|5.50GBP|9771350159069-03|
+316B|![316](edge/316B.png)||March 2018|2018-xx-xx|5.50GBP|9771350159069-03|
+317|![317](edge/317.png)||April 2018|2018-xx-xx|5.50GBP|9771350159069-04|
+317A|![317](edge/317A.png)||April 2018|2018-xx-xx|5.50GBP||
+318|![318](edge/318.png)||May 2018|2018-xx-xx|5.50GBP|9771350159069-05|
+318A|![318](edge/318A.png)||May 2018|2018-xx-xx|5.50GBP||
+319|![319](edge/319.png)||June 2018|2018-xx-xx|5.50GBP|9771350159069-06|
+320|![320](edge/320.png)||July 2018|2018-xx-xx|5.50GBP|9771350159069-07|
+320A|![320](edge/320A.png)||July 2018|2018-xx-xx|5.50GBP||
+321|![321](edge/321.png)||August 2018|2018-xx-xx|||
+321A|![321](edge/321A.png)||August 2018|2018-xx-xx|||
+322|![322](edge/322.png)||September 2018|2018-xx-xx|5.50GBP|9771350159069-09|The Best of PC Gaming supplement
+322A|![322](edge/322A.png)||September 2018|2018-xx-xx|5.50GBP||The Best of PC Gaming supplement
+323|![323](edge/323.png)||October 2018|2018-xx-xx|5.50GBP|9771350159069-10|
+323A|![323](edge/323A.png)||October 2018|2018-xx-xx|5.50GBP|9771350159069-10|
+323B|![323](edge/323B.png)||October 2018|2018-xx-xx|5.50GBP|9771350159069-10|
+323C|![323](edge/323C.png)||October 2018|2018-xx-xx|5.50GBP|9771350159069-10|
+323D|![323](edge/323D.png)||October 2018|2018-xx-xx|||Edge magazine x4 &vert; Box
+324|![324](edge/324.png)||November 2018|2018-xx-xx|5.50GBP|9771350159069-11|
+325|![325](edge/325.png)||December 2018|2018-xx-xx|6.00GBP|9771350159076-12|
+325A|![325](edge/325A.png)||December 2018|2018-xx-xx|6.00GBP||
+326|![326](edge/326.png)||Christmas 2018|2018-xx-xx|6.00GBP|9771350159076-32|
+326A|![326](edge/326A.png)||Christmas 2018|2018-xx-xx|6.00GBP||
+326B|![326](edge/326B.png)||Christmas 2018|2018-xx-xx|6.00GBP||
+327|![327](edge/327.png)||January 2019|201x-xx-xx|6.50GBP|9771350159991-01|
+327A|![327](edge/327A.png)||January 2019|201x-xx-xx|6.50GBP|9771350159991-01|
+327B|![327](edge/327B.png)||January 2019|201x-xx-xx|6.50GBP|9771350159991-01|
+327C|![327](edge/327C.png)||January 2019|201x-xx-xx|6.50GBP|9771350159991-01|
+327D|![327](edge/327D.png)||January 2019|201x-xx-xx|6.50GBP||
+327E|![327](edge/327E.png)||January 2019|201x-xx-xx|6.50GBP||
+327F|![327](edge/327F.png)||January 2019|201x-xx-xx|6.50GBP||
+327G|![327](edge/327G.png)||January 2019|201x-xx-xx|6.50GBP||
+328|![328](edge/328.png)||February 2019|2019-xx-xx|6.00GBP||
+328A|![328](edge/328A.png)||February 2019|2019-xx-xx|6.00GBP||
+329|![329](edge/329.png)||March 2019|2019-xx-xx|6.00GBP||
+329A|![329](edge/329A.png)||March 2019|2019-xx-xx|6.00GBP|9771350159076-03|
+330|![330](edge/330.png)||April 2019|2019-xx-xx|6.00GBP|9771350159076-04|
+330A|![330](edge/330A.png)||April 2019|2019-xx-xx|6.00GBP||
+331|![331](edge/331.png)||May 2019|2019-xx-xx|6.00GBP|9771350159076-05|
+331A|![331](edge/331A.png)||May 2019|2019-xx-xx|6.00GBP||
+332|![332](edge/332.png)||June 2019|2019-xx-xx|||
+332A|![332](edge/332A.png)||June 2019|2019-xx-xx|||
+333|![333](edge/333.png)||July 2019|2019-xx-xx|6.00GBP||
+333A|![333](edge/333A.png)||July 2019|2019-xx-xx|6.00GBP||
+334|![334](edge/334.png)||August 2019|2019-xx-xx|6.00GBP|9771350159076-08|
+334A|![334](edge/334A.png)||August 2019|2019-xx-xx|6.00GBP||
+335|![335](edge/335.png)||September 2019|2019-xx-xx|6.00GBP|9771350159076-09|
+336|![336](edge/336.png)||October 2019|2019-xx-xx|6.00GBP|9771350159076-10|
+337|![337](edge/337.png)||November 2019|2019-xx-xx|6.00GBP|9771350159076-11|
+337A|![337](edge/337A.png)||November 2019|2019-xx-xx|6.00GBP||
+338|![338](edge/338.png)||December 2019|2019-xx-xx|6.00GBP|9771350159076-12|
+339.01|![339](edge/339.01.png)||Christmas 2019|2019-xx-xx|6.99GBP|9771350159984-32|2020 calendar
+339.02|![339](edge/339.02.png)||Christmas 2019|2019-xx-xx|6.99GBP|9771350159984-32|2020 calendar
+339.03|![339](edge/339.03.png)||Christmas 2019|2019-xx-xx|6.99GBP|9771350159984-32|2020 calendar
+339.04|![339](edge/339.04.png)||Christmas 2019|2019-xx-xx|6.99GBP|9771350159984-32|2020 calendar
+339.05|![339](edge/339.05.png)||Christmas 2019|2019-xx-xx|6.99GBP|9771350159984-32|2020 calendar
+339.06|![339](edge/339.06.png)||Christmas 2019|2019-xx-xx|6.99GBP|9771350159984-32|2020 calendar
+339.07|![339](edge/339.07.png)||Christmas 2019|2019-xx-xx|6.99GBP|9771350159984-32|2020 calendar
+339.08|![339](edge/339.08.png)||Christmas 2019|2019-xx-xx|6.99GBP|9771350159984-32|2020 calendar
+339.09|![339](edge/339.09.png)||Christmas 2019|2019-xx-xx|6.99GBP|9771350159984-32|2020 calendar
+339.10|![339](edge/339.10.png)||Christmas 2019|2019-xx-xx|6.99GBP|9771350159984-32|2020 calendar
+339.11|![339](edge/339.11.png)||Christmas 2019|2019-xx-xx|6.99GBP|9771350159984-32|2020 calendar
+339.12|![339](edge/339.12.png)||Christmas 2019|2019-xx-xx|6.99GBP|9771350159984-32|2020 calendar
+340|![340](edge/340.png)||January 2020|2019-12-05|6.00GBP|9771350159076-01|
+340A|![340](edge/340A.png)||January 2020|2019-12-05|6.00GBP||
+341|![341](edge/341.png)||February 2020|2020-01-03|6.00GBP|9771350159076-02|
 342|![342](edge/342.png)||March 2020|2020-01-29|6.00GBP||
+342A|![342](edge/342A.png)||March 2020|2020-01-29|6.00GBP||
 343|![343](edge/343.png)||April 2020|2020-02-27|6.00GBP||
-372|![372](edge/372.png)||July 2022|2022-xx-xx|6.50GBP|9771350159090-07|
+343A|![343](edge/343A.png)||April 2020|2020-02-27|6.00GBP||
+344|![344](edge/344.png)||May 2020|2020-xx-xx|6.00GBP|9771350159076-05|
+344A|![344](edge/344A.png)||May 2020|2020-xx-xx|6.00GBP||
+345|![345](edge/345.png)||June 2020|2020-xx-xx|||
+345A|![345](edge/345A.png)||June 2020|2020-xx-xx|||
+346|![346](edge/346.png)||July 2020|2020-xx-xx|||
+346A|![346](edge/346A.png)||July 2020|2020-xx-xx|||
+347|![347](edge/347.png)||August 2020|2020-xx-xx|||
+347A|![347](edge/347A.png)||August 2020|2020-xx-xx|||
+348|![348](edge/348.png)||September 2020|2020-xx-xx|6.20GBP|9771350159083-09|
+349|![349](edge/349.png)||October 2020|2020-xx-xx|6.20GBP|9771350159083-10|
+350|![350](edge/350.png)||November 2020|2020-xx-xx|6.20GBP|9771350159083-11|
+350A|![350](edge/350A.png)||November 2020|2020-xx-xx|6.20GBP||
+351|![351](edge/351.png)||December 2020|2020-xx-xx|6.20GBP|9771350159083-12|
+351A|![351](edge/351A.png)||December 2020|2020-xx-xx|6.20GBP||
+352|![352](edge/352.png)||Christmas 2020|2020-xx-xx|6.99GBP|9771350159984-32|2021 calendar
+352A|![352](edge/352A.png)||Christmas 2020|2020-xx-xx|6.99GBP||2021 calendar
+353|![353](edge/353.png)||January 2021|202x-xx-xx|6.20GBP|9771350159083-01|
+353A|![353](edge/353A.png)||January 2021|202x-xx-xx|6.20GBP||
+354|![354](edge/354.png)||February 2021|2021-xx-xx|6.20GBP||
+354A|![354](edge/354A.png)||February 2021|2021-xx-xx|6.20GBP||
+355|![355](edge/355.png)||March 2021|2021-xx-xx|6.20GBP||
+356|![356](edge/356.png)||April 2021|2021-xx-xx|6.20GBP||
+356A|![356](edge/356A.png)||April 2021|2021-xx-xx|6.20GBP||
+357|![357](edge/357.png)||May 2021|2021-xx-xx|6.20GBP||
+357A|![357](edge/357A.png)||May 2021|2021-xx-xx|6.20GBP||
+358|![358](edge/358.png)||June 2021|2021-xx-xx|6.20GBP|9771350159083-06|
+359|![359](edge/359.png)||July 2021|2021-xx-xx|6.20GBP||
+359A|![359](edge/359A.png)||July 2021|2021-xx-xx|6.20GBP||
+360|![360](edge/360.png)||August 2021|2021-xx-xx|6.20GBP|9771350159083-08|
+361|![361](edge/361.png)||September 2021|2021-xx-xx|6.20GBP|9771350159083-09|
+361A|![361](edge/361A.png)||September 2021|2021-xx-xx|6.20GBP||
+362|![362](edge/362.png)||October 2021|2021-xx-xx|6.20GBP|9771350159083-10|
+362A|![362](edge/362A.png)||October 2021|2021-xx-xx|6.20GBP||
+363|![363](edge/363.png)||November 2021|2021-xx-xx|6.20GBP||
+363A|![363](edge/363A.png)||November 2021|2021-xx-xx|6.20GBP||
+364|![364](edge/364.png)||December 2021|2021-xx-xx|6.20GBP||
+364A|![364](edge/364A.png)||December 2021|2021-xx-xx|6.20GBP||
+365|![365](edge/365.png)||Christmas 2021|2021-xx-xx|||
+365A|![365](edge/365A.png)||Christmas 2021|2021-xx-xx|||
+366|![366](edge/366.png)||January 2022|202x-xx-xx|6.20GBP||
+366A|![366](edge/366A.png)||January 2022|202x-xx-xx|6.20GBP||
+367|![367](edge/367.png)||February 2022|2022-xx-xx|6.20GBP|9771350159083-02|
+367A|![367](edge/367A.png)||February 2022|2022-xx-xx|6.20GBP||
+368|![368](edge/368.png)||March 2022|2022-01-27|||
+368A|![368](edge/368A.png)||March 2022|2022-01-27|||
+369|![369](edge/369.png)||April 2022|2022-02-24|6.50GBP||
+369A|![369](edge/369A.png)||April 2022|2022-02-24|6.50GBP||
+370|![370](edge/370.png)||May 2022|2022-03-24|6.50GBP|9771350159090-05|
+370A|![370](edge/370A.png)||May 2022|2022-03-24|6.50GBP||
+371|![371](edge/371.png)||June 2022|2022-04-21|6.50GBP|9771350159090-06|
+371A|![371](edge/371A.png)||June 2022|2022-04-21|6.50GBP||
+372|![372](edge/372.png)||July 2022|2022-05-19|6.50GBP|9771350159090-07|
+373|![373](edge/373.png)||August 2022|2022-06-16|6.50GBP|9771350159090-08|
 
 [web]: https://web.archive.org/web/20000511034338/http://www.edge-online.com/
 [web2]: https://web.archive.org/web/20150227001904/http://www.gamesradar.com/edge/

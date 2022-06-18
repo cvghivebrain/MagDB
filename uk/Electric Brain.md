@@ -2,7 +2,7 @@
 
 . | _Electric Brain_
 --- | ---
-Alternate titles | _PC Engine Fanatics_ (1-8) &vert; Console Ma'zine (9-18)
+Alternate titles | _PC Engine Fanatics_ (1-8) &vert; _Console Ma'zine_ (9-18)
 Publisher | Electric Brain (20-30; 32) &vert; Space City Communications (31) &vert; Space City Publishing (33-35)
 Country | United Kingdom
 Language | English
@@ -12,7 +12,7 @@ Issues | 35
 Frequency | Monthly
 ISSN | 0968-8471
 Website | 
-Related | _[Games Amusement Pleasure](Games%20Amusement%20Pleasure.md)_
+Related | _[Games Amusement Pleasure](Games%20Amusement%20Pleasure.md)_ (next)
 
 Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------

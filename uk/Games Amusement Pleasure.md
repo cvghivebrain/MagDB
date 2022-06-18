@@ -12,7 +12,7 @@ Issues | 5
 Frequency | 
 ISSN | 
 Website | 
-Related | _[Electric Brain](Electric%20Brain.md)_
+Related | _[Electric Brain](Electric%20Brain.md)_ (previous)
 
 Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------

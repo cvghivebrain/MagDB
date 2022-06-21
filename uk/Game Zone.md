@@ -56,7 +56,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 [1.7]: https://archive.org/details/game-zone-07
 [1.8]: https://archive.org/details/game-zone-08
 [1.9]: https://archive.org/details/game-zone-09
-[1.0]: https://archive.org/details/game-zone-10
+[1.10]: https://archive.org/details/game-zone-10
 [1.11]: https://archive.org/details/game-zone-11
 [1.12]: https://archive.org/details/game-zone-12
 [2.1]: https://archive.org/details/nintendo-game-zone-01

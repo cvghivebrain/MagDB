@@ -40,21 +40,21 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 21|![21](gamesworld/21.png)||March 1996|199x-xx-xx|||
 22|![22](gamesworld/22.png)||April 96|199x-xx-xx|2.95GBP|9771354290010-04|
 
-https://archive.org/details/games-world-00
-https://archive.org/details/games-world-01
-https://archive.org/details/games-world-02
-https://archive.org/details/games-world-03
-https://archive.org/details/games-world-04
-https://archive.org/details/games-world-05
-https://archive.org/details/games-world-06
-https://archive.org/details/games-world-07
-https://archive.org/details/games-world-08
-https://archive.org/details/games-world-09
-https://archive.org/details/games-world-10
+[0]: https://archive.org/details/games-world-00
+[1]: https://archive.org/details/games-world-01
+[2]: https://archive.org/details/games-world-02
+[3]: https://archive.org/details/games-world-03
+[4]: https://archive.org/details/games-world-04
+[5]: https://archive.org/details/games-world-05
+[6]: https://archive.org/details/games-world-06
+[7]: https://archive.org/details/games-world-07
+[8]: https://archive.org/details/games-world-08
+[9]: https://archive.org/details/games-world-09
+[10]: https://archive.org/details/games-world-10
 
-https://archive.org/details/games-world-12
-https://archive.org/details/games-world-13
-https://archive.org/details/games-world-14
-https://archive.org/details/games-world-15
+[12]: https://archive.org/details/games-world-12
+[13]: https://archive.org/details/games-world-13
+[14]: https://archive.org/details/games-world-14
+[15]: https://archive.org/details/games-world-15
 
-https://archive.org/details/games-world-20-february-1996
+[20]: https://archive.org/details/games-world-20-february-1996

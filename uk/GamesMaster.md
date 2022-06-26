@@ -24,7 +24,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 6|![6](gamesmaster/006.png)||June 1993|1993-05-20|1.95GBP|9770967985016-06|Poster
 7|![7](gamesmaster/007.png)||July 1993|1993-06-17|1.95GBP|9770967985016-07|Comet discount card
 8|![8](gamesmaster/008.png)||August 1993|1993-07-15|1.95GBP|9770967985016-08|Poster
-mini||Mini Mag|1993-xx-xx|FREEfree||
+8A|![8](gamesmaster/008A.png)|||1993-08-05|||
 9|![9](gamesmaster/009.png)||September 1993|1993-08-19|1.95GBP|9770967985016-09|Book
 10|![10](gamesmaster/010.png)||October 1993|1993-09-10|1.95GBP|9770967985016-10|Postcards
 11|![11](gamesmaster/011.png)||November 1993|1993-10-21|1.95GBP|9770967985016-11|Stickers
@@ -117,87 +117,87 @@ mini||Mini Mag|1993-xx-xx|FREEfree||
 98|![98](gamesmaster/098.png)||Sept 2000|2000-08-08|2.75GBP|9770967985047-09|Tips book
 99|![99](gamesmaster/099.png)||October 2000|2000-09-05|2.80GBP|9770967985054-10|Tips book
 100|![100](gamesmaster/100.png)||Nov 2000|2000-10-02|2.80GBP|9770967985054-11|
-101|![101](gamesmaster/101.png)||xxxx 2000|2000-10-27|||
-102|![102](gamesmaster/102.png)||Christmas 2000|2000-xx-xx|2.80GBP|9770967985054-13|
-103|![103](gamesmaster/103.png)||January 2001|2000-12-20|2.80GBP|9770967985054-01|
-104|![104](gamesmaster/104.png)||February 2001|2001-01-25|2.85GBP|9770967985061-02|
-105|![105](gamesmaster/105.png)||March 2001|2001-02-21|2.85GBP|9770967985061-03|
-106|![106](gamesmaster/106.png)||April 2001|2001-03-20|2.85GBP|9770967985061-04|
+101|![101](gamesmaster/101.png)||Dec 2000|2000-10-27|2.80GBP|9770967985054-12|
+102|![102](gamesmaster/102.png)||Xmas 2000|2000-11-23|2.80GBP|9770967985054-13|
+103|![103](gamesmaster/103.png)||Jan 2001|2000-12-20|2.80GBP|9770967985054-01|
+104|![104](gamesmaster/104.png)||Feb 2001|2001-01-25|2.85GBP|9770967985061-02|
+105|![105](gamesmaster/105.png)||Mar 2001|2001-02-21|2.85GBP|9770967985061-03|
+106|![106](gamesmaster/106.png)||Apr 2001|2001-03-20|2.85GBP|9770967985061-04|
 107|![107](gamesmaster/107.png)||May 2001|2001-04-18|2.85GBP|9770967985061-05|
-108|![108](gamesmaster/108.png)||June 2001|2001-05-16|2.85GBP|9770967985061-06|
+108|![108](gamesmaster/108.png)||Jun 2001|2001-05-16|2.85GBP|9770967985061-06|Tips book
 109|![109](gamesmaster/109.png)||July 2001|2001-06-13|2.85GBP|9770967985061-07|Scratchcard
-110|![110](gamesmaster/110.png)||August 2001|2001-07-10|2.85GBP|9770967985061-08|
-111|![111](gamesmaster/111.png)||September 2001|2001-08-08|2.85GBP|9770967985061-09|
-112|![112](gamesmaster/112.png)||October 2001|2001-09-05|2.85GBP|9770967985061-10|
-113|![113](gamesmaster/113.png)||November 2001|2001-10-02|2.85GBP|9770967985061-11|Poster &vert; Stickers
-114|![114](gamesmaster/114.png)||December 2001|2001-10-29|2.85GBP|9770967985061-12|
+110|![110](gamesmaster/110.png)||Aug 2001|2001-07-10|2.85GBP|9770967985061-08|
+111|![111](gamesmaster/111.png)||Sept 2001|2001-08-08|2.85GBP|9770967985061-09|
+112|![112](gamesmaster/112.png)||Oct 2001|2001-09-05|2.85GBP|9770967985061-10|
+113|![113](gamesmaster/113.png)||Nov 2001|2001-10-02|2.85GBP|9770967985061-11|Poster &vert; Stickers
+114|![114](gamesmaster/114.png)||Dec 2001|2001-10-29|2.85GBP|9770967985061-12|
 115|![115](gamesmaster/115.png)||Xmas 2001|2001-1x-xx|2.85GBP|9770967985061-13|
 116|![116](gamesmaster/116.png)||January 2002|2001-12-20|2.85GBP|9770967985061-01|
 117|![117](gamesmaster/117.png)||February 2002|2002-01-25|2.85GBP|9770967985061-02|
-118|![118](gamesmaster/118.png)||March 2002|2002-02-21|2.85GBP|9770967985061-03|
+118|![118](gamesmaster/118.png)||March 2002|2002-02-21|2.85GBP|9770967985061-03|Tips book
 119|![119](gamesmaster/119.png)||April 2002|2002-03-20|2.85GBP|9770967985061-04|
 120|![120](gamesmaster/120.png)||May 2002|2002-04-14|2.85GBP|9770967985061-05|
-121|![121](gamesmaster/121.png)||June 2002|2002-05-15|2.85GBP|9770967985061-06|
-122|![122](gamesmaster/122.png)||July 2002|2002-06-13|2.85GBP|9770967985061-07|
+121|![121](gamesmaster/121.png)||June 2002|2002-05-15|2.85GBP|9770967985061-06|Tips book
+122|![122](gamesmaster/122.png)||July 2002|2002-06-13|2.85GBP|9770967985061-07|Tips book
 123|![123](gamesmaster/123.png)||August 2002|2002-07-16|2.85GBP|9770967985061-08|
-124|![124](gamesmaster/124.png)||September 2002|2002-08-12|||
-125|![125](gamesmaster/125.png)||October 2002|2002-0x-xx|2.85GBP|9770967985061-10|
-126|![126](gamesmaster/126.png)||November 2002|2002-10-04|2.85GBP|9770967985061-11|
-127|![127](gamesmaster/127.png)||December 2002|2002-10-31|2.85GBP|9770967985061-12|
-128|![128](gamesmaster/128.png)||Christmas 2002|2002-11-27|2.85GBP|9770967985061-13|
-129|![129](gamesmaster/129.png)||January 2003|2002-12-23|2.85GBP|9770967985061-01|
-130|![130](gamesmaster/130.png)||February 2003|2003-01-27|2.85GBP|9770967985061-02|
-131|![131](gamesmaster/131.png)||March 2003|2003-02-21|2.99GBP|9770967985078-03|
+124|![124](gamesmaster/124.png)||September 2002|2002-08-12|2.85GBP|9770967985061-09|
+125|![125](gamesmaster/125.png)||October 2002|2002-0x-xx|2.85GBP|9770967985061-10|Tips book
+126|![126](gamesmaster/126.png)||November 2002|2002-10-04|2.85GBP|9770967985061-11|Tips book
+127|![127](gamesmaster/127.png)||December 02|2002-10-31|2.85GBP|9770967985061-12|
+128|![128](gamesmaster/128.png)||Xmas 2002|2002-11-27|2.85GBP|9770967985061-13|
+129|![129](gamesmaster/129.png)||Jan 2003|2002-12-23|2.85GBP|9770967985061-01|Poster
+130|![130](gamesmaster/130.png)||Feb 2003|2003-01-27|2.85GBP|9770967985061-02|
+131|![131](gamesmaster/131.png)||March 2003|2003-02-21|2.99GBP|9770967985078-03|Tips book
 132|![132](gamesmaster/132.png)||April 2003|2003-03-20|2.99GBP|9770967985078-04|
 133|![133](gamesmaster/133.png)||May 2003|2003-04-16|2.99GBP|9770967985078-05|
 134|![134](gamesmaster/134.png)||June 2003|2003-05-16|2.99GBP|9770967985078-06|
 135|![135](gamesmaster/135.png)||July 2003|2003-06-13|2.99GBP|9770967985078-07|
 136|![136](gamesmaster/136.png)||August 2003|2003-07-10|2.99GBP|9770967985078-08|
 137|![137](gamesmaster/137.png)||September 2003|2003-08-06|2.99GBP|9770967985078-09|
-138|![138](gamesmaster/138.png)||October 2003|2003-09-03|2.99GBP|9770967985078-10|
-139|![139](gamesmaster/139.png)||November 2003|2003-09-30|2.99GBP|9770967985078-11|DVD
-140|![140](gamesmaster/140.png)||December 2003|2003-10-27|2.99GBP|9770967985078-12|
-141|![141](gamesmaster/141.png)||Christmas 2003|2003-11-21|2.99GBP|9770967985078-13|
-142|![142](gamesmaster/142.png)||January 2004|2003-12-18|2.99GBP|9770967985078-01|
-143|![143](gamesmaster/143.png)||xxxx 2004|2004-01-19|||
-144|![144](gamesmaster/144.png)||March 2004|2004-xx-xx|2.99GBP|9770967985078-03|
+138|![138](gamesmaster/138.png)||Oct 2003|2003-09-03|2.99GBP|9770967985078-10|
+139|![139](gamesmaster/139.png)||Nov 2003|2003-09-30|2.99GBP|9770967985078-11|DVD
+140|![140](gamesmaster/140.png)||Dec 2003|2003-10-27|2.99GBP|9770967985078-12|
+141|![141](gamesmaster/141.png)||Xmas 2003|2003-11-21|2.99GBP|9770967985078-13|
+142|![142](gamesmaster/142.png)||Jan 2004|2003-12-18|2.99GBP|9770967985078-01|
+143|![143](gamesmaster/143.png)||Feb 2004|2004-01-19|2.99GBP|9770967985078-02|
+144|![144](gamesmaster/144.png)||March 2004|2004-02-13|2.99GBP|9770967985078-03|
 145|![145](gamesmaster/145.png)||April 2004|2004-03-11|2.99GBP|9770967985078-04|
 146|![146](gamesmaster/146.png)||May 2004|2004-04-07|2.99GBP|9770967985078-05|
 147|![147](gamesmaster/147.png)||June 2004|2004-05-07|2.99GBP|9770967985078-06|
 148|![148](gamesmaster/148.png)||July 2004|2004-06-04|2.99GBP|9770967985078-07|
-149|![149](gamesmaster/149.png)||August 2004|2004-07-01|2.99GBP|9770967985078-08|
-150|![150](gamesmaster/150.png)||September 2004|2004-08-03|2.99GBP|9770967985078-09|
-151|![151](gamesmaster/151.png)||October 2004|2004-09-01|2.99GBP|9770967985078-10|
-152|![152](gamesmaster/152.png)||November 2004|2004-09-28|2.99GBP|9770967985078-11|
-153|![153](gamesmaster/153.png)||December 2004|2004-10-25|3.25GBP|9770967985085-12|
-154|![154](gamesmaster/154.png)||Christmas 2004|2004-11-19|3.25GBP|9770967985085-13|
-155|![155](gamesmaster/155.png)||January 2005|2004-12-16|3.25GBP|9770967985085-01|
-156|![156](gamesmaster/156.png)||February 2005|2005-01-13|3.25GBP|9770967985085-02|
+149|![149](gamesmaster/149.png)||Aug 2004|2004-07-01|2.99GBP|9770967985078-08|
+150|![150](gamesmaster/150.png)||Sept 2004|2004-08-03|2.99GBP|9770967985078-09|
+151|![151](gamesmaster/151.png)||Oct 2004|2004-09-01|2.99GBP|9770967985078-10|
+152|![152](gamesmaster/152.png)||Nov 2004|2004-09-28|2.99GBP|9770967985078-11|
+153|![153](gamesmaster/153.png)||Dec 2004|2004-10-25|3.25GBP|9770967985085-12|
+154|![154](gamesmaster/154.png)||Xmas 2004|2004-11-19|3.25GBP|9770967985085-13|
+155|![155](gamesmaster/155.png)||Jan 2005|2004-12-16|3.25GBP|9770967985085-01|
+156|![156](gamesmaster/156.png)||Feb 2005|2005-01-13|3.25GBP|9770967985085-02|
 157|![157](gamesmaster/157.png)||March 2005|2005-02-10|3.25GBP|9770967985085-03|
 158|![158](gamesmaster/158.png)||April 2005|2005-03-10|3.25GBP|9770967985085-04|
 159|![159](gamesmaster/159.png)||May 2005|2005-04-07|3.25GBP|9770967985085-05|
 160|![160](gamesmaster/160.png)||June 2005|2005-05-05|3.25GBP|9770967985085-06|
 161|![161](gamesmaster/161.png)||July 2005|2005-06-03|3.25GBP|9770967985085-07|
-162|![162](gamesmaster/162.png)||xxxx xxxx|2005-06-30|||
-163|![163](gamesmaster/163.png)||September 2005|2005-xx-xx|3.25GBP|9770967985085-09|
-164|![164](gamesmaster/164.png)||October 2005|2005-08-25|3.25GBP|9770967985085-10|
-165|![165](gamesmaster/165.png)||November 2005|2005-09-22|3.25GBP|9770967985085-11|Book
-166|![166](gamesmaster/166.png)||December 2005|2005-10-20|3.25GBP|9770967985085-12|
+162|![162](gamesmaster/162.png)||Aug 2005|2005-06-30|3.25GBP|9770967985085-08|
+163|![163](gamesmaster/163.png)||Sept 2005|2005-07-28|3.25GBP|9770967985085-09|
+164|![164](gamesmaster/164.png)||Oct 2005|2005-08-25|3.25GBP|9770967985085-10|
+165|![165](gamesmaster/165.png)||Nov 2005|2005-09-22|3.25GBP|9770967985085-11|Book
+166|![166](gamesmaster/166.png)||Dec 2005|2005-10-20|3.25GBP|9770967985085-12|
 167|![167](gamesmaster/167.png)||Christmas 2005|2005-11-17|3.25GBP|9770967985085-13|
-168|![168](gamesmaster/168.png)||January 2006|2005-12-15|3.25GBP|9770967985085-01|
-169|![169](gamesmaster/169.png)||February 2006|2006-01-12|3.25GBP|9770967985085-02|
-170|![170](gamesmaster/170.png)||xxxx xxxx|2006-02-09|||
-171|![171](gamesmaster/171.png)||April 2006|2006-xx-xx|3.25GBP|9770967985085-04|
-172|![172](gamesmaster/172.png)||May 2006|2006-04-05|3.25GBP|9770967985085-05|
-173|![173](gamesmaster/173.png)||June 2006|2006-05-03|3.49GBP|9770967985092-06|
-174|![174](gamesmaster/174.png)||July 2006|2006-06-01|3.49GBP|9770967985092-07|
-175|![175](gamesmaster/175.png)||xxxx xxxx|2006-07-03|||
-176|![176](gamesmaster/176.png)||xxxx xxxx|xxxx-xx-xx|||
-177|![177](gamesmaster/177.png)||xxxx xxxx|xxxx-xx-xx|||
-178|![178](gamesmaster/178.png)||xxxx xxxx|xxxx-xx-xx|||
-179|![179](gamesmaster/179.png)||xxxx xxxx|xxxx-xx-xx|||
-180|![180](gamesmaster/180.png)||xxxx xxxx|xxxx-xx-xx|||
-181|![181](gamesmaster/181.png)||xxxx xxxx|xxxx-xx-xx|||
+168|![168](gamesmaster/168.png)||Jan 2006|2005-12-15|3.25GBP|9770967985085-01|
+169|![169](gamesmaster/169.png)||Feb 2006|2006-01-12|3.25GBP|9770967985085-02|Book
+170|![170](gamesmaster/170.png)||March 2006|2006-02-09|3.25GBP|9770967985085-03|Book
+171|![171](gamesmaster/171.png)||April 2006|2006-03-09|3.25GBP|9770967985085-04|Book
+172|![172](gamesmaster/172.png)||May 2006|2006-04-05|3.25GBP|9770967985085-05|Book
+173|![173](gamesmaster/173.png)||June 2006|2006-05-03|3.49GBP|9770967985092-06|Book
+174|![174](gamesmaster/174.png)||July 2006|2006-06-01|3.49GBP|9770967985092-07|Book
+175|![175](gamesmaster/175.png)||August 2006|2006-07-03|3.49GBP|9770967985092-08|Book
+176|![176](gamesmaster/176.png)||Sept 2006|2006-08-01|3.49GBP|9770967985092-09|Book
+177|![177](gamesmaster/177.png)||October 2006|2006-09-01|3.49GBP|9770967985092-10|Book
+178|![178](gamesmaster/178.png)||November 2006|2006-09-28|3.49GBP|9770967985092-11|Book
+179|![179](gamesmaster/179.png)||December 2006|2006-10-25|3.49GBP|9770967985092-12|Book
+180|![180](gamesmaster/180.png)||Christmas 2006|2006-11-22|3.49GBP|9770967985092-13|
+181|![181](gamesmaster/181.png)||xxxx xxxx|2006-12-20|||
 182|![182](gamesmaster/182.png)||xxxx xxxx|xxxx-xx-xx|||
 183|![183](gamesmaster/183.png)||xxxx xxxx|xxxx-xx-xx|||
 184|![184](gamesmaster/184.png)||xxxx xxxx|xxxx-xx-xx|||

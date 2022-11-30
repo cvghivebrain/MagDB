@@ -22,8 +22,8 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 4|![4](gforce/04.png)||August 2002|2002-xx-xx|3.99GBP|9771476765007-08|DVD
 5|![5](gforce/05.png)|||2002-xx-xx|3.99GBP||DVD
 6|![6](gforce/06.png)||October 2002|2002-xx-xx|3.99GBP|9771476765007-10|DVD
-7|![7](gforce/07.png)||November 2002|2002-xx-xx|3.99GBP|9771476765007-11|DVD
-8|![8](gforce/08.png)|[🔗][8]|December 2002|2002-xx-xx|3.99GBP|9771476765007-12|DVD
+7|![7](gforce/07.png)||November 2002|2002-11-06|3.99GBP|9771476765007-11|DVD
+8|![8](gforce/08.png)|[🔗][8]|December 2002|2002-12-04|3.99GBP|9771476765007-12|DVD
 9|![9](gforce/09.png)|[🔗][9]|January 2003|2003-01-08|3.99GBP|9771476765007-01|DVD
 10|![10](gforce/10.png)|[🔗][10]|February 2003|2003-02-05|3.99GBP|9771476765007-02|DVD
 

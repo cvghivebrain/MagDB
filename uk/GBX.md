@@ -26,7 +26,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 8|![8](gbx/08.png)|[🔗][8]|February 2002|2002-01-02|2.99GBP|9771474355002-02|VHS tape [🔗][vhs]
 9|![9](gbx/09.png)|[🔗][9]|March 2002|2002-02-06|2.99GBP|9771474355002-03|VHS tape [🔗][vhs]
 10|![10](gbx/10.png)|[🔗][10]|April 2002|2002-03-06|2.99GBP|9771474355002-04|VHS tape [🔗][vhs]
-11|![11](gbx/11.png)|[🔗][11]1|May 2002|2002-04-03|2.99GBP|9771474355002-05|![11](gbx/11e.png)<br>Karate Joe Game Boy Color game &vert; Jelly Belly beans &vert; Poster
+11|![11](gbx/11.png)|[🔗][11]|May 2002|2002-04-03|2.99GBP|9771474355002-05|![11](gbx/11e.png)<br>Karate Joe Game Boy Color game &vert; Jelly Belly beans &vert; Poster
 11A|![11](gbx/11.png)|[🔗][11]|May 2002|2002-04-03|2.99GBP|9771474355002-05|![11](gbx/11Ae.png)<br>Space Invasion/Karate Joe Game Boy Color game [🔗][11Ae] &vert; Jelly Belly beans &vert; Poster
 
 [1]: https://archive.org/details/gbx-01

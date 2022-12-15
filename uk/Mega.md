@@ -25,8 +25,8 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 7|![7](mega/07.png)||April 1993|1993-03-18|2.25GBP|9770966620017-04|
 8|![8](mega/08.png)||May 1993|1993-04-15|2.25GBP|9770966620017-05|
 9|![9](mega/09.png)||June 1993|1993-05-20|2.25GBP|9770966620017-06|
-9A|![SS](mega/SS.png)|[🔗][SS]|Summer Special '93|1993-07-01|2.95GBP|9770969500002-06|
 10|![10](mega/10.png)||July 1993|1993-06-17|2.25GBP|9770966620017-07|
+10A|![SS](mega/SS.png)|[🔗][SS]|Summer Special '93|1993-07-01|2.95GBP|9770969500002-06|
 11|![11](mega/11.png)||August 1993|1993-07-15|2.25GBP|9770966620017-08|
 12|![12](mega/12.png)||September 1993|1993-08-19|2.25GBP|9770966620017-09|
 13|![13](mega/13.png)||October 1993|1993-09-16|2.25GBP|9770966620017-10|

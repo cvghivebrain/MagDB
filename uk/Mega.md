@@ -3,7 +3,7 @@
 . | _Mega_
 --- | ---
 Alternate titles | 
-Publisher |  Future Publishing (1-23) &vert; Maverick Magazines (24-37)
+Publisher | Future Publishing (1-23) &vert; Maverick Magazines (24-37)
 Country | United Kingdom
 Language | English
 Topic | Video games

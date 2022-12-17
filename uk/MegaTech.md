@@ -3,7 +3,7 @@
 . | _MegaTech_
 --- | ---
 Alternate titles | 
-Publisher |  EMAP Images (1-25) &vert; Maverick Magazines (26-43)
+Publisher | EMAP Images (1-25) &vert; Maverick Magazines (26-43)
 Country | United Kingdom
 Language | English
 Topic | Video games

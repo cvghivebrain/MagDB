@@ -39,7 +39,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 21|![21](megapower/21.png)|[🔗][21]|May 1995|1995-0x-xx|5.99GBP|9770969843055-05|Keio Flying Squadron Mega-CD demo disc
 22|![21](megapower/22.png)||June 1995|1995-0x-xx|5.99GBP|9770969843055-06|Time Cop Mega-CD demo disc
 23|![23](megapower/23.png)|[🔗][23]|July 1995|1995-0x-xx|5.99GBP|9770969843055-07|Fatal Fury Mega-CD demo disc
-24|![24](megapower/24.png)|[🔗][24]|August 1995|1995-0x-xx|5.99GBP|9770969843055-08|Samurai Shodown Mega-CD demo disc 
+24|![24](megapower/24.png)|[🔗][24]|August 1995|1995-0x-xx|5.99GBP|9770969843055-08|Samurai Shodown Mega-CD demo disc
 
 [1]: https://archive.org/details/mega-power-uk-01
 [2]: https://archive.org/details/mega-power-uk-02

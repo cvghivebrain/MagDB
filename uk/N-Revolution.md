@@ -2,7 +2,7 @@
 
 . | _N•Revolution_
 --- | ---
-Alternate titles | Revolution for Nintendo (1-2) &vert; n•Revolution (3-17)
+Alternate titles | _Revolution for Nintendo_ (1-2) &vert; _n•Revolution_ (3-17)
 Publisher | Imagine Publishing
 Country | United Kingdom
 Language | English
@@ -17,8 +17,8 @@ Related |
 Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
 1|![1](nrev/01.png)||2006-xx-xx|4.00GBP|9771751458006-01|![1](nrev/01e.png) ![1](nrev/01e2.png)<br>Pocket Revolution supplement &vert; Retro Revolution supplement
-1A|![1](nrev/01A.png)||2006-xx-xx|4.00GBP|9771751458006-01|![2](nrev/02e.png) ![2](nrev/02e2.png)<br>Pocket Revolution supplement &vert; Retro Revolution supplement
-2|![2](nrev/02.png)||2006-10-19|4.00GBP|9771751458006-02|Pocket Revolution supplement &vert; Retro Revolution supplement
+1A|![1](nrev/01A.png)||2006-xx-xx|4.00GBP|9771751458006-01|![1](nrev/01e.png) ![1](nrev/01e2.png)<br>Pocket Revolution supplement &vert; Retro Revolution supplement
+2|![2](nrev/02.png)||2006-10-19|4.00GBP|9771751458006-02|![2](nrev/02e.png) ![2](nrev/02e2.png)<br>Pocket Revolution supplement &vert; Retro Revolution supplement
 3|![3](nrev/03.png)||2006-11-16|4.00GBP|9771751458006-03|Pocket Revolution supplement &vert; Retro Revolution supplement
 4|![4](nrev/04.png)||2006-12-14|4.00GBP|9771751458006-04|Pocket Revolution supplement &vert; Retro Revolution supplement
 5|![5](nrev/05.png)||2007-01-11|4.00GBP|9771751458006-05|![5](nrev/05e.png) ![5](nrev/05e2.png)<br>Pocket Revolution supplement &vert; Retro Revolution supplement

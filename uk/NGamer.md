@@ -16,21 +16,21 @@ Related | _[NGC Magazine](N64%20Magazine.md)_ (previous)
 
 Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | Extras
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
-1|![1](ngamer/01.png)||August 2006|2006-xx-xx|4.99GBP|9771751391006-07|DVD
-2|![2](ngamer/02.png)||Oct 2006|2006-09-06|4.99GBP|9771751391006-09|DVD
+1|![1](ngamer/01.png)||August 2006|2006-xx-xx|4.99GBP|9771751391006-07|DVD video
+2|![2](ngamer/02.png)||Oct 2006|2006-09-06|4.99GBP|9771751391006-09|DVD video
 3|![3](ngamer/03.png)||Nov 2006|2006-10-11|4.99GBP|9771751391006-10|
 4|![4](ngamer/04.png)||Dec 2006|2006-11-08|4.99GBP|9771751391006-11|
 5|![5](ngamer/05.png)||Jan 2007|2006-12-06|4.99GBP|9771751391006-01|
 6|![6](ngamer/06.png)||Feb 2007|2007-01-03|4.99GBP|9771751391006-02|
 7|![7](ngamer/07.png)||Mar 2007|2007-01-31|4.99GBP|9771751391006-03|
 8|![8](ngamer/08.png)||April 2007|2007-02-28|4.99GBP|9771751391006-04|
-9|![9](ngamer/09.png)||May 2007|2007-03-28|4.99GBP|9771751391006-05|DVD &vert; Card &vert; Tips book
-10|![10](ngamer/10.png)||June 2007|2007-04-25|4.99GBP|9771751391006-06|DVD
-11|![11](ngamer/11.png)||July 2007|2007-05-23|4.99GBP|9771751391006-07|DVD
-12|![12](ngamer/12.png)||August 2007|2007-06-20|4.99GBP|9771751391006-08|DVD &vert; Tips book
-13|![13](ngamer/13.png)||September 2007|2007-07-18|4.99GBP|9771751391006-09|DVD &vert; Poster
-14|![14](ngamer/14.png)||October 2007|2007-08-15|4.99GBP|9771751391006-10|DVD &vert; Poster
-15|![15](ngamer/15.png)||November 2007|2007-09-12|4.99GBP|9771751391006-11|DVD
+9|![9](ngamer/09.png)||May 2007|2007-03-28|4.99GBP|9771751391006-05|DVD video &vert; Card &vert; Tips book
+10|![10](ngamer/10.png)||June 2007|2007-04-25|4.99GBP|9771751391006-06|DVD video
+11|![11](ngamer/11.png)||July 2007|2007-05-23|4.99GBP|9771751391006-07|DVD video
+12|![12](ngamer/12.png)||August 2007|2007-06-20|4.99GBP|9771751391006-08|DVD video &vert; Tips book
+13|![13](ngamer/13.png)||September 2007|2007-07-18|4.99GBP|9771751391006-09|DVD video &vert; Poster
+14|![14](ngamer/14.png)||October 2007|2007-08-15|4.99GBP|9771751391006-10|DVD video &vert; Poster
+15|![15](ngamer/15.png)||November 2007|2007-09-12|4.99GBP|9771751391006-11|DVD video
 16|![16](ngamer/16.png)||December 2007|2007-10-10|4.99GBP|9771751391006-12|Wii customisation kit &vert; Book &vert; 8 postcards
 16A|![16](ngamer/16A.png)||December 2007|2007-10-10|4.99GBP|9771751391006-12|Wii customisation kit &vert; Book &vert; 8 postcards
 16B|![16](ngamer/16B.png)||December 2007|2007-10-10|4.99GBP|9771751391006-12|Wii customisation kit &vert; Book &vert; 8 postcards

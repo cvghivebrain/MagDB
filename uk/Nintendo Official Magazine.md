@@ -18,8 +18,8 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 ----- | ---------------- | ---- | ---------- | ----------- | ----- | ------- | ------
 1|![1](nom/001.png)|[🔗][1]|Oct|1992-xx-xx|1.95GBP|9770965424005-10|Poster
 2|![2](nom/002.png)|[🔗][2]|Nov|1992-xx-xx|2.50GBP|9770965424999-11|T-shirt transfer
-3|![3](nom/003.png)|[🔗][3]|Dec|1992-10-19|3.95GBP|9770965424982-12|VHS cassette
-4|![4](nom/004.png)|[🔗][4]|Jan|1992-12-19|2.95GBP|9770965424975-01|Audio CD
+3|![3](nom/003.png)|[🔗][3]|Dec|1992-10-19|3.95GBP|9770965424982-12|![3](nom/003e.png)<br>Street Fighter II VHS cassette [🔗][3e]
+4|![4](nom/004.png)|[🔗][4]|Jan|1992-12-19|2.95GBP|9770965424975-01|![4](nom/004e.png)<br>Street Fighter II audio CD
 5|![5](nom/005.png)|[🔗][5]|Feb|1993-xx-xx|1.95GBP|9770965424005-02|Wallplanner
 6|![6](nom/006.png)|[🔗][6]|Mar|1993-xx-xx|1.95GBP|9770965424005-03|
 7|![7](nom/007.png)|[🔗][7]|Apr|1993-02-20|1.95GBP|9770965424005-04|Poster
@@ -29,7 +29,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 11|![11](nom/011.png)|[🔗][11]|Aug|1993-xx-xx|1.95GBP|9770965424005-08|
 12|![12](nom/012.png)|[🔗][12]|Sept|1993-xx-xx|1.95GBP|9770965424005-09|Poster
 13|![13](nom/013.png)|[🔗][13]|Oct|1993-xx-xx|2.45GBP|9770965424999-10|Poster
-14|![14](nom/014.png)|[🔗][14]|Nov|1993-09-18|2.25GBP|9770965424012-11|NatWest flyer
+14|![14](nom/014.png)|[🔗][14]|Nov|1993-09-18|2.25GBP|9770965424012-11|![14](nom/014e.png)<br>NatWest flyer
 15|![15](nom/015.png)|[🔗][15]|Dec|1993-11-19|2.25GBP|9770965424012-12|
 16|![16](nom/016.png)|[🔗][16]|Jan|1993-12-19|2.25GBP|9770965424012-01|
 17|![17](nom/017.png)|[🔗][17]|Feb|1994-01-19|2.25GBP|9770965424012-02|
@@ -42,16 +42,16 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 24|![24](nom/024.png)|[🔗][24]|Sept|1994-08-19|2.25GBP|9770965424012-09|
 25|![25](nom/025.png)|[🔗][25]|Oct|1994-09-19|2.25GBP|9770965424012-10|Poster
 26|![26](nom/026.png)|[🔗][26]|Nov|1994-10-19|2.45GBP|9770965424029-11|
-27|![27](nom/027.png)|[🔗][27]|Dec|1994-11-19|2.45GBP|9770965424029-12|Book
+27|![27](nom/027.png)|[🔗][27]|Dec|1994-11-19|2.45GBP|9770965424029-12|![27](nom/027e.png)<br>The Incredible NMS Review Guide of the Year book [🔗][27e]
 28|![28](nom/028.png)|[🔗][28]|Jan|1994-12-19|2.45GBP|9770965424029-01|Guide book &vert; Magnet
 29|![29](nom/029.png)|[🔗][29]|Feb|1995-01-19|2.45GBP|9770965424029-02|Poster
 30|![30](nom/030.png)|[🔗][30]|Mar|1995-02-19|2.45GBP|9770965424029-03|Sports supplement
 31|![31](nom/031.png)|[🔗][31]|Apr|1995-03-19|2.45GBP|9770965424029-04|
 32|![32](nom/032.png)|[🔗][32]|May|1995-04-19|2.45GBP|9770965424029-05|
 33|![33](nom/033.png)|[🔗][33]|June|1995-05-19|2.45GBP|9770965424029-06|
-34|![34](nom/034.png)|[🔗][34]|July|1995-xx-xx|2.45GBP|9770965424029-07|
+34|![34](nom/034.png)|[🔗][34]|July|1995-xx-xx|2.45GBP|9770965424029-07|![34](nom/034e.png)<br>Donkey Kong Land booklet [🔗][34e]
 35|![35](nom/035.png)|[🔗][35]|Aug|1995-07-21|2.45GBP|9770965424029-08|
-36|![36](nom/036.png)|[🔗][36]|Sept|1995-08-18|2.45GBP|9770965424029-09|Book
+36|![36](nom/036.png)|[🔗][36]|Sept|1995-08-18|2.45GBP|9770965424029-09|![36](nom/036e.png)<br>Killer Instinct booklet [🔗][36e]
 37|![37](nom/037.png)|[🔗][37]|Oct|1995-09-19|2.45GBP|9770965424036-10|
 38|![38](nom/038.png)|[🔗][38]|Nov|1995-10-19|2.65GBP|9770965424043-11|
 39|![39](nom/039.png)|[🔗][39]|Dec|1995-11-17|2.65GBP|9770965424043-12|Killer Instinct cards
@@ -69,10 +69,10 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 51|![51](nom/051.png)|[🔗][51]|Dec|1996-11-13|2.75GBP|9770965424050-12|
 52|![52](nom/052.png)|[🔗][52]|Jan|1996-12-12|2.75GBP|9770965424050-01|
 53|![53](nom/053.png)|[🔗][53]|Feb|1997-01-15|2.75GBP|9770965424050-02|
-54|![54](nom/054.png)|[🔗][54]|March '97|1997-02-19|2.50GBP|9770965424067-03|Tips book &vert; Poster
-55|![55](nom/055.png)|[🔗][55]|April '97|1997-xx-xx|2.50GBP|9770965424067-04|Tips book
-56|![56](nom/056.png)|[🔗][56]|May '97|1997-xx-xx|2.50GBP|9770965424067-05|Tips book
-57|![57](nom/057.png)|[🔗][57]|June '97|1997-xx-xx|2.50GBP|9770965424067-06|Tips book
+54|![54](nom/054.png)|[🔗][54]|March '97|1997-02-19|2.50GBP|9770965424067-03|![54](nom/054e.png)<br>Super Mario 64 guide book [🔗][54e] &vert; Poster
+55|![55](nom/055.png)|[🔗][55]|April '97|1997-xx-xx|2.50GBP|9770965424067-04|![55](nom/055e.png)<br>Shadows of the Empire guide book [🔗][55e]
+56|![56](nom/056.png)|[🔗][56]|May '97|1997-xx-xx|2.50GBP|9770965424067-05|![56](nom/056e.png)<br>Turok guide book [🔗][56e]
+57|![57](nom/057.png)|[🔗][57]|June '97|1997-xx-xx|2.50GBP|9770965424067-06|![57](nom/057e.png)<br>ISS64 guide book [🔗][57e]
 58|![58](nom/058.png)|[🔗][58]|July '97|1997-xx-xx|2.50GBP|9770965424067-07|Tips book
 59|![59](nom/059.png)|[🔗][59]|Aug '97|1997-07-19|2.50GBP|9770965424067-08|Tips book
 60|![60](nom/060.png)|[🔗][60]|Sept '97|1997-08-23|2.50GBP|9770965424067-09|Tips book
@@ -106,28 +106,28 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 88|![88](nom/088.png)|[🔗][88]|January 2000|1999-12-10|2.95GBP|9770965424074-01|
 89|![89](nom/089.png)|[🔗][89]|February 2000|2000-01-14|2.95GBP|9770965424074-02|
 90|![90](nom/090.png)|[🔗][90]|March 2000|2000-02-18|2.95GBP|9770965424074-03|Pokémon stickers
-91|![91](nom/091.png)|[🔗][91]|April|2000-03-17|2.95GBP|9770965424074-04|Game Boy Official Magazine
-92|![92](nom/092.png)|[🔗][92]|May|2000-04-14|2.95GBP|9770965424074-05|Game Boy Official Magazine &vert; Pokémon Stadium supplement
-93|![93](nom/093.png)|[🔗][93]|June|2000-05-19|2.95GBP|9770965424074-06|Game Boy Official Magazine
-94|![94](nom/094.png)|[🔗][94]|July|2000-06-16|2.95GBP|9770965424074-07|Game Boy Official Magazine
-95|![95](nom/095.png)|[🔗][95]|August|2000-07-14|2.95GBP|9770965424074-08|
-96|![96](nom/096.png)|[🔗][96]|September|2000-08-11|2.95GBP|9770965424074-09|Game Boy Official Magazine
+91|![91](nom/091.png)|[🔗][91]|April|2000-03-17|2.95GBP|9770965424074-04|![91](nom/091e.png)<br>Game Boy Official Magazine [🔗][91e]
+92|![92](nom/092.png)|[🔗][92]|May|2000-04-14|2.95GBP|9770965424074-05|![92](nom/092e.png) ![92](nom/092e2.png)<br>Game Boy Official Magazine &vert; Pokémon Stadium supplement
+93|![93](nom/093.png)|[🔗][93]|June|2000-05-19|2.95GBP|9770965424074-06|![93](nom/093e.png)<br>Game Boy Official Magazine
+94|![94](nom/094.png)|[🔗][94]|July|2000-06-16|2.95GBP|9770965424074-07|![94](nom/094e.png)<br>Game Boy Official Magazine [🔗][94e]
+95|![95](nom/095.png)|[🔗][95]|August|2000-07-14|2.95GBP|9770965424074-08|Pokémon cards
+96|![96](nom/096.png)|[🔗][96]|September|2000-08-11|2.95GBP|9770965424074-09|![96](nom/096e.png)<br>Game Boy Official Magazine [🔗][96e]
 97|![97](nom/097.png)|[🔗][97]|October|2000-09-08|2.95GBP|9770965424074-10|Game Boy Official Magazine
 98|![98](nom/098.png)|[🔗][98]|November|2000-10-08|2.95GBP|9770965424074-11|Game Boy Official Magazine
-99|![99](nom/099.png)|[🔗][99]|December|2000-11-10|2.95GBP|9770965424074-12|Game Boy Official Magazine
-100|![100](nom/100.png)|[🔗][100]|January|2000-12-08|2.95GBP|9770965424074-01|Game Boy Official Magazine
-101|![101](nom/101.png)|[🔗][101]|February|2001-01-12|2.95GBP|9770965424074-02|Game Boy Official Magazine
-102|![102](nom/102.png)|[🔗][102]|March|2001-02-09|2.95GBP|9770965424074-03|Game Boy Official Magazine
-103|![103](nom/103.png)|[🔗][103]|April|2001-03-09|2.99GBP|9770965424081-04|Game Boy Official Magazine
-104|![104](nom/104.png)|[🔗][104]|May|2001-04-12|2.99GBP|9770965424081-05|Game Boy Official Magazine
-105|![105](nom/105.png)|[🔗][105]|June|2001-05-11|2.99GBP|9770965424081-06|Game Boy Official Magazine
-106|![106](nom/106.png)|[🔗][106]|July|2001-06-08|2.99GBP|9770965424081-07|Game Boy Official Magazine
+99|![99](nom/099.png)|[🔗][99]|December|2000-11-10|2.95GBP|9770965424074-12|![99](nom/099e.png)<br>Game Boy Official Magazine
+100|![100](nom/100.png)|[🔗][100]|January|2000-12-08|2.95GBP|9770965424074-01|![100](nom/100e.png)<br>Game Boy Official Magazine [🔗][100e]
+101|![101](nom/101.png)|[🔗][101]|February|2001-01-12|2.95GBP|9770965424074-02|![101](nom/101e.png)<br>Game Boy Official Magazine [🔗][101e]
+102|![102](nom/102.png)|[🔗][102]|March|2001-02-09|2.95GBP|9770965424074-03|![102](nom/102e.png)<br>Game Boy Official Magazine [🔗][102e]
+103|![103](nom/103.png)|[🔗][103]|April|2001-03-09|2.99GBP|9770965424081-04|![103](nom/103e.png)<br>Game Boy Official Magazine [🔗][103e]
+104|![104](nom/104.png)|[🔗][104]|May|2001-04-12|2.99GBP|9770965424081-05|![104](nom/104e.png)<br>Game Boy Official Magazine [🔗][104e]
+105|![105](nom/105.png)|[🔗][105]|June|2001-05-11|2.99GBP|9770965424081-06|![105](nom/105e.png)<br>Game Boy Official Magazine [🔗][105e]
+106|![106](nom/106.png)|[🔗][106]|July|2001-06-08|2.99GBP|9770965424081-07|![106](nom/106e.png)<br>Game Boy Official Magazine
 107|![107](nom/107.png)|[🔗][107]|August|2001-07-13|2.99GBP|9770965424081-08|Game Boy Official Magazine
-108|![108](nom/108.png)|[🔗][108]|September|2001-08-10|2.99GBP|9770965424081-09|Game Boy Official Magazine
-109|![109](nom/109.png)|[🔗][109]|October|2001-09-14|2.99GBP|9770965424081-10|Game Boy Official Magazine
-110|![110](nom/110.png)|[🔗][110]|November|2001-10-12|2.99GBP|9770965424081-11|Game Boy Official Magazine
-111|![111](nom/111.png)|[🔗][111]|December|2001-11-09|2.99GBP|9770965424081-12|Game Boy Official Magazine
-112|![112](nom/112.png)|[🔗][112]|January|2001-12-14|2.99GBP|9770965424081-01|Game Boy Official Magazine
+108|![108](nom/108.png)|[🔗][108]|September|2001-08-10|2.99GBP|9770965424081-09|![108](nom/108e.png)<br>Game Boy Official Magazine [🔗][108e]
+109|![109](nom/109.png)|[🔗][109]|October|2001-09-14|2.99GBP|9770965424081-10|![109](nom/109e.png)<br>Game Boy Official Magazine [🔗][109e]
+110|![110](nom/110.png)|[🔗][110]|November|2001-10-12|2.99GBP|9770965424081-11|![110](nom/110e.png)<br>Game Boy Official Magazine [🔗][110e]
+111|![111](nom/111.png)|[🔗][111]|December|2001-11-09|2.99GBP|9770965424081-12|![111](nom/111e.png)<br>Game Boy Official Magazine [🔗][111e]
+112|![112](nom/112.png)|[🔗][112]|January|2001-12-14|2.99GBP|9770965424081-01|![112](nom/112e.png)<br>Game Boy Official Magazine [🔗][112e]
 113|![113](nom/113.png)|[🔗][113]|February|2002-01-15|2.99GBP|9770965424081-02|
 114|![114](nom/114.png)|[🔗][114]|March|2002-02-11|2.99GBP|9770965424081-03|
 115|![115](nom/115.png)|[🔗][115]|April|2002-03-15|2.99GBP|9770965424081-04|
@@ -180,6 +180,18 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 161|![161](nom/161.png)|[🔗][161]|January 2006|2005-12-16|3.99GBP|9770965424128-01|Calendar
 162|![162](nom/162.png)|[🔗][162]|February 2006|2006-01-13|3.99GBP|9770965424128-02|Game Boy Micro pouch 
 
+[1]: https://archive.org/details/nintendo-magazine-system-1
+[2]: https://archive.org/details/nintendo-magazine-system-2
+[3]: https://archive.org/details/nintendo-magazine-system-3
+[4]: https://archive.org/details/nintendo-magazine-system-4
+[5]: https://archive.org/details/nintendo-magazine-system-5
+[6]: https://archive.org/details/nintendo-magazine-system-6
+[7]: https://archive.org/details/nintendo-magazine-system-7
+[8]: https://archive.org/details/nintendo-magazine-system-8
+[9]: https://archive.org/details/nintendo-magazine-system-9
+[10]: https://archive.org/details/nintendo-magazine-system-10
+[11]: https://archive.org/details/nintendo-magazine-system-11
+[12]: https://archive.org/details/nintendo-magazine-system-12
 [13]: https://archive.org/details/nintendo-magazine-system-uk-13-october-1993
 [14]: https://archive.org/details/nms-14
 [15]: https://archive.org/details/nintendo-magazine-system-uk-15-december-1993
@@ -329,3 +341,30 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 [160]: https://archive.org/details/nom160
 [161]: https://archive.org/details/nom161
 [162]: https://archive.org/details/nom162
+
+[3e]: https://archive.org/details/NintendoStreetFightPlayersGuideVHSmpg
+[27e]: https://archive.org/details/nms-supplement-review-guide
+[34e]: https://archive.org/details/nintendo-magazine-system-donkey-kong-land-booklet
+[36e]: https://archive.org/details/killer-instinct-booklet-nintendo-magazine-system
+[54e]: https://archive.org/details/mario-64-guide
+[55e]: https://archive.org/details/nintendo-magazine-shadows-of-the-empire-the-essential-players-guide
+[56e]: https://archive.org/details/turok_20200919
+[57e]: https://archive.org/details/nintendo-magazine-international-superstar-soccer-64-the-essential-coaches-manual
+[91e]: https://archive.org/details/nom-91-game-boy-official-magazine-april-2000_202207
+[94e]: https://archive.org/details/game-boy-official-magazine-1
+[96e]: https://archive.org/details/game-boy-official-magazine-5
+[100e]: https://archive.org/details/game-boy-official-magazine-2
+[101e]: https://archive.org/details/game-boy-official-magazine-3
+[102e]: https://archive.org/details/game-boy-official-magazine-8
+[103e]: https://archive.org/details/game-boy-official-magazine-6
+[104e]: https://archive.org/details/game-boy-official-magazine-7
+[105e]: https://archive.org/details/game-boy-official-magazine-9
+[108e]: https://archive.org/details/nom-108-game-boy-official-magazine-september-2001-pa
+[109e]: https://archive.org/details/GameBoyOfficialMagazine2001October
+[110e]: https://archive.org/details/nom-110-game-boy-official-magazine-november-2001-pa
+[111e]: https://archive.org/details/nom-111-gameboy-official-magazine-december-2001-pa
+[112e]: https://archive.org/details/nom-112-game-boy-official-magazine-january-2002-pa
+
+[?]: https://archive.org/details/nintendo-official-magazine-smash-n-grab
+[??]: https://archive.org/details/nintendo-official-magazine-nintendo-64-the-guide
+[???]: https://archive.org/details/game-boy-official-magazine-4

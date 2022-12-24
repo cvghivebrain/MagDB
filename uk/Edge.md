@@ -7,8 +7,8 @@ Publisher | Future Publishing
 Country | United Kingdom
 Language | English
 Topic | Video games
-Years | 1993 &mdash; 2022 (ongoing)
-Issues | 373
+Years | 1993 &mdash; 2023 (ongoing)
+Issues | 379
 Frequency | Monthly
 ISSN | 1350-1593
 Website | [edge-online.com][web] &vert; [gamesradar.com/edge][web2]
@@ -64,21 +64,21 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 46|![46](edge/046.png)||June 1997|1997-05-29|3.50GBP|9771350159014-06|
 47|![47](edge/047.png)||July 1997|1997-06-25|3.50GBP|9771350159014-07|CD-ROM
 48|![48](edge/048.png)||August 1997|1997-07-22|3.50GBP|9771350159014-08|
-49|![49](edge/049.png)||September 1997|1997-08-18[1]|3.50GBP|9771350159014-09|
-50|![50](edge/050.png)||October 1997|1997-09-12|3.50GBP|9771350159014-10|CD-ROM &vert; Cover sleeve
-51|![51](edge/051.png)||November 1997|1997-10-08[2]|3.50GBP|9771350159014-11|
+49|![49](edge/049.png)||September 1997|1997-08-18|3.50GBP|9771350159014-09|
+50|![50](edge/050.png)||October 1997|1997-09-12|3.50GBP|9771350159014-10|![50](edge/050s.png)<br>CD-ROM &vert; Cover sleeve
+51|![51](edge/051.png)||November 1997|1997-10-08|3.50GBP|9771350159014-11|
 52|![52](edge/052.png)||December 1997|1997-11-03|3.50GBP|9771350159014-12|CD-ROM
 53|![53](edge/053.png)||Christmas 1997|1997-11-27|3.50GBP|9771350159014-13|
 54|![54](edge/054.png)||January 1998|1997-12-23|3.50GBP|9771350159014-01|CD-ROM
 55|![55](edge/055.png)||February 1998|1998-01-27|3.50GBP|9771350159014-02|
 56|![56](edge/056.png)||March 1998|1998-02-24|3.50GBP|9771350159014-03|
 57|![57](edge/057.png)||April 1998|1998-03-25|3.50GBP|9771350159014-04|
-58|![58](edge/058.png)||May 1998|1998-04-23[3]|3.50GBP|9771350159014-05|
+58|![58](edge/058.png)||May 1998|1998-04-23|3.50GBP|9771350159014-05|
 59|![59](edge/059.png)||June 1998|1998-05-21|3.50GBP|9771350159014-06|
 60|![60](edge/060.png)||July 1998|1998-06-18|3.50GBP|9771350159014-07|
 61|![61](edge/061.png)||August 1998|1998-07-17|3.50GBP|9771350159014-08|
 62|![62](edge/062.png)||September 1998|1998-08-11|3.50GBP|9771350159014-09|
-63|![63](edge/063.png)||October 1998|1998-09-08[4]|3.50GBP|9771350159014-10|
+63|![63](edge/063.png)||October 1998|1998-09-08|3.50GBP|9771350159014-10|
 64|![64](edge/064.png)||November 1998|1998-10-05|3.50GBP|9771350159014-11|
 65|![65](edge/065.png)||December 1998|1998-10-30|3.50GBP|9771350159014-12|
 66|![66](edge/066.png)||Christmas 1998|1998-11-26|3.50GBP|9771350159014-13|
@@ -121,7 +121,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 101|![101](edge/101.png)||September 2001|2001-08-09|4.00GBP|9771350159991-09|
 102|![102](edge/102.png)||October 2001|2001-09-06|3.80GBP|9771350159021-10|
 103|![103](edge/103.png)||November 2001|2001-10-08|3.80GBP|9771350159021-11|
-104|![104](edge/104.png)||December 2001|2001-11-02[5]|3.80GBP|9771350159021-12|
+104|![104](edge/104.png)||December 2001|2001-11-02|3.80GBP|9771350159021-12|
 105|![105](edge/105.png)||Christmas 2001|2001-11-29|3.80GBP|9771350159021-13|
 106|![106](edge/106.png)||January 2002|2001-12-29|3.80GBP|9771350159021-01|
 107|![107](edge/107.png)||February 2002|2002-01-31|3.80GBP|9771350159021-02|
@@ -482,7 +482,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 248|![248](edge/248.png)||Christmas 2012|2012-xx-xx|5.00GBP||
 248A|![248](edge/248A.png)||Christmas 2012|2012-xx-xx|5.00GBP||
 249|![249](edge/249.png)||January 2013|201x-xx-xx|5.00GBP||
-249A|![249](edge/249A.png)||January 2013|201x-xx-xx|5.00GBP||
+249A|![249](edge/249A.png)||January 2013|201x-xx-xx|5.00GBP|9771350159052-01|
 250|![250](edge/250.png)||February 2013|2013-xx-xx|5.00GBP|9771350159052-02|
 251|![251](edge/251.png)||March 2013|2013-xx-xx|5.00GBP|9771350159052-03|
 252|![252](edge/252.png)||April 2013|2013-xx-xx|5.00GBP|9771350159052-04|
@@ -543,14 +543,14 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 284B|![284](edge/284B.png)||October 2015|2015-xx-xx|5.50GBP|9771350159069-10|
 285|![285](edge/285.png)||November 2015|2015-xx-xx|5.50GBP||
 285A|![285](edge/285A.png)||November 2015|2015-xx-xx|5.50GBP||
-286|![286](edge/286.png)||December 2015|2015-xx-xx|||
-286A|![286](edge/286A.png)||December 2015|2015-xx-xx|||
+286|![286](edge/286.png)||December 2015|2015-xx-xx|5.50GBP||
+286A|![286](edge/286A.png)||December 2015|2015-xx-xx|5.50GBP||
 287|![287](edge/287.png)||Christmas 2015|2015-11-19|5.50GBP||
 287A|![287](edge/287A.png)||Christmas 2015|2015-11-19|5.50GBP||
 288|![288](edge/288.png)||January 2016|201x-xx-xx|||
 288A|![288](edge/288A.png)||January 2016|201x-xx-xx|||
-289|![289](edge/289.png)||February 2016|2016-xx-xx|||
-289A|![289](edge/289A.png)||February 2016|2016-xx-xx|||
+289|![289](edge/289.png)||February 2016|2016-xx-xx|5.50GBP|9771350159069-02|
+289A|![289](edge/289A.png)||February 2016|2016-xx-xx|5.50GBP||
 290|![290](edge/290.png)||March 2016|2016-xx-xx|||
 290A|![290](edge/290A.png)||March 2016|2016-xx-xx|||
 291|![291](edge/291.png)||April 2016|2016-xx-xx|||
@@ -563,15 +563,15 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 294A|![294](edge/294A.png)||July 2016|2016-xx-xx|5.50GBP||
 295|![295](edge/295.png)||August 2016|2016-xx-xx|||
 295A|![295](edge/295A.png)||August 2016|2016-xx-xx|||
-296|![296](edge/296.png)||September 2016|2016-xx-xx|||
-296A|![296](edge/296A.png)||September 2016|2016-xx-xx|||
+296|![296](edge/296.png)||September 2016|2016-xx-xx|5.50GBP|9771350159069-09|
+296A|![296](edge/296A.png)||September 2016|2016-xx-xx|5.50GBP||
 297|![297](edge/297.png)||October 2016|2016-xx-xx|5.50GBP|9771350159069-10|
 297A|![297](edge/297A.png)||October 2016|2016-xx-xx|5.50GBP||
 298|![298](edge/298.png)||November 2016|2016-xx-xx|5.50GBP|9771350159069-11|
 298A|![298](edge/298A.png)||November 2016|2016-xx-xx|5.50GBP||
 299|![299](edge/299.png)||December 2016|2016-xx-xx|||
 299A|![299](edge/299A.png)||December 2016|2016-xx-xx|||
-300|![300](edge/300.png)||Christmas 2016|201x-xx-xx|5.50GBP|9771350159069-32|Poster
+300|![300](edge/300.png)||Christmas 2016|201x-xx-xx|5.50GBP|9771350159069-32|![300](edge/300s.png) ![300](edge/300e.png)<br>Poster &vert; Cover sleeve
 301|![301](edge/301.png)||January 2017|201x-xx-xx|5.50GBP|9771350159069-01|
 301A|![301](edge/301A.png)||January 2017|201x-xx-xx|5.50GBP||
 302|![302](edge/302.png)||February 2017|2017-xx-xx|5.50GBP|9771350159069-02|
@@ -650,7 +650,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 327G|![327](edge/327G.png)||January 2019|201x-xx-xx|6.50GBP||
 328|![328](edge/328.png)||February 2019|2019-xx-xx|6.00GBP||
 328A|![328](edge/328A.png)||February 2019|2019-xx-xx|6.00GBP||
-329|![329](edge/329.png)||March 2019|2019-xx-xx|6.00GBP||
+329|![329](edge/329.png)||March 2019|2019-xx-xx|6.00GBP|9771350159076-03|
 329A|![329](edge/329A.png)||March 2019|2019-xx-xx|6.00GBP|9771350159076-03|
 330|![330](edge/330.png)||April 2019|2019-xx-xx|6.00GBP|9771350159076-04|
 330A|![330](edge/330A.png)||April 2019|2019-xx-xx|6.00GBP||
@@ -739,6 +739,24 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 371A|![371](edge/371A.png)||June 2022|2022-04-21|6.50GBP||
 372|![372](edge/372.png)||July 2022|2022-05-19|6.50GBP|9771350159090-07|
 373|![373](edge/373.png)||August 2022|2022-06-16|6.50GBP|9771350159090-08|
+374|![374](edge/374.png)||September 2022|2022-xx-xx|6.50GBP||
+374A|![374](edge/374A.png)||September 2022|2022-xx-xx|6.50GBP||
+375|![375](edge/375.png)||October 2022|2022-xx-xx|6.50GBP|9771350159090-10|
+375A|![375](edge/375A.png)||October 2022|2022-xx-xx|6.50GBP||
+376|![376](edge/376.png)||November 2022|2022-xx-xx|6.50GBP|9771350159090-11|
+376A|![376](edge/376A.png)||November 2022|2022-xx-xx|6.50GBP||
+377|![377](edge/377.png)||December 2022|2022-xx-xx|6.50GBP|9771350159090-12|
+377A|![377](edge/377A.png)||December 2022|2022-xx-xx|6.50GBP||
+378|![378](edge/378.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
+378A|![378](edge/378A.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
+378B|![378](edge/378B.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
+378C|![378](edge/378C.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
+378D|![378](edge/378D.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
+378E|![378](edge/378E.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
+378F|![378](edge/378F.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
+378G|![378](edge/378G.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
+379|![379](edge/379.png)||January 2023|2022-xx-xx|6.50GBP|9771350159090-01|
+379A|![379](edge/379A.png)||January 2023|2022-xx-xx|6.50GBP||
 
 [web]: https://web.archive.org/web/20000511034338/http://www.edge-online.com/
 [web2]: https://web.archive.org/web/20150227001904/http://www.gamesradar.com/edge/

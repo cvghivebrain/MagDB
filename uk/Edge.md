@@ -65,7 +65,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 47|![47](edge/047.png)||July 1997|1997-06-25|3.50GBP|9771350159014-07|CD-ROM
 48|![48](edge/048.png)||August 1997|1997-07-22|3.50GBP|9771350159014-08|
 49|![49](edge/049.png)||September 1997|1997-08-18|3.50GBP|9771350159014-09|
-50|![50](edge/050.png)||October 1997|1997-09-12|3.50GBP|9771350159014-10|![50](edge/050s.png)<br>CD-ROM &vert; Cover sleeve
+50|![50](edge/050.png)||October 1997|1997-09-12|3.50GBP|9771350159014-10|![50](edge/050s.png)<br>Cover sleeve &vert; CD-ROM
 51|![51](edge/051.png)||November 1997|1997-10-08|3.50GBP|9771350159014-11|
 52|![52](edge/052.png)||December 1997|1997-11-03|3.50GBP|9771350159014-12|CD-ROM
 53|![53](edge/053.png)||Christmas 1997|1997-11-27|3.50GBP|9771350159014-13|
@@ -571,7 +571,7 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 298A|![298](edge/298A.png)||November 2016|2016-xx-xx|5.50GBP||
 299|![299](edge/299.png)||December 2016|2016-xx-xx|||
 299A|![299](edge/299A.png)||December 2016|2016-xx-xx|||
-300|![300](edge/300.png)||Christmas 2016|201x-xx-xx|5.50GBP|9771350159069-32|![300](edge/300s.png) ![300](edge/300e.png)<br>Poster &vert; Cover sleeve
+300|![300](edge/300.png)||Christmas 2016|201x-xx-xx|5.50GBP|9771350159069-32|![300](edge/300s.png) ![300](edge/300e.png)<br>Cover sleeve &vert; Poster
 301|![301](edge/301.png)||January 2017|201x-xx-xx|5.50GBP|9771350159069-01|
 301A|![301](edge/301A.png)||January 2017|201x-xx-xx|5.50GBP||
 302|![302](edge/302.png)||February 2017|2017-xx-xx|5.50GBP|9771350159069-02|
@@ -747,14 +747,14 @@ Issue | Front&nbsp;cover | Full | Cover date | Actual date | Price | Barcode | E
 376A|![376](edge/376A.png)||November 2022|2022-xx-xx|6.50GBP||
 377|![377](edge/377.png)||December 2022|2022-xx-xx|6.50GBP|9771350159090-12|
 377A|![377](edge/377A.png)||December 2022|2022-xx-xx|6.50GBP||
-378|![378](edge/378.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
-378A|![378](edge/378A.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
-378B|![378](edge/378B.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
-378C|![378](edge/378C.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
-378D|![378](edge/378D.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
-378E|![378](edge/378E.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
-378F|![378](edge/378F.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
-378G|![378](edge/378G.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Calendar &vert; Cover sleeve
+378|![378](edge/378.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Cover sleeve &vert; Calendar
+378A|![378](edge/378A.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Cover sleeve &vert; Calendar
+378B|![378](edge/378B.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Cover sleeve &vert; Calendar
+378C|![378](edge/378C.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Cover sleeve &vert; Calendar
+378D|![378](edge/378D.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Cover sleeve &vert; Calendar
+378E|![378](edge/378E.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Cover sleeve &vert; Calendar
+378F|![378](edge/378F.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Cover sleeve &vert; Calendar
+378G|![378](edge/378G.png)||Christmas 2022|2022-xx-xx|7.50GBP|9771350159090-12|![378](edge/378s.png) ![378](edge/378cal.png)<br>Cover sleeve &vert; Calendar
 379|![379](edge/379.png)||January 2023|2022-xx-xx|6.50GBP|9771350159090-01|
 379A|![379](edge/379A.png)||January 2023|2022-xx-xx|6.50GBP||
 

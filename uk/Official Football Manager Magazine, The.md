@@ -7,7 +7,7 @@ Publisher | Future Publishing
 Country | United Kingdom
 Language | English
 Topic | Video games
-Years | 2004
+Years | 2004 &mdash; 2005
 Issues | 4
 Frequency | 
 ISSN | 
